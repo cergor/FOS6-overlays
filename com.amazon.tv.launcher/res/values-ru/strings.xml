@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_audio_described">Звуковые описания</string>
+    <string name="a11y_closed_captioned">Субтитры доступны</string>
+    <string name="a11y_dv">Dolby Vision доступен</string>
+    <string name="a11y_signed_language">Язык</string>
+    <string name="a11y_uhd">Доступно в UHD</string>
+    <string name="a11y_xray">X-ray доступен</string>
+    <string name="achievements_capital">ДОСТИЖЕНИЯ</string>
+    <string name="add_to_watchlist">"Добавить в
+список просмотра"</string>
+    <string name="air_date">Выход в эфир: </string>
+    <string 
+name="air_date_format">d MMMM yyyy</string>
+    <string name="amzn_rating_content_description">%1$.1f из 5 звёзд</string>
+    <string name="amzn_rating_with_count_content_description">%1$.1f из 5 звёзд от %2$d пользователей</string>
+    <string name="app_friends_count_content_description">Друзья %1$s</string>
+    <string name="app_game_controller_content_description">Игровой контроллер %1$s</string>
+    <string name="app_key_network_error">Для некоторых функций может потребоваться войти в учетную запись Amazon и подключить телевизор к сети</string>
+    <string name="app_list_price_content_description">Список цен %1$s</string>
+    <string name="app_our_price_content_description">Наша цена %1$s</string>
+    <string name="app_rating">Рейтинг:</string>
+    <string name="app_release_date">Дата выхода:</string>
+    <string name="app_trophies_count_content_description">Призы %1$s</string>
+    <string name="attention_title">Внимание</string>
+    <string name="audio_format_text">Аудио:</string>
+    <string name="average_out_of_5">Среднее: %1$.1f из 5</string>
+    <string name="badge_livecard_live">LIVE</string>
+    <string name="badge_livecard_new">НОВОЕ</string>
+    <string name="badge_livecard_recording">REC</string>
+    <string name="browse_album_music">"Смотреть
+альбом"</string>
+    <string name="browse_artist_music">"Смотреть
+исполнителя"</string>
+    <string name="cancel">Отмена</string>
+    <string name="cast_detail_screen_orientation">Cast Member Details. Use Left and Right to move between the titles this person appears in. Use Menu and Fast Forward to speak overview content. Use the horizontal list above the row of titles to access other sections such as Trivia and Personal Quotes.</string>
+    <string name="cast_known_for">%s известен…</string>
+    <string name="close_paren">)</string>
+    <string name="closed_captioning">CC</string>
+    <string name="completed_program_event_title">Programme Event Completed</string>
+    <string name="comrade_action_permission_description">Allows comrade-related actions, such as playing a video.</string>
+    <string name="comrade_action_permission_label">Comrade-Related Action Permission</string>
+    <string name="comrade_content_provider_read_permission_description">Allows the ability to read from the comrade content provider.</string>
+    <string name="comrade_content_provider_read_permission_label">Comrade Provider Read</string>
+    <string name="comrade_dialogs_permission_description">Allows launching of comrade-related dialogs, like the purchase options dialog</string>
+    <string name="comrade_dialogs_permission_label">Comrade-related dialogs permission</string>
+    <string name="connectivity_issue">Извините, поиск в данный момент недоступен. Пожалуйста, повторите попытку позже.</string>
+    <string name="content_rating_adults_only">Рейтинг %1$s Только для взрослых</string>
+    <string name="content_rating_not_rated">Без рейтинга</string>
+    <string name="content_rating_rated">Рейтинг %1$s</string>
+    <string name="context_menu_header_loading">ЗАГРУЗКА</string>
+    <string name="context_menu_header_options">ОПЦИИ</string>
+    <string name="context_menu_hint"> Опции</string>
+    <string name="context_menu_icon"></string>
+    <string name="context_menu_option_add_to_favorite">Добавить в любимые</string>
+    <string name="context_menu_option_cancel_recording">Отменить запись</string>
+    <string name="context_menu_option_launch_details_screen">Подробнее</string>
+    <string name="context_menu_option_record_episode_program">Запись</string>
+    <string name="context_menu_option_record_series_program">Запись серии</string>
+    <string name="context_menu_option_recording_options">Параметры записи</string>
+    <string name="context_menu_option_remove_from_favorite">"Удалить
+из любимых"</string>
+    <string name="context_menu_option_show_channel_guide">Телепрограмма</string>
+    <string name="context_menu_option_watch_live_program">Смотреть эфир</string>
+    <string name="customer_reviews">Отзывы пользователей: %1$s</string>
+    <string name="datetime_tweleve_hr">"d MMMM 'в' h:mm a"</string>
+    <string name="datetime_twentyfour_hr">"d MMMM 'в' kk:mm"</string>
+    <string name="detail_banner_owned">Вы получили это видео</string>
+    <string name="detail_biography">Биография:</string>
+    <string name="detail_cast_row_header">%1$s из %2$s</string>
+    <string name="detail_known_for">Известен по:</string>
+    <string name="detail_quotes">Личные цитаты</string>
+    <string name="detail_tab_overview">Обзор</string>
+    <string name="detail_tab_review_date_and_author_format"> От %1$s на %2$s</string>
+    <string name="detail_tab_review_helpfulness_format">%1$d из %2$d человек нашли этот отзыв полезным</string>
+    <string name="detail_trivia">Мелочи</string>
+    <string name="directed_by_cast">Режиссер %s</string>
+    <string name="director_text">Режиссер:</string>
+    <string name="empty_1d_list">Этот список не содержит пунктов</string>
+    <string name="empty_list">Этот список пуст</string>
+    <string name="empty_recents_placeholder">Ваша строка "Последние" пуста</string>
+    <string name="entitled_badge_text">Играть</string>
+    <string name="error_ok">OK</string>
+    <string name="failed_loading">Ваш Fire TV не может подключиться к нашим серверам, поэтому, пожалуйста, попробуйте еще раз. Если проблема не устранена, попробуйте перезагрузить устройство, выбрав «Настройки» > «Мой Fire TV» > «Перезагрузка».</string>
+    <string name="failed_loading_title">%s временно недоступно</string>
+    <string name="far_field_1d_usage_hint_remote_text">Используйте Alexa или ваш пульт, чтобы перемещаться вдоль ряда.</string>
+    <string name="far_field_dense_usage_hint_remote_text">Используйте Alexa или ваш пульт, чтобы выбрать один из двух рядов.</string>
+    <string name="farfield_item_desc">%1$d: %2$s</string>
+    <string name="featured_section_learn_more_text">Смотреть</string>
+    <string name="ff_episode_breadcrumb_label">%1$s - Сезон %2$d</string>
+    <string name="ff_search_breadcrumb_label">&lt;font color=%1$s>%2$s: &lt;/font>&lt;font color=%3$s>%4$s&lt;/font></string>
+    <string name="ff_search_breadcrumb_label_no_title">&lt;font color=%1$s>%2$s&lt;/font></string>
+    <string name="fire_tv_tip_context_menu">Нажмите кнопку меню  на вашем пульте для дополнительных опций для выбранного</string>
+    <string name="fire_tv_tip_title">Советы Fire TV</string>
+    <string name="fire_tv_tip_title_margo">Советы TV</string>
+    <string name="fire_tv_tip_tv_settings">Для быстрого доступа к настройкам телевизора нажмите и удерживайте  в течение 2 секунд.</string>
+    <string name="firetv_does_not_support_uhd">"Your Fire TV does not support 4K Ultra HD video. If you purchase this content it will play back at the next best resolution available. 
+
+Для получения дополнительной информации о воспроизведении 4K Ultra HD посетите %1$s."</string>
+    <string name="firetvstick_does_not_support_uhd">"Your Fire TV Stick does not support 4K Ultra HD video. If you purchase this content it will play back at the next best resolution available. 
+
+Для получения дополнительной информации о воспроизведении 4K Ultra HD посетите %1$s."</string>
+    <string name="friends_capital">FRIENDS</string>
+    <string name="frozen_grid_inputs_header">Входы</string>
+    <string name="frozen_grid_on_now_header">On now</string>
+    <string name="frozen_grid_recent_header">Последние</string>
+    <string name="frozen_grid_yac_header">Ваши приложения и каналы</string>
+    <string name="frozen_registered_header_button">Попробуйте подключиться</string>
+    <string name="frozen_registered_overlay">Ваш телевизор не может подключиться к сервисам Amazon Cloud. Функции, которые требуют подключения к Интернету, были временно отключены.</string>
+    <string name="frozen_unregistered_header_button">OK</string>
+    <string name="frozen_unregistered_overlay">Главный экран Fire TV отключен</string>
+<string name="fsk18_legal_disclaimer">[LOCK] Этот контент требует подтверждения возраста и AV-PIN</string>
+    <string name="future_program_event_title">Будущие события программы</string>
+    <string name="generic_error_title">Ошибка</string>
+    <string name="hint_mic_icon_format"> &lt;i>%1$s&lt;/i></string>
+    <string name="hint_no_mic_icon_format">&lt;i>%1$s&lt;/i></string>
+    <string name="home_your_apps_cloud_badge_content_description">Не загружено</string>
+    <string name="imdb_logo_content_description">IMDb лого</string>
+    <string name="imdb_rating_content_description">Рейтинг IMDB %1$s из 10</string>
+    <string name="invalid_account_settings">Ваш заказ не может быть обработан. Проверьте настройки оплаты в 1 клик, связанные с вашей учетной записью Amazon, на %1$s, а затем повторите попытку.</string>
+    <string name="invalid_geo_credit_card">Ваш заказ не может быть обработан. Перейдите на %1$s, выберите способ оплаты, выданный в вашей стране, и повторите попытку.</string>
+    <string name="invalid_purchase_handler_error">Произошла ошибка, из-за которой ваш заказ не был выполнен.</string>
+    <string name="item_list_1">%1$s</string>
+    <string name="item_list_10">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s, %8$s, %9$s, и %10$s</string>
+    <string name="item_list_11">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s, %8$s, %9$s, %10$s,…</string>
+    <string name="item_list_2">%1$s и %2$s</string>
+    <string name="item_list_3">%1$s, %2$s, и %3$s</string>
+    <string name="item_list_4">%1$s, %2$s, %3$s, и %4$s</string>
+    <string name="item_list_5">%1$s, %2$s, %3$s, %4$s, и %5$s</string>
+    <string name="item_list_6">%1$s, %2$s, %3$s, %4$s, %5$s, и %6$s</string>
+    <string name="item_list_7">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, и %7$s</string>
+    <string name="item_list_8">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s, и %8$s</string>
+    <string name="item_list_9">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s, %8$s, и %9$s</string>
+    <string name="item_zero_purchase_confirmPurchase">Подтвердите покупку</string>
+    <string name="item_zero_purchase_processing">Завершение покупки</string>
+    <string name="key_label_first_back">Отмена</string>
+    <string name="keyboard_form_indicator_content_description">Поле %1$d из %2$d</string>
+    <string name="keyboard_key_action_advanced">Дополнительно</string>
+    <string name="keyboard_key_action_next">Далее</string>
+    <string name="keyboard_key_action_previous">Ранее</string>
+    <string name="keyboard_key_clear_label">Очистить</string>
+    <string name="keyboard_key_convert_label">Преобразовать</string>
+    <string name="keyboard_key_delete_label">Удалить</string>
+    <string name="keyboard_key_hide_num_label">Скрыть цифры</string>
+    <string name="keyboard_key_hide_pin_hint">Нажмите [ICON] чтобы скрыть ПИН</string>
+    <string name="keyboard_key_hide_pwd_label">"Скрыть
+пароль"</string>
+    <string name="keyboard_key_shift_label">Шифт</string>
+    <string name="keyboard_key_show_num_label">Показать цифры</string>
+    <string name="keyboard_key_show_pin_hint">Нажмите [ICON] чтобы показать ПИН</string>
+    <string name="keyboard_key_show_pwd_label">"Показать
+пароль"</string>
+    <string name="keyboard_key_space_label">Пробел</string>
+    <string name="keyboard_page_number_mask">"%1$d  |  %2$d"</string>
+    <string name="keyboard_secret_pin_0_to_4">0–4</string>
+    <string name="keyboard_secret_pin_5_to_9">5–9</string>
+    <string name="keyboard_secret_pin_a11y_five_to_nine">Выбор 5, Вверх 6, Вправо 7, Вниз 8, Влево 9. Для цифр от 0 до 4, нажмите кнопку Меню дважды.</string>
+    <string name="keyboard_secret_pin_a11y_help_zero_to_four">Введите %1$d-значный ПИН используя кнопки со стрелками и кнопку выбора. %2$s Нажмите Перемотка вперед, чтобы скрыть или показать PIN-код. Нажмите Перемотка назад, чтобы удалить цифру. Нажмите Назад, чтобы отменить.</string>
+    <string name="keyboard_secret_pin_a11y_pwd_char">точка</string>
+    <string name="keyboard_secret_pin_a11y_pwd_deleted_hidden">Номер удален</string>
+    <string name="keyboard_secret_pin_a11y_pwd_deleted_shown">%c удален</string>
+    <string name="keyboard_secret_pin_a11y_pwd_eight">Вниз 8</string>
+    <string name="keyboard_secret_pin_a11y_pwd_five">Выбор 5</string>
+    <string name="keyboard_secret_pin_a11y_pwd_four">Влево 4</string>
+    <string name="keyboard_secret_pin_a11y_pwd_input_description_empty">ПИН-код пуст</string>
+    <string name="keyboard_secret_pin_a11y_pwd_input_description_not_empty">ПИН-код установлен на %s</string>
+    <string name="keyboard_secret_pin_a11y_pwd_input_description_shown">ПИН-код показан. %s</string>
+    <string name="keyboard_secret_pin_a11y_pwd_nine">Влево 9</string>
+    <string name="keyboard_secret_pin_a11y_pwd_one">Вверх 1</string>
+    <string name="keyboard_secret_pin_a11y_pwd_seven">Вправо 7</string>
+    <string name="keyboard_secret_pin_a11y_pwd_six">Вверх 6</string>
+    <string name="keyboard_secret_pin_a11y_pwd_three">Вниз 3</string>
+    <string name="keyboard_secret_pin_a11y_pwd_two">Вправо 2</string>
+    <string name="keyboard_secret_pin_a11y_pwd_zero">Выбор 0</string>
+    <string name="keyboard_secret_pin_a11y_zero_to_four">Select is 0, Up is 1, Right is 2, Down is 3, Left is 4. For digits 5 until 9, press the Menu button twice.</string>
+    <string name="keyboard_voice_input_default_hint">Press and hold  to say words and phrases</string>
+    <string name="launch_option">Запустить</string>
+    <string name="launcher_grid_orientation">Content Grid. Moving focus to an item will automatically speak details such as the description and rating after a brief pause. While speaking, you can skip through information using the Fast Forward or Rewind buttons, and stop speech with the Play/Pause button.</string>
+    <string name="launcher_grid_usageHint">Use Up and Down to move between categories such as New Releases or Comedy. Use Left and Right to move between items in the category.</string>
+    <string name="launcher_menu_usageHint">Use Left and Right to move between items.</string>
+    <string name="launcher_remove_from_target_permission_description">Permission to remove from target list</string>
+    <string name="launcher_remove_from_target_permission_label">Remove from target list</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Disable Subtitles</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Enable Subtitles</string>
+    <string name="lb_playback_controls_fast_forward">Fast Forward</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Fast Forward %1$dX</string>
+    <string name="lb_playback_controls_high_quality_disable">Disable High Quality</string>
+    <string name="lb_playback_controls_high_quality_enable">Enable High Quality</string>
+    <string name="lb_playback_controls_more_actions">More Actions</string>
+    <string name="lb_playback_controls_pause">Pause</string>
+    <string name="lb_playback_controls_play">Play</string>
+    <string name="lb_playback_controls_repeat_all">Repeat All</string>
+    <string name="lb_playback_controls_repeat_none">Repeat None</string>
+    <string name="lb_playback_controls_repeat_one">Repeat One</string>
+    <string name="lb_playback_controls_rewind">Rewind</string>
+    <string name="lb_playback_controls_rewind_multiplier">Rewind %1$dX</string>
+    <string name="lb_playback_controls_shuffle_disable">Disable Shuffle</string>
+    <string name="lb_playback_controls_shuffle_enable">Enable Shuffle</string>
+    <string name="lb_playback_controls_skip_next">Skip Next</string>
+    <string name="lb_playback_controls_skip_previous">Skip Previous</string>
+    <string name="lb_playback_controls_thumb_down">Deselect Thumb Down</string>
+    <string name="lb_playback_controls_thumb_down_outline">Select Thumb Down</string>
+    <string name="lb_playback_controls_thumb_up">Deselect Thumb Up</string>
+    <string name="lb_playback_controls_thumb_up_outline">Select Thumb Up</string>
+    <string name="lb_search_bar_hint">Поиск</string>
+    <string name="lb_search_bar_hint_speech">Говорите для поиска</string>
+    <string name="lb_search_bar_hint_with_title">Поиск %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Говорите для поиска %1$s</string>
+    <string name="leaderboards_capital">РЕЙТИНГИ</string>
+    <string name="live_mini_detail_air_date_label">Выход в эфир: </string>
+    <string name="live_mini_detail_airing_time">%1$s - %2$s</string>
+    <string name="live_mini_detail_up_next_label">Следующий: </string>
+    <string name="live_original_air_date">Первый выход в эфир: </string>
+    <string name="loading_activity_error">При загрузке произошла ошибка. Пожалуйста, попробуйте снова. Если проблема не устранена, обратитесь в службу поддержки клиентов, выбрав «Настройки» > «Поддержка» > «Связаться с нами».</string>
+    <string name="loading_activity_error_no_retry">При загрузке произошла ошибка. Если проблема не устранена, обратитесь в службу поддержки клиентов, выбрав «Настройки» > «Поддержка» > «Связаться с нами».</string>
+    <string name="loading_watchlist">Проверка вашего списка просмотра</string>
+    <string name="loading_with_title">Загрузка %s…</string>
+    <string name="loading_without_title">Загрузка…</string>
+    <string name="live_more_info_air_date_format">yyyy</string>
+    <string name="live_more_info_episode_air_date_format">d MMMM yyyy</string>
+    <string name="menu_apps">Приложения</string>
+    <string name="menu_home_2d">Главная</string>
+    <string name="menu_live">DVR</string>
+    <string name="menu_search"></string>
+    <string name="menu_search_content_desc">Поиск</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="mini_detail_known_for">Известный по %s</string>
+    <string name="mini_detail_known_for_constant">Работы:</string>
+    <string name="mini_detail_new_recording_number">(%1$s новых)</string>
+    <string name="mini_detail_season_constant">Сезон %1$d</string>
+    <string name="mini_detail_tv_season_episode_constant">Сезон %1$d, серия %2$d</string>
+    <string name="mini_details_year_range">%1$s - %2$s</string>
+    <string name="more_description">Ещё</string>
+    <string name="more_info">Подробнее</string>
+    <string name="more_ways_to_watch">"Больше способов
+просмотра"</string>
+    <string name="more_with_cast_as_actor">Больше с %s в качестве актера</string>
+    <string name="more_with_cast_as_actress">Больше с %s в качестве актрисы</string>
+    <string name="music_videos_views">Просмотры</string>
+    <string name="music_videos_watch_on_vevo">Смотреть на VeVo</string>
+    <string name="mwtw_action_group_rh_container_promo_string_format">"%1$s    %2$s"</string>
+    <string name="my_recording_new_recording_badge_content_description">Доступна новая запись</string>
+    <string name="my_recording_recording_badge_content_description">Записывается</string>
+    <string name="name_seperator">", "</string>
+    <string name="navigation_item_apps">Приложения</string>
+    <string name="navigation_item_categories">Категории</string>
+    <string name="navigation_item_games">Игры</string>
+    <string name="navigation_item_home">Главная</string>
+    <string name="navigation_item_live">DVR</string>
+    <string name="navigation_item_movies">Фильмы</string>
+    <string name="navigation_item_settings">Настройки</string>
+    <string name="navigation_item_tv">ТВ-шоу</string>
+    <string name="navigation_item_your_videos">Ваши видео</string>
+    <string name="no_default_billing_address">"Ваш заказ не может быть обработан. Проверьте настройки оплаты в 1 клик, связанные с вашей учетной записью Amazon, на %1$s, а затем повторите попытку."</string>
+    <string name="no_default_cc">"Ваш заказ не может быть обработан. Проверьте настройки оплаты в 1 клик, связанные с вашей учетной записью Amazon, на %1$s, а затем повторите попытку."</string>
+    <string name="no_preferences_set">"Ваш заказ не может быть обработан. Перейдите к %1$s и воспроизведите видео или совершите покупку видео. Если будет предложено, убедитесь, что вы принимаете Условия использования. Если проблема не устранена, обратитесь в службу поддержки клиентов, выбрав «Настройки», «Поддержка» и «Свяжитесь с нами»."</string>
+    <string name="non_entitled_badge_text">Варианты покупки</string>
+    <string name="not_airing_dialog_accept">OK</string>
+    <string name="power_adapter_continue">Продолжить без адаптера питания</string>
+    <string name="press_and_hold_for_more_options">Удерживайте «ОК» для всех опций</string>
+    <string name="recents_row_header">Последние</string>
+    <string name="release_date_text">Дата эфира:</string>
+    <string name="remove_from_list_label">"Удалить из списка"</string>
+    <string name="remove_from_recent">"Удалить из списка"</string>
+    <string name="remove_from_watchlist">"Удалить
+из списка просмотра"</string>
+    <string name="retry">Попробуйте еще раз</string>
+    <string name="row_loading_text">Загрузка…</string>
+    <string name="runtime_hours_content_description">%1$d ч. </string>
+    <string name="runtime_minutes_content_description">%1$d мин.</string>
+    <string name="runtime_value_hour_short"> ч.</string>
+    <string name="runtime_value_min_short"> мин.</string>
+    <string name="runtime_value_sec_short"> c.</string>
+    <string name="runtime_value_whitespace"> </string>
+    <string name="search_no_matches">Нет совпадений в нашем каталоге</string>
+    <string name="search_no_result_textonly_hint">Нажмите  для повтора</string>
+    <string name="search_no_result_voice_hint">Нажмите и удерживайте  для повтора</string>
+    <string name="search_no_results">По вашему запросу не найдено ни одного видео или приложения в нашем каталоге</string>
+    <string name="search_no_results_title">Нет результатов поиска</string>
+    <string name="search_results_for">“%s”</string>
+    <string name="search_results_notification_channel_description">Уведомления, связанные с результатами поиска и запросами.</string>
+    <string name="search_results_notification_channel_name">Уведомления о результатах поиска</string>
+    <string name="search_text_only_voice_hint">Нажмите и удерживайте  для голосового поиска</string>
+    <string name="search_text_only_voice_hint_description">Нажмите и удерживайте кнопку микрофона для голосового поиска</string>
+    <string name="season_episode_format">S%1$d, Ep%2$d</string>
+    <string name="seasons_and_episodes">"Сезоны
+и серии"
+</string>
+    <string name="section_unavailable_default">Выбранный раздел недоступен</string>
+    <string name="section_unavailable_format">%s в данный момент недоступен</string>
+    <string name="section_unavailable_goto_settings">Открыть настройки сети</string>
+    <string name="section_unavailable_instructions">Не удалось подключиться к Amazon. Пожалуйста, проверьте подключение к Интернету или повторите попытку позже.</string>
+    <string name="selection_keypad_usage_hint">Используйте «Вверх» или «Вниз» для перемещения между элементами</string>
+    <string name="set_as_screen_saver">"Установить альбом
+как заcтавку"</string>
+    <string name="settings_orientation_text">Настройки. Содержат учетную запись, Wi-Fi, Доступность и другие настройки. Настройте параметры тембра и громкости VoiceView или просмотрите учебник. Эти параметры находятся в разделе «Доступность».</string>
+    <string name="settings_usage_hint_remote_text">Используйте «Влево» и «Вправо» для перемещения между элементами.</string>
+    <string name="settings_vertical_list_usage_hint_remote_text">Используйте «Вверх» и «Вниз» для перемещения между элементами.</string>
+    <string name="short_recent_stack_title">Недавно просмотренные</string>
+    <string name="shuffle_album_music">"Перемешать
+альбом"</string>
+    <string name="shuffle_all_music">"Перемешать
+треки"</string>
+    <string name="sign_up_loading_text">Загрузка…</string>
+    <string name="sign_up_registering_text">Регистрация…</string>
+    <string name="signup_notification_text_one_provider">Ваша подписка началась</string>
+    <string name="signup_notification_title">Успешно</string>
+    <string name="similar_to_this">"Похожие
+на это"</string>
+    <string name="space_description">Пробел</string>
+    <string name="starring_text">В ролях:</string>
+    <string name="start_slideshow">"Начать
+слайдшоу"</string>
+    <string name="subtitles_text">Субтитры:</string>
+    <string name="text_search_screen_orientation_text">Поиск. На пульте дистанционного управления Alexa Voice нажмите и удерживайте кнопку «Голос», чтобы начать поиск. Вы также можете осуществлять поиск с помощью экранной клавиатуры. Строки 1 и 2 содержат буквы от A до Z. Строка 3 содержит цифры от 1 до 0, а также кнопки удаления и пробела. Список результатов находится под клавиатурой.
+</string>
+    <string name="toggle_button_off">ВЫКЛ</string>
+    <string name="toggle_button_on">ВКЛ</string>
+    <string name="try_again_button_text">Попробуйте еще раз</string>
+    <string name="tv_does_not_support_uhd">"Ваш телевизор не поддерживает видео 4K Ultra HD. Если вы приобретете этот контент, он будет воспроизводиться со следующим лучшим разрешением, поддерживаемым вашим телевизором.
+
+Для получения дополнительной информации о воспроизведении 4K Ultra HD посетите %1$s."</string>
+    <string name="tv_episode_air_date_identifier">Выход в эфир:</string>
+    <string name="tv_movie_detail_screen_orientation">Подробности. Содержит информацию о видео или приложении, а также кнопки в ряду, например «Смотреть сейчас» или «Получить». Дополнительные строки соответствующего содержимого находятся под этими параметрами.</string>
+    <string name="tv_movie_detail_screen_usageHint">Используйте Влево и Вправо для перемещения между элементами.</string>
+    <string name="tv_season_amzn_rating">%d</string>
+    <string name="tv_season_release_year">%d</string>
+    <string name="tv_season_selector_selected">Сезон %d</string>
+    <string name="tv_season_selector_unselected">%d</string>
+    <string name="tv_seasons_episodes_screen_orientation">Телевизионные сезоны и серии. Содержит ряд со всеми доступными эпизодами из всех сезонов. Кроме того, строка со списком сезонов может быть использована для быстрого перемещения фокуса на определенный сезон в ряду ниже.</string>
+    <string name="tv_zero_item_episode">Сезон %1$d, серия %2$d</string>
+    <string name="tv_zero_item_season">Сезон %d</string>
+    <string name="uhd_tv_display_resolution_set_too_low">"Настройки вашего Fire TV не позволят воспроизвести этот контент на 4K Ultra HD. Чтобы включить воспроизведение в 4K UHD, перейдите в «Настройки» > «Экран и звук» > «Экран» и измените разрешение видео на «Авто».
+
+Для получения дополнительной информации о воспроизведении 4K Ultra HD посетите %1$s."</string>
+    <string name="uhd_tv_does_not_support_HDCP_2_2">"Выбранный порт HDMI на телевизоре или AVR не поддерживает HDCP 2.2, который необходим для воспроизведения этого контента в формате 4K Ultra HD. Этот контент будет воспроизводиться в следующем лучшем разрешении, поддерживаемом вашим телевизором. Обратите внимание, что некоторые телевизоры 4K могут поддерживать HDCP2.2 только на определенных портах HDMI.
+
+Для получения дополнительной информации о воспроизведении 4K Ultra HD посетите %1$s."</string>
+    <string name="uhd_tv_does_not_support_HDCP_2_2_and_display_res_too_low">"Следующие проблемы не позволят воспроизвести этот контент в 4K Ultra HD:
+ 
+• Выбранный порт HDMI на телевизоре или AVR не поддерживает HDCP 2.2, который необходим для воспроизведения этого контента в формате 4K Ultra HD. Этот контент будет воспроизводиться в следующем лучшем разрешении, поддерживаемом вашим телевизором. Обратите внимание, что некоторые телевизоры 4K могут поддерживать HDCP2.2 только на определенных портах HDMI.
+ 
+• Настройки вашего Fire TV не позволят воспроизвести этот контент на 4K Ultra HD. Чтобы включить воспроизведение в 4K UHD, перейдите в «Настройки» > «Экран и звук» > «Экран» и измените разрешение видео на «Авто».
+ 
+Для получения дополнительной информации о воспроизведении 4K Ultra HD посетите %1$s."</string>
+    <string name="video_grid_usageHint">Используйте Вверх и Вниз, чтобы перемещаться между строками связанного содержимого. Используйте Влево и Вправо для перемещения между элементами.</string>
+    <string name="video_rating_description">Рейтинг для видео</string>
+    <string name="watch_from_start">"Смотреть
+с начала"</string>
+    <string name="wvad_problem_sign_up_alt">Если проблема не устранена, вы можете зарегистрироваться на %1$s</string>
+    <string name="wvad_problem_try_again">Извините, возникла проблема. Пожалуйста, попробуйте еще раз.</string>
+</resources>

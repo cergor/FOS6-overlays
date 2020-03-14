@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="captions_background_color_titles">
+        <item>По умолчанию</item>
+        <item>Белый</item>
+        <item>Чёрный</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
+        <item>Жёлтый</item>
+        <item>Фиолетовый</item>
+        <item>Бирюзовый</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="captions_edge_type_titles">
+        <item>None</item>
+        <item>Uniform</item>
+        <item>Drop Shadowed</item>
+        <item>Raised</item>
+        <item>Depressed</item>
+    </string-array>
+    <string-array name="captions_font_color_titles">
+        <item>По умолчанию</item>
+        <item>Белый</item>
+        <item>Чёрный</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
+        <item>Жёлтый</item>
+        <item>Фиолетовый</item>
+        <item>Бирюзовый</item>
+    </string-array>
+    <string-array name="captions_font_size_titles">
+        <item>Крошечный</item>
+        <item>Маленький</item>
+        <item>Нормальный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="captions_typeface_titles">
+        <item>Default</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Monospace Sans</item>
+        <item>Monospace Serif</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+        <item>Small Capitals</item>
+    </string-array>
+    <string-array name="captions_window_color_titles">
+        <item>По умолчанию</item>
+        <item>Белый</item>
+        <item>Чёрный</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
+        <item>Жёлтый</item>
+        <item>Фиолетовый</item>
+        <item>Бирюзовый</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="gamepad_instructions">
+        <item>"Нажмите и удерживайте  в течение ${pairingTimeout} секунд на игровом контроллере Amazon Fire TV, который вы хотите соединить.
+
+Как только он обнаружен, выберите контроллер из списка."</item>
+        <item>"Для контроллеров Nyko PlayPad Pro убедитесь, что переключатель в нижней части контроллера установлен на значок геймпада. Включите контроллер, затем удерживайте  в течение 3-4 секунд, пока светодиод не начнет быстро мигать.
+
+Как только он обнаружен, выберите контроллер из списка."</item>
+    </string-array>
+    <string-array name="gamepad_instructions_content_desc">
+        <item>Нажмите и удерживайте кнопку «Домой» в течение ${pairingTimeout} секунд на игровом контроллере Amazon Fire TV, который вы хотите соединить. Как только он обнаружен, выберите контроллер из списка.</item>
+        <item>Для контроллеров Nyko PlayPad Pro убедитесь, что переключатель в нижней части контроллера установлен на значок геймпада. Включите контроллер, затем удерживайте кнопку «Домой» в течение 3-4 секунд, пока светодиод не начнет быстро мигать. Как только он обнаружен, выберите контроллер из списка.</item>
+    </string-array>
+    <string-array name="searching_animation">
+        <item>Поиск</item>
+        <item>Поиск.</item>
+        <item>Поиск..</item>
+        <item>Поиск...</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключена</item>
+        <item>Приостановлена</item>
+        <item>Отключение…</item>
+        <item>Отключена</item>
+        <item>Неудачно</item>
+        <item>Блокирована</item>
+        <item>Плохое соединение</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Авторизация в %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключена к %1$s</item>
+        <item>Приостановлена</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключена</item>
+        <item>Неудачно</item>
+        <item>Блокирована</item>
+        <item>Плохое соединение</item>
+    </string-array>
+</resources>

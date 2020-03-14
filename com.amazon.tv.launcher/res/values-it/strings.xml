@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="frozen_unregistered_header_button">OK</string>
+    <string name="frozen_unregistered_overlay">Fire TV Launcher è bloccato</string>
+</resources>

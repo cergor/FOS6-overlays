@@ -1,0 +1,29 @@
+{
+    "@type": "SceneNode",
+    "id": "root",
+    "label": "Root",
+    "tag": "frozen_nav",
+    "children": [
+        {
+            "@type": "SceneNode",
+            "id": "settings",
+            "label": "com.amazon.tv.launcher:string/navigation_item_settings",
+            "tag": "page",
+            "children": [
+                {
+                    "@type": "SceneNode",
+                    "id": "search_bgimage",
+                    "label": "search_bgimage",
+                    "tag": "backgroundimage"
+                },
+                {
+                    "@type": "SceneNode",
+                    "id": "settings_home_rows",
+                    "label": "Settings",
+                    "tag": "settings_row",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

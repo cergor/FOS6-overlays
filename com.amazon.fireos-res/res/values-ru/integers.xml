@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="i18n_pnvl_other">0</integer>
+    <integer name="i18n_pn_gender_generic">0</integer>
+    <integer name="i18n_pn_gender_short">0</integer>
+    <integer name="i18n_pn_gender_medium">0</integer>
+    <integer name="i18n_pn_gender_long">0</integer>
+    <integer name="i18n_pn_gender_full">0</integer>
+    <integer name="i18n_pn_gender_generational">0</integer>
+    <integer name="i18n_pn_gender_generic.AFTMM">0</integer>
+    <integer name="i18n_pn_gender_short.AFTMM">0</integer>
+    <integer name="i18n_pn_gender_medium.AFTMM">0</integer>
+    <integer name="i18n_pn_gender_long.AFTMM">0</integer>
+    <integer name="i18n_pn_gender_full.AFTMM">0</integer>
+    <integer name="i18n_pn_gender_generational.AFTMM">0</integer>
+    <item type="integer" name="i18n_pn_gender_generic.A2WV8TTM37P2CB">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_short.A2WV8TTM37P2CB">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_medium.A2WV8TTM37P2CB">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_long.A2WV8TTM37P2CB">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_full.A2WV8TTM37P2CB">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_generational.A2WV8TTM37P2CB">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_generic.AKPGW064GI9HE">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_short.AKPGW064GI9HE">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_medium.AKPGW064GI9HE">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_long.AKPGW064GI9HE">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_full.AKPGW064GI9HE">@integer/i18n_pnvl_other</item>
+    <item type="integer" name="i18n_pn_gender_generational.AKPGW064GI9HE">@integer/i18n_pnvl_other</item>
+</resources>

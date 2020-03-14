@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_language_ja_jp">uk-UA</string>
+    <string name="key_language_pt_br">ru-RU</string>
+    <string name="language_ja_jp">Українська (Україна)</string>
+    <string name="language_pt_br">Русский (Россия)</string>
+</resources>

@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_avr_device_type">ресивер</string>
+    <string name="accessibility_brands_list_title_avr">Какой марки ресивер у вас есть?</string>
+    <string name="accessibility_card">Доступность</string>
+    <string name="accessibility_g2_2_subtitle">Press the menu button twice to find the IR Profile by number. The menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_ie1_2_device_input_param">%1$s: %2$s</string>
+    <string name="accessibility_l1_10_title_receiver">What brand of receiver do you have?</string>
+    <string name="accessibility_l1_11_title_did_it_work">Did it work? Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_11_title_receiver">With your Fire TV remote pointed at your receiver, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_11_title_soundbar">With your Fire TV remote pointed at your soundbar, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_11_title_tv">With your Fire TV remote pointed at your TV, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_14_title_receiver">The Fire TV remote is having difficulty controlling your receiver.</string>
+    <string name="accessibility_l1_16_title">The Fire TV remote is having difficulty controlling your %1$s TV. Make sure you are pointing your Fire TV remote directly at the TV and try again. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_16_title_generic_brand">The Fire TV remote is having difficulty controlling your TV. Make sure you are pointing your Fire TV remote directly at the TV and try again. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_3_title">"We'll be playing music during the next step. Please make sure the volume is turned up, then continue. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons."</string>
+    <string name="accessibility_l1_5_title_did_they_work">Did it work? Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_5_title_tv">With your Fire TV remote pointed at your TV, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_7_title">We detected your %1$s TV. Is this correct? Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_l1_9_have_receiver">I use an AV receiver</string>
+    <string name="accessibility_l1_9_title">Are you using a soundbar or AV receiver?</string>
+    <string name="accessibility_l2_14_title">With your Fire TV remote pointed at your TV, use the Volume Up and Volume Down buttons to change the volume a few times. Volume Up and Down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons.</string>
+    <string name="accessibility_l2_14_title_rwd_ffwd">Use your Fire TV remote to change the volume a few times. Volume up and down is controlled with the rewind and fast-forward buttons. The rewind button is the left button in the second row of three small buttons. The fast-forward button is the right button in the second row of three small buttons.</string>
+    <string name="accessibility_l2_14_title_with_buttons">Did it work?</string>
+    <string name="accessibility_l2_18_title">We need to try this again. With your Fire TV remote pointed at your TV, use the Volume Up and Volume Down buttons to change the volume a few times. Volume Up and Down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons.</string>
+    <string name="accessibility_l2_18_title_with_buttons">Did it work?</string>
+    <string name="accessibility_l2_19_title_avr">It looks like we need to update your Fire TV remote so that it is compatible with your receiver.</string>
+    <string name="accessibility_l2_21_title_avr">You can use your Fire TV remote to control your receiver too. Would you like to set it up now?</string>
+    <string name="accessibility_l2_7_title">Press the power button on your Fire TV remote to turn off your TV. Wait 10 seconds, then press the power button again to turn it back on. The power button is the button at the top left of your remote.</string>
+    <string name="accessibility_l2_7_title_ffwd">Press the fast forward button on your Fire TV remote to turn off your TV. Wait 10 seconds, then press the fast-forward button again to turn it back on. The fast-forward button is the right button in the second row of three small buttons.</string>
+    <string name="accessibility_l2_7_title_retry">Press the power button on your Fire TV remote to turn off your TV. Wait 10 seconds, then press the power button again to turn it back on. The power button is the button at the top left of your remote. Attempt %1$d/%2$d</string>
+    <string name="accessibility_l2_7_title_retry_ffwd">Press the fast-forward button on your Fire TV remote to turn off your TV. Wait 10 seconds, then press the fast-forward button again to turn it back on. The fast-forward button is the right button in the second row of three small buttons. Attempt %1$d/%2$d</string>
+    <string name="accessibility_l2_9_title">"Did your TV turn off and then back on when you pressed the Power button? If you're not sure, please try again. Remember to keep your Fire TV remote pointed at your TV when you press the Power button. The Power button is the button at the top left of your remote."</string>
+    <string name="accessibility_l2_9_title_ffwd">"Did your TV turn off and then back on when you pressed the fast-forward button? If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the TV you are trying to control. The fast-forward button is the right button in the second row of three small buttons."</string>
+    <string name="accessibility_l3_12_title_avr">"We'll be playing music during the next step. Please make sure the volume on your receiver is turned up, then continue."</string>
+    <string name="accessibility_l3_14_title_avr">With your Fire TV remote pointed at your receiver, use it to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons.</string>
+    <string name="accessibility_l3_14_title_did_they_work">Did it work?</string>
+    <string name="accessibility_l3_14_title_graspa">Use your Fire TV remote to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons.</string>
+    <string name="accessibility_l3_14_title_rwd_ffwd">Use your Fire TV remote to change the volume a few times. Volume up and down is controlled with the rewind and fast-forward buttons. The rewind button is the left button in the second row of three small buttons. The fast-forward button is the right button in the second row of three small buttons.</string>
+    <string name="accessibility_l3_14_title_soundbar">With your Fire TV remote pointed at your soundbar, use it to change the volume a few times. Volume Up and Down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons.</string>
+    <string name="accessibility_l3_7_title_avr">"Press the Power button on your Fire TV remote to turn off your receiver.Wait 10 seconds, then press the Power button again to turn it back on.
+The Power button is the button on the top left of your remote."</string>
+    <string name="accessibility_l3_7_title_avr_ffwd">Press the fast-forward button on your Fire TV remote to turn off your receiver. Then press the fast-forward button again to turn it back on. The fast-forward button is the right button in the second row of three small buttons.</string>
+    <string name="accessibility_l3_7_title_retry_avr">"Press the Power button on your Fire TV remote to turn off your receiver.Wait 10 seconds, then Press the Power button again to turn it back on.
+The Power button is the button on the top left of your remote.
+Attempt %1$d/%2$d"</string>
+    <string name="accessibility_l3_7_title_retry_avr_ffwd">Press the fast-forward button on your Fire TV remote to turn off your receiver. Then press the fast-forward button again to turn it back on. The fast-forward button is the right button in the second row of three small buttons. Attempt %1$d/%2$d. Press the rewind button to exit. The rewind button is the left button in the second row of three small buttons.</string>
+    <string name="accessibility_l3_7_title_retry_soundbar">"Press the Power button on your Fire TV remote to turn off your soundbar.Wait 10 seconds and then press the Power button again to turn it back on.
+The Power button is the button at the top left of your remote.
+Attempt %1$d/%2$d"</string>
+    <string name="accessibility_l3_7_title_retry_soundbar_ffwd">Press the fast-forward button on your Fire TV remote to turn off your soundbar. Then press the fast-forward button again to turn it back on. The fast-forward button is the right button in the second row of three small buttons. Attempt %1$d/%2$d. Press the rewind button to exit. The rewind button is the left button in the second row of three small buttons.</string>
+    <string name="accessibility_l3_7_title_soundbar">"Press the Power button on your Fire TV remote to turn off your soundbar.Wait 10 seconds and then press the Power button again to turn it back on.
+The Power button is the button at the top left of your remote."</string>
+    <string name="accessibility_l3_7_title_soundbar_ffwd">Press the fast-forward button on your Fire TV remote to turn off your soundbar. Then press the fast-forward button again to turn it back on. The fast-forward button is the right button in the second row of three small buttons.</string>
+    <string name="accessibility_l3_9_title_avr">"Did your receiver turn off and then back on when you pressed the Power button? If you're not sure, please try again. Remember to keep your Fire TV remote pointed at your receiver when you press the Power button. The Power button is the button at the top left of your remote."</string>
+    <string name="accessibility_l3_9_title_avr_ffwd">"Did your receiver turn off and then back on when you pressed the Fast Forward button? If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the receiver you are trying to control. The Fast Forward button is the button on the right in the second row of three small buttons."</string>
+    <string name="accessibility_l3_9_title_avr_graspa">"Did your receiver turn off and then back on when you pressed the Power button? If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the receiver you are trying to control. The Power button is the button at the top left of your remote."</string>
+    <string name="accessibility_l3_9_title_soundbar">"Did your soundbar turn off and then back on when you pressed the Power button? If you're not sure, please try again. Remember to keep your Fire TV remote pointed at your soundbar when you press the Power button. The Power button is the button at the top left of your remote."</string>
+    <string name="accessibility_l3_9_title_soundbar_ffwd">"Did your soundbar turn off and then back on when you pressed the Fast Forward button? If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the soundbar you are trying to control. The Fast Forward button is the button on the right in the second row of three small buttons."</string>
+    <string name="accessibility_l3_9_title_soundbar_graspa">"Did your soundbar turn off and then back on when you pressed the Power button? If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the soundbar you are trying to control. The Power button is the button on the top left of your remote."</string>
+    <string name="accessibility_l4_13_description_avr">It looks like we have the wrong input for your receiver. Please try again.</string>
+    <string name="accessibility_l4_13_description_tv_avr">It looks like we have the wrong inputs for your TV and receiver. Please try again.</string>
+    <string name="accessibility_l4_18_title_avr">Select the receiver input you use for Fire TV.</string>
+    <string name="accessibility_l4_19_title">"Let's try that again. After we switch inputs, press Fast Forward on your Fire TV remote to return. The Fast Forward button is the right button in the second row of 3 small buttons. If you have any trouble, use your original remotes to switch back."</string>
+    <string name="accessibility_l4_23_description_avr">It looks like we have the wrong input for your receiver. Please try again.</string>
+    <string name="accessibility_l4_23_description_tv_avr">It looks like we have the wrong inputs for your TV and receiver. Please try again.</string>
+    <string name="accessibility_l4_2_subtitle">"Press fast forward if you don't switch inputs on your TV."</string>
+    <string name="accessibility_l4_4_subtitle_avr">"Press Fast Forward if you don't switch inputs on your receiver."</string>
+    <string name="accessibility_l4_4_subtitle_soundbar">"Press fast forward if you don't switch inputs on your soundbar."</string>
+    <string name="accessibility_l4_4_title_avr">Select the receiver input you use for %1$s.</string>
+    <string name="accessibility_l4_4_title_cable_avr">Select the receiver input you use for your %1$s.</string>
+    <string name="accessibility_l4_5_title">"To add your %1$s, we first need to switch to it. After we switch inputs, press Fast Forward on your Fire TV remote to return. The Fast Forward button is the right button in the second row of three small buttons.
+If you have any trouble, use your original remotes to switch back."</string>
+    <string name="accessibility_l4_7_title">If Fire TV is still in focus, press Rewind on your Fire TV remote. The Rewind button is the left button in the second row of 3 small buttons.</string>
+    <string name="accessibility_l4_8_description_avr">Make sure your Fire TV remote is pointing directly at your receiver and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_l4_8_description_graspa_avr">Make sure your Fire TV Blaster has line of sight to your receiver and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_l4_8_description_graspa_soundbar">Make sure your Fire TV Blaster has line of sight to your soundbar and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_l4_8_description_graspa_tv">Make sure your Fire TV Blaster has line of sight to your TV and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_l4_8_description_graspa_tv_avr">Make sure your Fire TV Blaster has line of sight to your TV and receiver and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_l4_8_description_graspa_tv_soundbar">Make sure your Fire TV Blaster has line of sight to your TV and soundbar and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_l4_8_description_tv_avr">Make sure your Fire TV remote is pointing directly at your TV and receiver and try again. Try selecting another input. If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs.</string>
+    <string name="accessibility_ls1_1_subtitle">"Not in a closed cabinet. Unobstructed. Facing you
+• At least 30 cm away from speakers."</string>
+    <string name="accessibility_ota1_1_description">Not in a closed cabinet. Unobstructed. Facing you. At least one foot away from speakers.</string>
+    <string name="accessibility_press_ff_if_you_do_not_change_input_on_your_tv">"Press Fast Forward, the right button in the bottom row of 3 small buttons, if you don't change inputs on your TV."</string>
+    <string name="accessibility_sdl5_1_title_channel_changes">"Next, you'll need to switch to your %1$s. Please do the following:
+First, use your original remotes to switch to your %1$s. Once there, press Fast Forward on your Fire TV remote and note if the channel changes. The Fast Forward button is the right button in the second row of three small buttons. Switch back to Fire TV using your original remotes. If you have any trouble, use your original remotes to switch back."</string>
+    <string name="accessibility_sdl5_1_title_guide">"Next, you'll need to switch to your %1$s. Please do the following:
+First, use your original remotes to switch to your %1$s. Once there, press Fast Forward on your Fire TV remote and note if the TV programme guide appears. The Fast Forward button is the right button in the second row of three small buttons. Switch back to Fire TV using your original remotes. If you have any trouble, use your original remotes to switch back."</string>
+    <string name="accessibility_sdl5_1_title_power_off">"Next, you'll need to switch to your %1$s. Please do the following:
+First, use your original remotes to switch to your %1$s. Once there, press Fast Forward on your Fire TV remote and note if your %1$s turns off. The Fast Forward button is the right button in the second row of three small buttons. Switch back to Fire TV using your original remotes. If you have any trouble, use your original remotes to switch back."</string>
+    <string name="accessibility_sdl5_1_title_power_on">"Next, you'll need to switch to your %1$s. Please do the following:
+First, use your original remotes to switch to your %1$s. Once there, press Fast Forward on your Fire TV remote and note if your %1$s turns on. The Fast Forward button is the right button in the second row of three small buttons. Switch back to Fire TV using your original remotes. If you have any trouble, use your original remotes to switch back."</string>
+    <string name="accessibility_select_code_for_avr">Select the IR Profile for your AV Receiver</string>
+    <string name="accessibility_sic12_1_title">Sorry, we were not able to switch back to Fire TV Cube. Please use your original remotes to switch back to Fire TV Cube.</string>
+    <string name="accessibility_sic5_2_title">Press Fast Forward on your Fire TV Cube remote if your inputs have changed to the right device. Press Rewind if the inputs have not changed to the right device.</string>
+    <string name="accessibility_sic6_2_title">If the Fire TV Cube is back in focus on your screen, press Fast Forward on your Fire TV Cube remote. If the Fire TV Cube is not in focus, press Rewind on your Fire TV Cube remote.</string>
+    <string name="accessibility_sic_12_1_description">Then, here are some things to try: Go back to Equipment Control Settings and check the Fire TV Cube input configuration for all your devices, then try again. Check the placement guide for tips on where to place the Fire TV Cube and try again</string>
+    <string name="accessibility_test_volume_again_did_it_work">Did it work? Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_test_volume_again_title_receiver">We need to try this again. With your Fire TV remote pointed at your receiver, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_test_volume_again_title_soundbar">We need to try this again. With your Fire TV remote pointed at your soundbar, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_test_volume_again_title_tv">We need to try this again. With your Fire TV remote pointed at your TV, toggle the Volume Up and Volume Down buttons to change the volume a few times. Volume up and down is controlled with the rocker button. The rocker button is a long button, below the second row of 3 small buttons. Press the Menu button twice to enter advanced setup. The Menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="accessibility_ui_g2_2_subtitle">Press  twice to find the IR Profile by number. The menu button is the right button on the top row of 3 small buttons.</string>
+    <string name="achievements_capital">ACHIEVEMENTS</string>
+    <string name="add_equipment">Добавить оборудование</string>
+    <string name="add_equipment_description">Добавьте дополнительные устройства, которые Fire TV и Alexa могут переключать или контролировать.</string>
+    <string name="add_equipment_tv_description">С помощью пульта Fire TV и Alexa вы можете включать и выключать телевизор, изменять громкость и переключать входы. Установка займет от 5 до 10 минут.</string>
+    <string name="add_equipment_tv_or_audio_device_description">С помощью пульта Fire TV и Alexa вы можете включать и выключать %1$s, изменять громкость и переключать входы. Установка займет от 5 до 10 минут.</string>
+    <string name="add_to_watchlist">"Добавить к
+списку просмотра"</string>
+    <string name="advanced_settings_description">Настройка регулировки громкости, переключения входа Fire TV и управления оборудованием</string>
+    <string name="advanced_settings_title">Расширенные настройки</string>
+    <string name="air_date">Дата эфира: </string>
+    <string name="air_date_format">d MMMM yyyy</string>
+    <string name="alexa_audio_output_description">Controls which speaker Alexa uses. Change this if you want Alexa to always use the Fire TV speaker.</string>
+    <string name="alexa_audio_output_description_automatic">"“Automatic” plays Alexa through your TV/audio equipment when you're watching Fire TV. It plays Alexa through the Fire TV speaker when you are doing something else."</string>
+    <string name="alexa_audio_output_description_manual">"“Manual” plays Alexa through the speaker you choose:
+
+Say “Alexa, talk to me through my Fire TV” for speech to play through the Fire TV speaker.
+
+Say “Alexa, talk to me through my TV” for speech to play through your TV/audio equipment."</string>
+    <string name="alexa_audio_output_title">Alexa Audio Output</string>
+    <string name="alexa_card">Alexa</string>
+    <string name="alexa_interactions_ir_tv_avr_description">Controls whether Alexa will attempt to turn on your TV and/or sound system and switch to Fire TV input for TV requests such as video, music and apps. Recommendation: Turn off this setting if your TV does not behave as expected (turns off when it should turn on).</string>
+    <string name="alexa_interactions_ir_tv_avr_title">Automatically Turn on TV</string>
+    <string name="alexa_interactions_mute_description_off">"Fire TV will mute your TV/audio equipment to ensure Alexa can hear you.
+
+Turn on this setting if you have trouble communicating with Alexa."</string>
+    <string name="alexa_interactions_mute_description_on">Fire TV will mute your TV/audio equipment to ensure Alexa can hear you.</string>
+    <string name="alexa_interactions_mute_title">Automatically Mute TV</string>
+    <string name="amazon_account_signup_card">Вход в аккаунт Amazon</string>
+    <string name="amazon_device_148">Fire TV Stick</string>
+    <string name="amazon_fire_tv">Amazon Fire TV</string>
+    <string name="antenna">Антенна</string>
+    <string name="app_name">Настройка оборудования</string>
+    <string name="app_rating">Рейтинг:</string>
+    <string name="app_release_date">Дата выхода:</string>
+    <string name="apple_tv">Apple TV</string>
+    <string name="application_name">Oz Oobe App</string>
+    <string name="applications_card">Приложения</string>
+    <string name="audio_not_switch_inputs_description">Выберите, если Fire TV не должен переключать входы на %1$s.</string>
+    <string name="audio_not_switch_inputs_title">Не переключать входы для Fire TV</string>
+    <string name="audio_test_input">Проверка входа</string>
+    <string name="automatic">Автоматически</string>
+    <string name="avr_device_type">ресивер</string>
+    <string name="avr_device_type_title_case">Ресивер</string>
+    <string name="avr_input_title">Вход ресивера</string>
+    <string name="become_active_source">Активный источник</string>
+    <string name="blue_ray">Blu-ray</string>
+    <string name="brand_not_listed">Марка не указана</string>
+    <string name="brands_list_title">Какая марка вашего %1$s?</string>
+    <string name="brands_list_title_avr">Какой марки ресивер у вас есть?</string>
+    <string name="brands_list_title_soundbar">Какой бренд звуковой панели у вас есть?</string>
+    <string name="brands_list_title_tv">Какой бренд телевизора у вас есть?</string>
+    <string name="cable">Cable</string>
+    <string name="cable_box">set-top box</string>
+    <string name="cable_box_first_cap">Приставка</string>
+    <string name="cable_friendly_name_editor_description">Измените имя, которое вы используете при управлении вашей приставкой</string>
+    <string name="cable_lowercase">cable</string>
+    <string name="cable_tv">Cable TV</string>
+    <string name="cancel">Отмена</string>
+    <string name="change_avr">Сменить ресивер</string>
+    <string name="change_avr_description">"Чтобы изменить оборудование, которым управляет Fire TV, выберите эту опцию. Установка займет от 5 до 10 минут.
+
+Используется ресивер:
+%1$s"</string>
+    <string name="change_avr_title">Изменить Ресивер</string>
+    <string name="change_cable_satellite_description">Выберите, если вы изменили %1$s. Установка займет от 5 до 10 минут.</string>
+    <string name="change_device_description">"Чтобы изменить оборудование, которым управляет Fire TV, выберите эту опцию. Установка займет от 5 до 10 минут.
+
+Используется %1$s:
+%2$s"</string>
+    <string name="change_device_description_unknown_brand">Чтобы изменить оборудование, которым управляет Fire TV, выберите эту опцию. Установка займет от 5 до 10 минут.</string>
+    <string name="change_device_title">Изменить %1$s</string>
+    <string name="change_input_description">Укажите, какой вход переключать на %1$s для просмотра Fire TV.</string>
+    <string name="change_input_title">Вход %1$s</string>
+    <string name="change_ir_profile">Изменить ИК-профиль</string>
+    <string name="change_ir_profile_description">"Измените ИК-профиль, назначенный вашему %1$s.
+
+Используется ИК-профиль
+%2$s"</string>
+    <string name="change_profile">Изменить ИК-профиль</string>
+    <string name="change_profile_description">Измените профиль IR, назначенный вашему %1$s на %2$s.</string>
+    <string name="change_projector_profile_description">Your TV is currently set as a projector, use this option to change the projector profile or to set it as a regular TV.</string>
+    <string name="change_projector_profile_title">Change Projector Profile</string>
+    <string name="change_soundbar">Сменить звуковую панель</string>
+    <string name="change_soundbar_description">"Чтобы изменить оборудование, которым управляет Fire TV, выберите эту опцию. Установка займет от 5 до 10 минут.
+
+Используется звуковая панель:
+%1$s"</string>
+    <string name="change_soundbar_title">Сменить звуковую панель</string>
+    <string name="change_tv">Сменить телевизор</string>
+    <string name="change_tv_provider">Сменить провайдера</string>
+    <string name="channel_down">Канал –</string>
+    <string name="channel_up">Канал +</string>
+    <string name="checked">Отмечено</string>
+    <string name="close_paren">)</string>
+    <string name="coax">Coax</string>
+    <string name="common_accessibility_ff_button">Чтобы увеличить интервал, нажмите «Fast Forward», правую кнопку в нижнем ряду из трех маленьких кнопок.</string>
+    <string name="common_accessibility_menu_button">Нажмите кнопку «Меню» дважды, чтобы восстановить настройки по умолчанию. Кнопка Меню - это правая кнопка в верхнем ряду из 3 маленьких кнопок.</string>
+    <string name="common_accessibility_rwd_button">Чтобы уменьшить интервал, нажмите «Rewind», левую кнопку в нижнем ряду из трех маленьких кнопок.</string>
+    <string name="common_adjust_volume_down">Уменьшите громкость на</string>
+    <string name="common_adjust_volume_up">Увеличьте громкость на</string>
+    <string name="common_advanced_setup">Расширенная настройка</string>
+    <string name="common_and">и</string>
+    <string name="common_back">Назад</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="common_change_input">Сменить Вход</string>
+    <string name="common_connection_error_dialog_description">Извините, возникла проблема с подключением. Пожалуйста, попробуйте еще раз.</string>
+    <string name="common_connection_error_dialog_title">Невозможно подключиться</string>
+    <string name="common_continue">Продолжить</string>
+    <string name="common_did_not_work">Это не работает</string>
+    <string name="common_did_that_adjust_volume_down_on_your_device">Это регулирует громкость на вашем %1$s?</string>
+    <string name="common_did_that_adjust_volume_up_on_your_device">Это увеличивает громкость на вашем %1$s?</string>
+    <string name="common_did_that_exit_the_menu_on_your_device">Произошел выход из меню на вашем %1$s?</string>
+    <string name="common_did_the_menu_display_on_your_device">Вы видели отображение меню на вашем %1$s?</string>
+    <string name="common_did_your_device_mute">Был ли отключен звук на %1$s?</string>
+    <string name="common_did_your_device_power_off">Ваш %1$s выключился?</string>
+    <string name="common_did_your_device_power_on">Ваш %1$s включился?</string>
+    <string name="common_display_the_menu">Показать меню на</string>
+    <string name="common_do_this_later">Сделаю позже</string>
+    <string name="common_done">Готово</string>
+    <string name="common_enter_zip_code">Введите почтовый индекс</string>
+    <string name="common_exit">Выход</string>
+    <string name="common_exit_the_menu">Выйти из меню на</string>
+    <string name="common_having_trouble">Если у вас есть какие-либо проблемы, используйте ваши оригинальные пульты, чтобы переключиться обратно.</string>
+    <string name="common_having_trouble_tv_receiver_remotes">Если у вас есть какие-либо проблемы, используйте исходные пульты (например, пульт для телевизора и / или ресивера), чтобы переключиться обратно.</string>
+    <string name="common_having_trouble_tv_remote">Если у вас есть какие-либо проблемы, используйте пульт ДУ телевизора, чтобы переключиться обратно.</string>
+    <string name="common_having_trouble_tv_soundbar_remotes">Если у вас возникли проблемы, используйте исходные пульты (например, пульт для телевизора и / или звуковой панели), чтобы переключиться обратно.</string>
+    <string name="common_input_not_listed">Вход не указан</string>
+    <string name="common_it_works">Это работает</string>
+    <string name="common_later">Позже</string>
+    <string name="common_mute_your">Отключить звук на</string>
+    <string name="common_next">Далее</string>
+    <string name="common_no">Нет</string>
+    <string name="common_no_rewind">Нет </string>
+    <string name="common_ok">OK</string>
+    <string name="common_placement_guide">Руководство по размещению</string>
+    <string name="common_please_wait_for_setup">Пожалуйста, подождите, пока мы подготовим ваш пульт к настройке.</string>
+    <string name="common_power_off">Выключение</string>
+    <string name="common_power_on">Включение</string>
+    <string name="common_power_toggle">Перекл. питания</string>
+    <string name="common_press_ff_if_you_do_not_change_input_on_your_tv">Нажмите  если вы не меняете входы на вашем телевизоре.</string>
+    <string name="common_press_menu_button_to_enter_advanced_setup_accessibility">Нажмите кнопку «Меню» дважды для расширенной настройки. Кнопка «Меню» - это правая кнопка в верхнем ряду из 3 маленьких кнопок.</string>
+    <string name="common_press_menu_to_enter_advanced_setup">Нажмите  для расширенной настройки.</string>
+    <string name="common_previously_selected_param">%1$s – Ранее выбранный</string>
+    <string name="common_previously_used_param">%1$s – Ранее используемый</string>
+    <string name="common_recommend_power_from_wall_outlet">Мы рекомендуем подключать Fire TV к сетевой розетке с помощью прилагаемого адаптера питания.</string>
+    <string name="common_remote_sync_dialog_description">Извините, Fire TV не может выполнить удаленную настройку. Вы можете попытаться снова сейчас или пропустите и попробуйте позже в разделе «Оборудование» настроек Fire TV.</string>
+    <string name="common_remote_sync_dialog_title">Ошибка пульта</string>
+    <string name="common_select_another_input">Выберите другой вход</string>
+    <string name="common_skip">Пропуск</string>
+    <string name="common_skip_it">Пропустить</string>
+    <string name="common_switch_now">Переключить</string>
+    <string name="common_try_again">Попробовать снова</string>
+    <string name="common_trying_again">Выполнение…</string>
+    <string name="common_usage_brands_list">Самые распространенные бренды находятся наверху, далее все бренды перечислены в алфавитном порядке. Используйте «Вверх» и «Вниз» для перемещения между элементами.</string>
+    <string name="common_usage_left_right_to_move_between_items_finished_press_play_pause">Для перемещения между элементами используйте «Влево», «Вправо», «Вверх» и «Вниз». Когда закончите, нажмите кнопку «Play/Pause» на пульте дистанционного управления. Кнопка «Play/Pause» - это средняя кнопка во втором ряду из трех маленьких кнопок.</string>
+    <string name="common_usage_left_right_to_move_between_options">Используйте кнопки «Влево» и «Вправо» для перемещения между вариантами</string>
+    <string name="common_usage_repeat_this_message_menu_button">Чтобы повторить это сообщение, нажмите кнопку «Меню». Кнопка «Меню» - это правая кнопка в верхнем ряду из 3 маленьких кнопок.</string>
+    <string name="common_usage_up_down_to_move_between_options">Используйте кнопки «Вверх» и «Вниз» для перемещения между вариантами</string>
+    <string name="common_watch_again">Смотреть снова</string>
+    <string name="common_yes">Да</string>
+    <string name="common_yes_fast_forward">Да </string>
+    <string name="component">Component</string>
+    <string name="composite">Composite</string>
+    <string name="configure_projector_description">Если вы используете %1$s проектор, используйте эту опцию, чтобы выбрать правильный профиль ИК.</string>
+    <string name="configure_projector_title">Настроить проектор</string>
+    <string name="confirm_exit_description">Если вы выйдете сейчас, ваши изменения не будут сохранены.</string>
+    <string name="confirm_exit_title">Вы уверены, что хотите выйти?</string>
+    <string name="confirmation_dialog_cancel">Отмена</string>
+    <string name="controllers_and_bluetooth_devices_card">Контроллеры и Bluetooth</string>
+    <string name="decrease">Уменьшить</string>
+    <string name="device_avr">Ресивер</string>
+    <string name="device_avr_non_title_case">ресивер</string>
+    <string name="device_avr_voice_view">Ресивер</string>
+    <string name="device_card_title">Мой Fire TV</string>
+    <string name="device_card_title_smartTv">Устройство и ПО</string>
+    <string name="device_control_automatic_description">Fire TV автоматически включит ваше ТВ / аудио оборудование и переключит входы, когда вы попросите что-то посмотреть.</string>
+    <string name="device_control_manual_description">Fire TV включит ваше ТВ / аудио оборудование и переключит входы только по явному запросу</string>
+    <string name="device_control_off_description">Fire TV не сможет управлять вашим оборудованием</string>
+    <string name="device_control_settings_card">Оборудование</string>
+    <string name="device_friendly_name_cable">Кабель</string>
+    <string name="device_friendly_name_cable_for_alexa">Кабель</string>
+    <string name="device_friendly_name_receiver">AV Ресивер</string>
+    <string name="device_friendly_name_receiver_for_alexa">Ресивер</string>
+    <string name="device_friendly_name_satellite">Satellite</string>
+    <string name="device_friendly_name_satellite_for_alexa">Satellite</string>
+    <string name="device_friendly_name_soundbar">Звуковая панель</string>
+    <string name="device_friendly_name_soundbar_for_alexa">Звуковая панель</string>
+    <string name="device_friendly_name_tv">ТВ</string>
+    <string name="device_friendly_name_tv_for_alexa">ТВ</string>
+    <string name="device_input_menu_description">"Укажите, какой вход переключать на вашем %1$s для просмотра Fire TV.
+
+
+Размещение:
+%2$s"</string>
+    <string name="device_soundbar">soundbar</string>
+    <string name="device_soundbar_cap_first">Звуковая панель</string>
+    <string name="device_tv">Телевизор</string>
+    <string name="dialog_change_audio_device_message">Чтобы изменить %1$s, вам потребуется снова настроить телевизор. Установка займет от 5 до 10 минут.</string>
+    <string name="dialog_change_device_message">Настройка займет от 5 до 10 минут.</string>
+    <string name="dialog_change_device_title">Изменить %1$s?</string>
+    <string name="dialog_change_ir_profile">Изменить ИК-профиль?</string>
+    <string name="dialog_change_profile_description">Это не отменяет любые настройки, которые вы сделали для %1$s.</string>
+    <string name="dialog_change_stb_description">Установка займет от 5 до 10 минут.</string>
+    <string name="dialog_change_tv_message">Для смены телевизора необходимо также заново настроить ресивер или звуковую панель (если она есть). Установка займет от 5 до 10 минут.</string>
+    <string name="dialog_re_run_setup_message">Это переопределит ваши текущие настройки. Установка займет от 5 до 10 минут. Вы уверены, что хотите продолжить?</string>
+    <string name="dialog_re_run_setup_title">Настроить оборудование заново?</string>
+    <string name="dialog_restore_default_message">Это переопределит ваши настройки и восстановит рекомендуемые значения по умолчанию</string>
+    <string name="dialog_restore_default_title">Сброс настроек?</string>
+    <string name="dialog_restore_defaults_message">Это переопределит ваши настройки и восстановит рекомендуемые значения по умолчанию</string>
+    <string name="dialog_restore_defaults_title">Восстановить значения по умолчанию?</string>
+    <string name="dialog_run_onboarding_message">"Fire TV и Alexa будут управлять вашим телевизором и аудио устройствами!
+Установка займет от 5 до 10 минут."</string>
+    <string name="dialog_run_onboarding_title">Настроить оборудование?</string>
+    <string name="dialog_turn_off_tv_control_message">Fire TV и Alexa больше не будут управлять вашим телевизором и аудио оборудованием. Эти настройки могут быть изменены позже.</string>
+    <string name="dialog_turn_off_tv_control_title">Выключить управление оборудованием?</string>
+    <string name="digit">" цифра"</string>
+    <string name="digits">" цифр"</string>
+    <string name="dimmer">Диммер</string>
+    <string name="director">Режиссер:</string>
+    <string name="disabled">Отключено</string>
+    <string name="discrete">Дискретное ВКЛ / ВЫКЛ</string>
+    <string name="display_and_sounds_card">Экран и звук</string>
+    <string name="dvd_player">DVD Player</string>
+    <string name="dvr">DVR</string>
+    <string name="empty_1d_list">Этот список не содержит пунктов</string>
+    <string name="enabled">Включено</string>
+    <string name="enter">Ввод</string>
+    <string name="enter_valid_zip_code">Пожалуйста, введите правильный 6-значный почтовый индекс</string>
+    <string name="enter_zip_code">Введите индекс</string>
+    <string name="equipment_control_unavailable_description">Для управления оборудованием, таким как телевизор или звуковая панель, необходимо подключить Fire TV к пульту Alexa Voice Remote с кнопками питания и громкости или использовать Fire TV Blaster.</string>
+    <string name="equipment_control_unavailable_title">Управление оборудованием недоступно</string>
+    <string name="exit">Выход</string>
+    <string name="failed_loading">В настоящее время мы не можем связаться с нашими серверами</string>
+    <string name="failed_loading_title">%s временно недоступен</string>
+    <string name="find_ir_profile_error">Введенный вами номер ИК-профиля не найден</string>
+    <string name="find_ir_profile_label">Введите номер ИК-профиля</string>
+    <string name="fire_tv">Fire TV</string>
+    <string name="fire_tv_cube_input_description">"Укажите, какие входы переключать для просмотра Fire TV.
+
+
+Размещение:
+%1$s"</string>
+    <string name="fire_tv_input_description">"Укажите, какие входы переключать для просмотра Fire TV.
+
+
+Размещение:
+%1$s"</string>
+    <string name="friendly_name_editor">Изменить имя устройства</string>
+    <string name="friendly_name_illegal_user_input_message">Имя устройства не должно быть пустым</string>
+    <string name="g12_1_subtitle">Make sure the Fire TV Blaster you select has line of sight to your %1$s.</string>
+    <string name="g12_1_title">Which Fire TV Blaster would you like to use to control your %1$s?</string>
+    <string name="g12_4_description">By selecting Yes, you can control your %1$s using your Fire TV remote or your Echo device. If you have other equipment set up you must also use Fire TV Blaster. You can change this by selecting Equipment Control > Manage Equipment. Would you like to continue?</string>
+    <string name="g12_4_title_multiple_graspa">Looks like you have Fire TV Blasters</string>
+    <string name="g12_4_title_one_graspa">Looks like you have a Fire TV Blaster</string>
+    <string name="g12_7_title">Please wait while we connect to your Fire TV Blaster</string>
+    <string name="g12_9_subtitle">Sorry, a connectivity issue has occurred. Please make sure your Fire TV Blaster is turned on and connected to the same Wi-Fi network as your Fire TV. If you choose to skip, we will check for another IR blaster on your network and use that one instead.</string>
+    <string name="g12_9_title">Unable to connect</string>
+    <string name="g2_2_device_profile_item">ИК-профиль #%1$s</string>
+    <string name="g2_2_subtitle">Нажмите  чтобы найти ИК-профиль по номеру</string>
+    <string name="g2_2_title_avr">Выберите ИК-профиль для вашего AV-ресивера</string>
+    <string name="g2_2_title_soundbar">Выберите ИК-профиль для вашей звуковой панели</string>
+    <string name="g2_2_title_tv">Выберите ИК-профиль для вашего телевизора</string>
+    <string name="g2_ir_profile_dialog_error_message">Мы не можем найти этот ИК-профиль. Пожалуйста проверьте и попробуйте снова.</string>
+    <string name="g2_ir_profile_dialog_title">Введите номер ИК-профиля</string>
+    <string name="game_console">Game Console</string>
+    <string name="game_cube">GameCube</string>
+    <string name="global_devices_control_description">Управляйте своим ТВ и аудио оборудованием с помощью Fire TV и Alexa</string>
+    <string name="global_devices_control_title">Контроль оборудования</string>
+    <string name="global_power_timing_title">Интервал для питания</string>
+    <string name="global_re_run_device_setup_description">Это переопределит ваши текущие настройки. Установка займет от 5 до 10 минут.</string>
+    <string name="global_re_run_device_setup_title">Снова настройте оборудование</string>
+    <string name="guide">Гид</string>
+    <string name="hdmi_1">HDMI 1</string>
+    <string name="hdmi_2">HDMI 2</string>
+    <string name="hdmi_3">HDMI 3</string>
+    <string name="hdmi_4">HDMI 4</string>
+    <string name="hdmi_5">HDMI 5</string>
+    <string name="hdmi_6">HDMI 6</string>
+    <string name="hdmi_7">HDMI 7</string>
+    <string name="hdmi_arc">HDMI ARC</string>
+    <string name="help_card">Поддержка</string>
+    <string name="imdb_rating">%s/10</string>
+    <string name="increase">Увеличить</string>
+    <string name="input_1">Вход 1</string>
+    <string name="input_10">Вход 10</string>
+    <string name="input_11">Вход 11</string>
+    <string name="input_12">Вход 12</string>
+    <string name="input_13">Вход 13</string>
+    <string name="input_14">Вход 14</string>
+    <string name="input_15">Вход 15</string>
+    <string name="input_16">Вход 16</string>
+    <string name="input_17">Вход 17</string>
+    <string name="input_2">Вход 2</string>
+    <string name="input_3">Вход 3</string>
+    <string name="input_4">Вход 4</string>
+    <string name="input_4k">Вход 4K</string>
+    <string name="input_5">Вход 5</string>
+    <string name="input_6">Вход 6</string>
+    <string name="input_7">Вход 7</string>
+    <string name="input_8">Вход 8</string>
+    <string name="input_8k">Вход 8K</string>
+    <string name="input_9">Вход 9</string>
+    <string name="input_aec">AEC</string>
+    <string name="input_antenna">Антенна</string>
+    <string name="input_aux">AUX</string>
+    <string name="input_aux2">AUX 2</string>
+    <string name="input_av1">AV1</string>
+    <string name="input_av2">AV2</string>
+    <string name="input_av3">AV3</string>
+    <string name="input_av4">AV4</string>
+    <string name="input_av5">AV5</string>
+    <string name="input_av6">AV6</string>
+    <string name="input_av7">AV7</string>
+    <string name="input_balanced">Balanced</string>
+    <string name="input_bluetooth">Bluetooth</string>
+    <string name="input_bluray">Blu-ray</string>
+    <string name="input_bluray_dvd">Blu-ray DVD</string>
+    <string name="input_bs">BS</string>
+    <string name="input_cable">Cable</string>
+    <string name="input_cbl_sat">Cable Sat</string>
+    <string name="input_cd">CD</string>
+    <string name="input_change_option_cycle_through">Циклически</string>
+    <string name="input_change_option_cycle_through_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+Вы переключаете входы на ТВ, нажимая кнопку «Вход» несколько раз.
+
+Вы можете сказать %1$s, чтобы перейти к следующему входу на вашем телевизоре."</string>
+    <string name="input_change_option_navigate_down">Выбор «Вниз»</string>
+    <string name="input_change_option_navigate_down_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть вертикальное меню.
+
+2. Переходите к следующему входу, нажав «Вниз» на пульте."</string>
+    <string name="input_change_option_navigate_down_enter">Выбор «Вниз» + «Enter»</string>
+    <string name="input_change_option_navigate_down_enter_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть вертикальное меню.
+
+2. Переходите к следующему входу, нажав «Вниз» на пульте.
+
+3. Нажимаете «Enter» для подтверждения."</string>
+    <string name="input_change_option_navigate_left">Выбор «Влево»</string>
+    <string name="input_change_option_navigate_left_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть горизонтальное меню.
+
+2. Переходите к следующему входу, нажав «Влево» на пульте."</string>
+    <string name="input_change_option_navigate_left_enter">Выбор «Влево» + «Enter»</string>
+    <string name="input_change_option_navigate_left_enter_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть горизонтальное меню.
+
+2. Переходите к следующему входу, нажав «Влево» на пульте.
+
+3. Нажимаете «Enter» для подтверждения."</string>
+    <string name="input_change_option_navigate_right">Выбор «Вправо»</string>
+    <string name="input_change_option_navigate_right_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть горизонтальное меню.
+
+2. Переходите к следующему входу, нажав «Вправо» на пульте."</string>
+    <string name="input_change_option_navigate_right_enter">Выбор «Вправо» + «Enter»</string>
+    <string name="input_change_option_navigate_right_enter_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть горизонтальное меню.
+
+2. Переходите к следующему входу, нажав «Вправо» на пульте.
+
+3. Нажимаете «Enter» для подтверждения."</string>
+    <string name="input_change_option_navigate_up">Выбор «Вверх»</string>
+    <string name="input_change_option_navigate_up_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть вертикальное меню.
+
+2. Переходите к следующему входу, нажав «Вверх» на пульте."</string>
+    <string name="input_change_option_navigate_up_enter">Выбор «Вверх» + «Enter»</string>
+    <string name="input_change_option_navigate_up_enter_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажимаете кнопку «Вход», чтобы открыть вертикальное меню.
+
+2. Переходите к следующему входу, нажав «Вверх» на пульте.
+
+3. Нажимаете «Enter» для подтверждения."</string>
+    <string name="input_change_option_unknown">Не задано</string>
+    <string name="input_change_options_description">Выберите метод, используемый для переключения входов для вашего телевизора с помощью оригинального пульта дистанционного управления. Fire TV будет следовать тому же методу, когда вы говорите %1$s.</string>
+    <string name="input_change_options_title">Метод изменения входа</string>
+    <string name="input_change_type_cycle_through">Циклически</string>
+    <string name="input_change_type_horizontal">Горизонтальное меню</string>
+    <string name="input_change_type_other">Другой способ</string>
+    <string name="input_change_type_vertical">Вертикальное меню</string>
+    <string name="input_coaxial">Coaxial</string>
+    <string name="input_component">Component</string>
+    <string name="input_component2">Component 2</string>
+    <string name="input_component3">Component 3</string>
+    <string name="input_cs">CS</string>
+    <string name="input_digital_1">Digital 1</string>
+    <string name="input_digital_2">Digital 2</string>
+    <string name="input_digital_3">Digital 3</string>
+    <string name="input_digital_4">Digital 4</string>
+    <string name="input_dvd">DVD</string>
+    <string name="input_dvi">DVI</string>
+    <string name="input_dvi2">DVI 2</string>
+    <string name="input_dvr">DVR</string>
+    <string name="input_front">Front</string>
+    <string name="input_game">Game</string>
+    <string name="input_game_1">Game 1</string>
+    <string name="input_game_2">Game 2</string>
+    <string name="input_hdmi">HDMI</string>
+    <string name="input_hub">Hub</string>
+    <string name="input_i_link">I Link</string>
+    <string name="input_ieee">IEEE</string>
+    <string name="input_ipod">iPod</string>
+    <string name="input_ld_dvd">LD/DVD</string>
+    <string name="input_lv">LV</string>
+    <string name="input_md">MD</string>
+    <string name="input_media">Media</string>
+    <string name="input_media_alt">Media Alt</string>
+    <string name="input_media_player">Media Player</string>
+    <string name="input_media_server">Media Server</string>
+    <string name="input_mhl">MHL</string>
+    <string name="input_network">Сеть</string>
+    <string name="input_optical">Optical / TV Audio</string>
+    <string name="input_pandora">Pandora</string>
+    <string name="input_pc">PC</string>
+    <string name="input_phono">Phono</string>
+    <string name="input_satellite">Satellite</string>
+    <string name="input_scart">SCART</string>
+    <string name="input_shortcut_add">Добавить оборудование</string>
+    <string name="input_shortcut_add_description">Добавьте дополнительные устройства, которые Fire TV и Alexa могут переключать или контролировать.</string>
+    <string name="input_shortcut_avr_inputs">Вход ресивера</string>
+    <string name="input_shortcut_avr_inputs_voice_view">Вход AV-ресивера</string>
+    <string name="input_shortcut_change_inputs">Изменить входы</string>
+    <string name="input_shortcut_delete_description">Вы уверены, что хотите удалить ярлык входа %1$s?</string>
+    <string name="input_shortcut_delete_title">Удалить ярлык %1$s?</string>
+    <string name="input_shortcut_description">Вы можете попросить Алексу переключиться на другие ваши устройства. Выберите эту опцию, чтобы настроить это.</string>
+    <string name="input_shortcut_device_function">Select the %1$s input you use with %2$s</string>
+    <string name="input_shortcut_device_function_skip">"Press  if you don't change inputs on your %1$s"</string>
+    <string name="input_shortcut_device_function_skip_voice_view">"Press Fast Forward if you don't change inputs on your %1$s"</string>
+    <string name="input_shortcut_device_location">Расположение устройства</string>
+    <string name="input_shortcut_device_type">Тип устройства</string>
+    <string name="input_shortcut_do_this_later">Позже</string>
+    <string name="input_shortcut_edit">Изменить этот ярлык</string>
+    <string name="input_shortcut_edit_voice_view">Нажмите кнопку «OK» чтобы редактировать этот ярлык</string>
+    <string name="input_shortcut_fix_now">Исправить</string>
+    <string name="input_shortcut_item_description">Настройте это устройство так, чтобы Fire TV и Alexa могли переключаться на него. После настройки просто скажите %1$s. Установка займет от 5 до 10 минут.</string>
+    <string name="input_shortcut_missing_more_inputs_desc">Не настроен вход «телевизор» и «%1$s» для Fire TV. Мы рекомендуем исправить это, прежде чем продолжить.</string>
+    <string name="input_shortcut_missing_one_input_desc">Не настроен вход «%1$s» для Fire TV. Мы рекомендуем исправить это, прежде чем продолжить.</string>
+    <string name="input_shortcut_missing_title">Отсутствует вход для Fire TV</string>
+    <string name="input_shortcut_no_input">Не задан</string>
+    <string name="input_shortcut_no_input_selected_desc">Вы должны выбрать вход, чтобы продолжить настройку.</string>
+    <string name="input_shortcut_no_input_selected_title">Невозможно продолжить</string>
+    <string name="input_shortcut_previously_used">Ранее использовался</string>
+    <string name="input_shortcut_remove">Удалить этот ярлык</string>
+    <string name="input_shortcut_remove_voice_view">Нажмите кнопку «Меню» дважды для удаления этого ярлыка</string>
+    <string name="input_shortcut_select_inputs">Выбор входов</string>
+    <string name="input_shortcut_soundbar_inputs">Вход звуковой панели</string>
+    <string name="input_shortcut_title">Ярлыки входов</string>
+    <string name="input_shortcut_tv_inputs">Вход телевизора</string>
+    <string name="input_shortcuts_missing_title">Отсутствуют входы для Fire TV</string>
+    <string name="input_side">Side</string>
+    <string name="input_sirius">Sirius</string>
+    <string name="input_stream_box">Stream Box</string>
+    <string name="input_svideo">S-Video</string>
+    <string name="input_tape">Tape</string>
+    <string name="input_tape_1">Tape 1</string>
+    <string name="input_tape_2">Tape 2</string>
+    <string name="input_tape_3">Tape 3</string>
+    <string name="input_terrestrial">Terrestrial</string>
+    <string name="input_tv_sat">TV/Sat</string>
+    <string name="input_unknown">Неизв.</string>
+    <string name="input_usb">USB</string>
+    <string name="input_userdefined_1">User 1</string>
+    <string name="input_userdefined_10">User 10</string>
+    <string name="input_userdefined_11">User 11</string>
+    <string name="input_userdefined_12">User 12</string>
+    <string name="input_userdefined_13">User 13</string>
+    <string name="input_userdefined_14">User 14</string>
+    <string name="input_userdefined_15">User 15</string>
+    <string name="input_userdefined_16">User 16</string>
+    <string name="input_userdefined_17">User 17</string>
+    <string name="input_userdefined_18">User 18</string>
+    <string name="input_userdefined_19">User 19</string>
+    <string name="input_userdefined_2">User 2</string>
+    <string name="input_userdefined_20">User 20</string>
+    <string name="input_userdefined_3">User 3</string>
+    <string name="input_userdefined_4">User 4</string>
+    <string name="input_userdefined_5">User 5</string>
+    <string name="input_userdefined_6">User 6</string>
+    <string name="input_userdefined_7">User 7</string>
+    <string name="input_userdefined_8">User 8</string>
+    <string name="input_userdefined_9">User 9</string>
+    <string name="input_vaux">Video Aux.</string>
+    <string name="input_vaux2">Video Aux. 2</string>
+    <string name="input_vcr">VCR</string>
+    <string name="input_vcr_2">VCR 2</string>
+    <string name="input_vga">VGA</string>
+    <string name="input_video_1">Video 1</string>
+    <string name="input_video_2">Video 2</string>
+    <string name="input_video_3">Video 3</string>
+    <string name="input_video_4">Video 4</string>
+    <string name="input_video_5">Video 5</string>
+    <string name="input_xm">XM</string>
+    <string name="inputs_card">Входы</string>
+    <string name="ir_change_profile_description">Измените ИК-профиль, назначенный вашему %1$s.</string>
+    <string name="ir_change_profile_title">Сменить ИК-профиль</string>
+    <string name="ir_check_for_update_description">"Проверьте и загрузите последние обновления IR для вашего %1$s. Это не отменяет никаких настроек.
+
+ Активный ИК-профиль:
+ %2$d
+ %3$s
+
+ Обновлен
+ %4$s"</string>
+    <string name="ir_check_for_update_profile_description">"Проверьте и загрузите последние обновления ИК-профилей для вашего %1$s. Это не отменяет никаких настроек.
+
+ Активный ИК-профиль:
+ %2$d
+ %3$s
+
+ Обновлен
+ %4$s"</string>
+    <string name="ir_check_for_update_title">Проверить обновления</string>
+    <string name="ir_check_for_update_title_in_progress">Проверка…</string>
+    <string name="ir_entry_command_description">Выберите если %1$s требуется команда для выхода из меню после включения вашего %1$s.</string>
+    <string name="ir_entry_command_details_pane_command">Измените, какую команду отправлять на %1$s чтобы выйти из меню при включении питания %1$s.</string>
+    <string name="ir_entry_command_details_pane_disabled">На данный момент не отправлено ни одной команды для %1$s после включения</string>
+    <string name="ir_entry_command_title">Команда</string>
+    <string name="ir_find_ir_profile_description">Найдите ИК-профиль по его идентификационному номеру и назначьте его на ваше устройство</string>
+    <string name="ir_find_ir_profile_title">Найти ИК-профиль</string>
+    <string name="ir_options_description">Отрегулируйте инфракрасные (ИК) настройки для управления вашим %1$s.</string>
+    <string name="ir_options_title">Опции ИК-управления</string>
+    <string name="ir_profile">ИК-профиль</string>
+    <string name="ir_profile_description">Измените ИК-профиль, назначенный для %1$s, или проверьте обновления.</string>
+    <string name="ir_profile_title">ИК-профиль</string>
+    <string name="ir_repeating_signals_accessibility_ff">Для одного повторения: нажмите Fast Forward, правую кнопку в нижнем ряду из трех маленьких кнопок.</string>
+    <string name="ir_repeating_signals_accessibility_play_pause">Для трех повторений: Нажмите Play Pause, среднюю кнопку в нижнем ряду из трех маленьких кнопок.</string>
+    <string name="ir_repeating_signals_accessibility_rwd">Для двух повторений: нажмите Rewind, левую кнопку в нижнем ряду трех маленьких кнопок.</string>
+    <string name="ir_repeating_signals_description">Отрегулируйте количество раз, когда один и тот же ИК-сигнал отправляется на %1$s.</string>
+    <string name="ir_repeating_signals_description_avr">Отрегулируйте количество раз, когда один и тот же ИК-сигнал отправляется на ресивер.</string>
+    <string name="ir_repeating_signals_description_soundbar">Отрегулируйте количество раз, когда один и тот же ИК-сигнал отправляется на звуковую панель.</string>
+    <string name="ir_repeating_signals_header_value">Количество повторений:</string>
+    <string name="ir_repeating_signals_title">Повторы</string>
+    <string name="ir_timings_description">Если %1$s часто не реагирует на инфракрасные сигналы, как ожидалось, увеличьте этот интервал.</string>
+    <string name="ir_timings_description_avr">Если ресивер часто не реагирует на инфракрасные сигналы, как ожидалось, увеличьте этот интервал.</string>
+    <string name="ir_timings_description_soundbar">Если звуковая панель часто не реагирует на инфракрасные сигналы, как ожидалось, увеличьте этот интервал.</string>
+    <string name="ir_timings_header_value">Интервал:</string>
+    <string name="ir_timings_title">Тайминг</string>
+    <string name="ir_update_profile">Проверка обновлений</string>
+    <string name="key_label_advance">Дополнительно</string>
+    <string name="key_label_back">Предыдущий</string>
+    <string name="key_label_backspace">Удалить</string>
+    <string name="key_label_clear">Очистить</string>
+    <string name="key_label_first_back">Отмена</string>
+    <string name="key_label_next">Следующий</string>
+    <string name="key_label_password_hidden">"Показать
+пароль"</string>
+    <string name="key_label_password_visible">"Скрыть
+пароль"</string>
+    <string name="key_label_shift_off">ABC</string>
+    <string name="key_label_shift_on">abc</string>
+    <string name="key_label_space">Пробел</string>
+    <string name="key_label_symbols">\#$%</string>
+    <string name="l0_4_description">Вы можете использовать пульт Fire TV для управления телевизором и ресивером или звуковой панелью. Вы хотите настроить их сейчас? Вы также можете сделать это позже в меню «Настройки» > «Управление оборудованием».</string>
+    <string name="l0_4_title">Добавить устройства</string>
+    <string name="l1_10_title_receiver">Какой марки ресивер у вас есть?</string>
+    <string name="l1_10_title_soundbar">Какой бренд звуковой панели у вас есть?</string>
+    <string name="l1_11_title_did_it_work_receiver">Направив пульт Fire TV на ресивер, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l1_11_title_did_it_work_soundbar">Когда пульт Fire TV направлен на звуковую панель, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l1_11_title_did_it_work_tv">Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l1_11_title_receiver">Направив пульт Fire TV на ресивер, переключайте кнопки увеличения и уменьшения громкости.</string>
+    <string name="l1_11_title_soundbar">Когда пульт Fire TV направлен на звуковую панель, переключайте кнопки увеличения и уменьшения громкости.</string>
+    <string name="l1_11_title_tv">Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости.</string>
+    <string name="l1_12_title">Ваш пульт Fire TV теперь успешно настроен</string>
+    <string name="l1_14_title_receiver">Пульт Fire TV не может управлять вашим ресивером. Убедитесь, что вы направляете пульт Fire TV прямо на ресивер, и повторите попытку.</string>
+    <string name="l1_14_title_soundbar">Пульт Fire TV испытывает трудности с управлением вашей звуковой панелью. Убедитесь, что вы направили пульт Fire TV прямо на звуковую панель, и повторите попытку.</string>
+    <string name="l1_14_title_tv">Пульт Fire TV испытывает трудности с управлением телевизором. Убедитесь, что вы направили пульт Fire TV прямо на телевизор, и повторите попытку.</string>
+    <string name="l1_16_button_change_brand">Изменить бренд</string>
+    <string name="l1_16_title">Пульт Fire TV испытывает трудности с управлением телевизором %1$s. Убедитесь, что вы направили пульт Fire TV прямо на телевизор, и повторите попытку.</string>
+    <string name="l1_16_title_generic_brand">Пульт Fire TV испытывает трудности с управлением вашим телевизором. Убедитесь, что вы направили пульт Fire TV прямо на телевизор, и повторите попытку.</string>
+    <string name="l1_18_title">Невозможно подключиться</string>
+    <string name="l1_19_button_skip">Далее</string>
+    <string name="l1_19_description_receiver">Извините, похоже, мы не поддерживаем ваш ресивер.</string>
+    <string name="l1_19_description_soundbar">Извините, похоже, мы не поддерживаем вашу звуковую панель.</string>
+    <string name="l1_19_description_tv">Извините, похоже, мы не поддерживаем ваш телевизор.</string>
+    <string name="l1_19_title">Неподдерживаемый бренд</string>
+    <string name="l1_1_title">Подготовка вашего пульта для настройки</string>
+    <string name="l1_30_description">Извините, Fire TV не может завершить удаленную настройку. Вы можете повторить попытку сейчас или пропустите и попробуйте позже в разделе «Оборудование» настроек.</string>
+    <string name="l1_30_title">Ошибка пульта</string>
+    <string name="l1_3_title">Мы будем играть музыку на следующем шаге. Пожалуйста, убедитесь, что громкость увеличена, затем продолжайте.</string>
+    <string name="l1_5_title_did_they_work_tv">Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l1_5_title_tv">Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l1_6_title">Ваш пульт Fire TV теперь успешно настроен</string>
+    <string name="l1_7_title">Мы обнаружили ваш телевизор %1$s. Это верно?</string>
+    <string name="l1_8_title">Какой бренд телевизора у вас есть?</string>
+    <string name="l1_9_do_not_have_sound_device">Я использую только мой телевизор</string>
+    <string name="l1_9_have_receiver">Я пользуюсь ресивером</string>
+    <string name="l1_9_have_sound_bar">Я использую звуковую панель</string>
+    <string name="l1_9_title">Вы используете звуковую панель или ресивер?</string>
+    <string name="l2_12_title">Мы будем играть музыку на следующем шаге. Пожалуйста, убедитесь, что громкость увеличена, затем продолжайте.</string>
+    <string name="l2_14_title">Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости.</string>
+    <string name="l2_14_title_graspa">With your Fire TV Blaster in line of sight of your TV, toggle the Volume Up and Volume Down buttons.</string>
+    <string name="l2_14_title_rew_ffwd">Tap the  and  buttons to decrease and increase the volume.</string>
+    <string name="l2_14_title_rew_ffwd_confirmation">Tap the  and  buttons to decrease and increase the volume. Did the music volume change and come out of the expected audio device?</string>
+    <string name="l2_14_title_with_buttons">Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l2_14_title_with_buttons_graspa">With your Fire TV Blaster in line of sight of your TV, toggle the Volume Up and Volume Down buttons. Did the music volume change and come out of the expected audio device?</string>
+    <string name="l2_15_title">Ваш пульт Fire TV обновлен</string>
+    <string name="l2_18_title">Нам нужно попробовать это снова. Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости.</string>
+    <string name="l2_18_title_with_buttons">Нам нужно попробовать это снова. Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l2_19_title_avr">Похоже, нам нужно обновить пульт Fire TV, чтобы он был совместим с вашим ресивером.</string>
+    <string name="l2_19_title_soundbar">Похоже, нам нужно обновить пульт Fire TV, чтобы он был совместим с вашей звуковой панелью.</string>
+    <string name="l2_20_do_not_have_sound_device">Я использую только мой телевизор</string>
+    <string name="l2_20_have_receiver">Я пользуюсь ресивером</string>
+    <string name="l2_20_have_sound_bar">Я использую звуковую панель</string>
+    <string name="l2_20_title">Вы используете звуковую панель или ресивер?</string>
+    <string name="l2_21_title_avr">Вы также можете использовать пульт Fire TV для управления ресивером. Хотите настроить это сейчас?</string>
+    <string name="l2_21_title_soundbar">Вы также можете использовать пульт Fire TV для управления звуковой панелью. Хотите настроить это сейчас?</string>
+    <string name="l2_24_graspa_title">The Fire TV Blaster is still having difficulty controlling your TV. If you have followed the placement recommendations correctly, then your TV may not be compatible.</string>
+    <string name="l2_24_title">Пульт Fire TV по-прежнему испытывает трудности с управлением телевизором. Если вы направляли пульт Fire TV прямо на телевизор, возможно, ваш телевизор несовместим.</string>
+    <string name="l2_27_description">Извините, похоже, мы не поддерживаем ваш телевизор.</string>
+    <string name="l2_27_title">Неподдерживаемый бренд</string>
+    <string name="l2_28_description">Если вы выйдете сейчас, вы не сможете использовать пульт Fire TV для управления телевизором.</string>
+    <string name="l2_28_title">Вы уверены?</string>
+    <string name="l2_29_description">Извините, нет подключения к серверу. Пожалуйста, проверьте подключение к Wi-Fi и попробуйте снова. Если проблема не устранена, обратитесь в службу поддержки клиентов Amazon.</string>
+    <string name="l2_29_title">" "</string>
+    <string name="l2_31_title">Ваш пульт дистанционного управления Fire TV обновлен. Похоже, нам нужно перенастроить ваш %1$s. Хотели бы вы сделать это сейчас?</string>
+    <string name="l2_5_title">Мы определили ваш телевизор %1$s. Это верно?</string>
+    <string name="l2_6_title">Какой бренд телевизора у вас есть?</string>
+    <string name="l2_7_description">Нажмите  для выхода, или нажмите  для расширенной настройки.</string>
+    <string name="l2_7_description_ffwd">Нажмите  для выхода, или нажмите  для расширенной настройки.</string>
+    <string name="l2_7_title">"Нажмите  на вашем пульте Fire TV для выключения телевизора.
+Подождите 10 секунд, а затем нажмите  снова для включения."</string>
+    <string name="l2_7_title_ffwd">"Нажмите  на вашем пульте Fire TV для выключения телевизора.
+Подождите 10 секунд, а затем нажмите  снова для включения."</string>
+    <string name="l2_7_title_retry">"Нажмите  на вашем пульте Fire TV для выключения телевизора.
+Подождите 10 секунд, а затем нажмите  снова для включения.
+(Попытка %1$d/%2$d)"</string>
+    <string name="l2_7_title_retry_ffwd">"Press  на вашем пульте Fire TV для выключения телевизора.
+Подождите 10 секунд, а затем нажмите  снова для включения.
+(Попытка %1$d/%2$d)"</string>
+    <string name="l2_9_description">Если вы не уверены, пожалуйста, попробуйте еще раз. Не забывайте держать пульт Fire TV направленным на телевизор при нажатии .</string>
+    <string name="l2_9_description_graspa">"If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the TV you are trying to control."</string>
+    <string name="l2_9_title">Ваш телевизор выключился и снова включился, когда вы нажали ?</string>
+    <string name="l2_9_title_ffwd">Ваш телевизор выключился и снова включился, когда вы нажали ?</string>
+    <string name="l3_12_title_avr">Мы будем играть музыку на следующем шаге. Убедитесь, что громкость на вашем ресивере включена, затем продолжайте.</string>
+    <string name="l3_12_title_soundbar">Мы будем играть музыку на следующем шаге. Убедитесь, что громкость на вашей звуковой панели включена, затем продолжайте.</string>
+    <string name="l3_14_title_avr">Направив пульт дистанционного управления Fire TV на ресивер, переключайте кнопки увеличения и уменьшения громкости.</string>
+    <string name="l3_14_title_did_they_work_avr">Направив пульт дистанционного управления Fire TV на ресивер, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l3_14_title_did_they_work_soundbar">Когда пульт Fire TV направлен на звуковую панель, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l3_14_title_graspa">Нажмите кнопки увеличения и уменьшения громкости.</string>
+    <string name="l3_14_title_graspa_confirmation">Нажмите кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l3_14_title_rew_ffwd">Нажмите кнопки  и  для уменьшения и увеличения громкости.</string>
+    <string name="l3_14_title_rew_ffwd_confirmation">Нажмите кнопки  и  для уменьшения и увеличения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства?</string>
+    <string name="l3_14_title_soundbar">Когда пульт Fire TV направлен на звуковую панель, нажмите кнопки увеличения и уменьшения громкости.</string>
+    <string name="l3_24_title_avr">Пульт Fire TV по-прежнему испытывает трудности с управлением вашим ресивером. Если вы направляли пульт Fire TV прямо на ресивер, возможно, ваш ресивер несовместим.</string>
+    <string name="l3_24_title_avr_graspa">Fire TV Blaster is still having difficulty controlling your receiver. If you have followed the placement recommendations correctly, then your receiver may not be compatible.</string>
+    <string name="l3_24_title_soundbar">Пульт Fire TV по-прежнему испытывает трудности с управлением вашей звуковой панелью. Если вы направляли пульт Fire TV прямо на звуковую панель, значит, ваша звуковая панель может быть несовместима.</string>
+    <string name="l3_24_title_soundbar_graspa">Fire TV Blaster is still having difficulty controlling your soundbar. If you have followed the placement recommendations correctly, then your soundbar may not be compatible.</string>
+    <string name="l3_27_description_avr">Извините, похоже, мы не поддерживаем ваш ресивер.</string>
+    <string name="l3_27_description_soundbar">Извините, похоже, мы не поддерживаем вашу звуковую панель.</string>
+    <string name="l3_27_title">Неподдерживаемый бренд</string>
+    <string name="l3_28_description_avr">Если вы выйдете, вы не сможете использовать пульт Fire TV для управления ресивером.</string>
+    <string name="l3_28_description_soundbar">Если вы выйдете, вы не сможете использовать пульт Fire TV для управления звуковой панелью.</string>
+    <string name="l3_28_title">Вы уверены?</string>
+    <string name="l3_29_description">К сожалению, мы не можем подключиться к серверу. Пожалуйста, проверьте ваше Wi-Fi соединение и попробуйте снова. Если проблема не устранена, обратитесь в службу поддержки клиентов Amazon.</string>
+    <string name="l3_29_title">" "</string>
+    <string name="l3_5_title_avr">Мы обнаружили ресивер %1$s.
+Это верно?"</string>
+    <string name="l3_5_title_soundbar">Мы обнаружили звуковую панель %1$s.
+Это верно?"</string>
+    <string name="l3_7_description">Нажмите  для выхода или  для расширенной настройки</string>
+    <string name="l3_7_description_retry_ffwd">Нажмите  для выхода.</string>
+    <string name="l3_7_title_avr">"Нажмите  на пульте Fire TV, чтобы выключить ресивер.
+Подождите 10 секунд, затем нажмите  , чтобы включить его снова."</string>
+    <string name="l3_7_title_avr_ffwd">"Нажмите  на пульте Fire TV, чтобы выключить ресивер.
+Подождите 10 секунд, затем нажмите  чтобы включить его снова."
+</string>
+    <string name="l3_7_title_retry_avr">"Нажмите  на пульте Fire TV, чтобы выключить ресивер.
+Подождите 10 секунд, затем нажмите  , чтобы включить его снова.
+Попытка %1$d/%2$d"</string>
+    <string name="l3_7_title_retry_avr_ffwd">"Нажмите  на пульте Fire TV, чтобы выключить ресивер.
+Подождите 10 секунд, затем нажмите  чтобы включить его снова.
+Попытка %1$d/%2$d."
+</string>
+    <string name="l3_7_title_retry_soundbar">"Нажмите  на пульте Fire TV, чтобы отключить звуковую панель.
+Подождите 10 секунд, затем нажмите  , чтобы включить её снова.
+Попытка %1$d/%2$d"</string>
+    <string name="l3_7_title_retry_soundbar_ffwd">"Нажмите  на пульте Fire TV, чтобы отключить звуковую панель.
+Подождите 10 секунд, затем нажмите  чтобы включить её снова.
+Попытка %1$d/%2$d."</string>
+    <string name="l3_7_title_soundbar">"Нажмите  на пульте Fire TV, чтобы отключить звуковую панель.
+Подождите 10 секунд, затем нажмите  , чтобы включить её снова."</string>
+    <string name="l3_7_title_soundbar_ffwd">"Нажмите  на пульте Fire TV, чтобы отключить звуковую панель.
+Подождите 10 секунд, затем нажмите  чтобы включить её снова."</string>
+    <string name="l3_9_description_avr">Если вы не уверены, пожалуйста, попробуйте еще раз. Не забывайте держать пульт Fire TV направленным на приемник при нажатии .</string>
+    <string name="l3_9_description_avr_graspa">"If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the receiver you are trying to control."</string>
+    <string name="l3_9_description_soundbar">Если вы не уверены, пожалуйста, попробуйте еще раз. Не забывайте держать пульт Fire TV направленным на звуковую панель при нажатии .</string>
+    <string name="l3_9_description_soundbar_graspa">"If you're not sure, please try again. Make sure your Fire TV Blaster has line of sight to the soundbar you are trying to control."</string>
+    <string name="l3_9_title_avr">Ресивер выключился и снова включился, когда вы нажали ?</string>
+    <string name="l3_9_title_avr_ffwd">Ресивер выключился и снова включился, когда вы нажали ?</string>
+    <string name="l3_9_title_soundbar">Ваша звуковая панель выключалась, а затем снова включалась, когда вы нажимали ?</string>
+    <string name="l3_9_title_soundbar_ffwd">Ваша звуковая панель выключалась, а затем снова включалась, когда вы нажимали ?</string>
+    <string name="l4_11_title">Did we successfully switch to %1$s?</string>
+    <string name="l4_11_title_cable">Did we successfully switch to your %1$s?</string>
+    <string name="l4_13_description_avr">It looks like we have the wrong input for your receiver. Please try again.</string>
+    <string name="l4_13_description_soundbar">It looks like we have the wrong input for your soundbar. Please try again.</string>
+    <string name="l4_13_description_tv">It looks like we have the wrong input for your TV. Please try again.</string>
+    <string name="l4_13_description_tv_avr">It looks like we have the wrong inputs for your TV and receiver. Please try again.</string>
+    <string name="l4_13_description_tv_soundbar">It looks like we have the wrong inputs for your TV and soundbar. Please try again.</string>
+    <string name="l4_15_title">To switch to %1$s, simply hold down the microphone button, then say \"Switch to %2$s\".</string>
+    <string name="l4_16_title">Select the TV input you use for Fire TV.</string>
+    <string name="l4_18_title_avr">Select the receiver input you use for Fire TV.</string>
+    <string name="l4_18_title_soundbar">Select the soundbar input you use for Fire TV.</string>
+    <string name="l4_19_title">"Let's try that again. After we switch inputs, press  on your Fire TV remote to return."</string>
+    <string name="l4_20_title">Switching inputs...</string>
+    <string name="l4_21_title">Did pressing the  button return you to Fire TV?</string>
+    <string name="l4_22_title">"Before we get started, make sure that your %1$s is turned on.
+Your Fire TV remote should be pointed at your TV during this process."</string>
+    <string name="l4_22_title_graspa">"Before we get started, make sure your %1$s is turned on.
+Your Fire TV Blaster should be in the line of sight of your TV during this process."</string>
+    <string name="l4_23_description_avr">It looks like we have the wrong input for your receiver. Please try again.</string>
+    <string name="l4_23_description_soundbar">It looks like we have the wrong input for your soundbar. Please try again.</string>
+    <string name="l4_23_description_tv">It looks like we have the wrong input for your TV. Please try again.</string>
+    <string name="l4_23_description_tv_avr">It looks like we have the wrong inputs for your TV and receiver. Please try again.</string>
+    <string name="l4_23_description_tv_soundbar">It looks like we have the wrong inputs for your TV and soundbar. Please try again.</string>
+    <string name="l4_25_title_failure">Sorry, it looks like we are unable to set up your %1$s.</string>
+    <string name="l4_25_title_success">You can now control your %1$s with Alexa. Try holding down the  and %2$s, or %3$s. Please note that we are unable to switch to your %1$s.</string>
+    <string name="l4_26_title_failure">To switch to your %1$s, simply hold down the , then say, \"%2$s\".</string>
+    <string name="l4_26_title_failure_graspa">To switch to your %1$s, simply hold down the , then say %2$s. If you have a TV, Soundbar or Receiver set up you must also use your Fire TV Blaster. You can change this by selecting it next.</string>
+    <string name="l4_26_title_success">To switch to your %1$s, simply hold down the , then say, \"%2$s\". To control your %1$s with Alexa, try saying, \"%3$s\", or \"%4$s\".</string>
+    <string name="l4_26_title_success_graspa">To control your %1$s with Alexa, simply hold down the , and try saying %2$s, or %3$s. If you have a TV, Soundbar or Receiver set up you must also use your Fire TV Blaster. You can change this by selecting it next.</string>
+    <string name="l4_28_subtitle">You must select an input to continue with setup.</string>
+    <string name="l4_28_title">Unable to continue</string>
+    <string name="l4_2_subtitle">"Press  if you don't switch inputs on your TV."</string>
+    <string name="l4_2_title">Select the TV input you use for %1$s.</string>
+    <string name="l4_4_subtitle_avr">"Press  if you don't switch inputs on your receiver."</string>
+    <string name="l4_4_subtitle_soundbar">"Press  if you don't switch inputs on your soundbar."</string>
+    <string name="l4_4_title_avr">Select the receiver input you use for %1$s.</string>
+    <string name="l4_4_title_cable_avr">Select the receiver input you use for your %1$s.</string>
+    <string name="l4_4_title_cable_soundbar">Select the soundbar input you use for your %1$s.</string>
+    <string name="l4_4_title_soundbar">Select the soundbar input you use for %1$s.</string>
+    <string name="l4_5_title">To add your %1$s, we first need to switch to it. After we switch inputs, press  on your Fire TV remote to return.</string>
+    <string name="l4_7_title">"It looks like we couldn't switch to %1$s. Press  to continue."</string>
+    <string name="l4_7_title_cable">"It looks like we couldn't switch to your %1$s. Press  to continue."</string>
+    <string name="l4_8_description_avr">"• Make sure your Fire TV remote is pointing directly at your receiver and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_graspa_avr">"• Make sure your Fire TV Blaster has line of sight to your receiver and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_graspa_soundbar">"• Make sure your Fire TV Blaster has line of sight to your soundbar and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_graspa_tv">"• Make sure your Fire TV Blaster has line of sight to your TV and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_graspa_tv_avr">"• Make sure your Fire TV Blaster has line of sight to your TV and receiver and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_graspa_tv_soundbar">"• Make sure your Fire TV Blaster has line of sight to your TV and soundbar and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_soundbar">"• Make sure your Fire TV remote is pointing directly at your soundbar and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_tv">"• Make sure your Fire TV remote is pointing directly at your TV and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_tv_avr">"• Make sure your Fire TV remote is pointing directly at your TV and receiver and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_description_tv_soundbar">"• Make sure your Fire TV remote is pointing directly at your TV and soundbar and try again.
+• Try selecting another input.
+• If you return to this screen repeatedly, your %1$s might not support this feature. You can still say %2$s to jump between your inputs."</string>
+    <string name="l4_8_title">Here are some things you can try:</string>
+    <string name="l5_10_description_avr">Нажмите  если вы не переключаете входы на вашем ресивере</string>
+    <string name="l5_10_description_soundbar">Нажмите  если вы не переключаете входы на звуковой панели</string>
+    <string name="l5_10_title_avr">Какой вход в данный момент настроен вашим ресивером?</string>
+    <string name="l5_10_title_soundbar">Какой вход для вашей звуковой панели в данный момент установлен?</string>
+    <string name="l5_12_description">Если у вас есть какие-либо проблемы, используйте ваши оригинальные пульты, чтобы вернуться.</string>
+    <string name="l5_12_title_receiver">Используя пульт дистанционного управления вашего ресивера, переключитесь на другой вход. Когда вы там, нажмите  на пульте Fire TV и держите его направленным на ресивер.</string>
+    <string name="l5_12_title_soundbar">Используя пульт управления звуковой панелью, выберите другой вход. Когда вы там, нажмите  на пульте Fire TV и держите его направленным на звуковую панель.</string>
+    <string name="l5_13_title">Переключение входов</string>
+    <string name="l5_15_title">Нажатие  вернуло вас к Fire TV?</string>
+    <string name="l5_16_description_avr">"• Убедитесь, что пульт дистанционного управления Fire TV направлен прямо на ресивер, и повторите попытку.
+• Попробуйте выбрать другой вход.
+• Если вы неоднократно возвращаетесь к этому экрану, ваш ресивер может не поддерживать эту функцию. Вы все еще можете сказать %1$s для переключения между вашими входами."</string>
+    <string name="l5_16_description_graspa_avr">"• Make sure your Fire TV Blaster has line of sight to your receiver and try again.
+• Попробуйте выбрать другой вход.
+• If you return to this screen repeatedly, your receiver might not support this feature. You can still say %1$s to jump between your inputs."</string>
+    <string name="l5_16_description_graspa_soundbar">"• Make sure your Fire TV Blaster has line of sight to your soundbar and try again.
+• Попробуйте выбрать другой вход.
+• If you return to this screen repeatedly, your soundbar might not support this feature. You can still say %1$s to jump between your inputs."</string>
+    <string name="l5_16_description_soundbar">"• Убедитесь, что пульт дистанционного управления Fire TV направлен прямо на звуковую панель, и повторите попытку.
+• Попробуйте выбрать другой вход.
+• Если вы неоднократно возвращаетесь к этому экрану, ваша звуковая панель может не поддерживать эту функцию. Вы все еще можете сказать %1$s для переключения между вашими входами."</string>
+    <string name="l5_16_title">Вот несколько вещей, которые вы можете попробовать:</string>
+    <string name="l5_18_title">Ваш пульт дистанционного управления Fire TV обновлен</string>
+    <string name="l5_18_title_graspa_audio">Your Fire TV Blaster has been updated. If you have a TV, Cable or Satellite set up, you must also use the Fire TV Blaster. You can change this by selecting it next</string>
+    <string name="l5_18_title_graspa_tv">Your Fire TV Blaster has been updated. If you have a Soundbar, Receiver, Cable or Satellite set up, you must also use the Fire TV Blaster. You can change this by selecting it next</string>
+    <string name="l5_19_title">Ваш пульт дистанционного управления Fire TV обновлен. Похоже, нам нужно перенастроить ваш %1$s. Хотели бы вы сделать это сейчас?</string>
+    <string name="l5_19_title_audio_alternate">Your Fire TV Blaster has been updated. If you have a TV, Cable or Satellite set up, you must also use the Fire TV Blaster. It looks like we need to reconfigure your %1$s. Would you like to do this now?</string>
+    <string name="l5_19_title_tv_alternate">Your Fire TV Blaster has been updated. If you have a Soundbar, Receiver, Cable or Satellite set up, you must also use the Fire TV Blaster. It looks like we need to reconfigure your %1$s. Would you like to do this now?</string>
+    <string name="l5_21_description">"To link your Echo speaker to this Fire TV:
+
+1. Open the Alexa app, then go to the menu.
+2. Select Settings > TV &amp; Video.
+3. Select Fire TV, then follow the on-screen instructions
+
+If you have multiple TVs set up with Fire TV or Alexa, they must have unique names. You can rename them using the Alexa app."</string>
+    <string name="l5_21_title">Control your Fire TV with your Echo speaker</string>
+    <string name="l5_2_title">На какой вход настроен ваш телевизор?</string>
+    <string name="l5_4_description">Если у вас есть какие-либо проблемы, используйте ваши оригинальные пульты, чтобы вернуться.</string>
+    <string name="l5_4_title">Используя пульт от телевизора, выберите другой вход. Когда вы там, нажмите  на пульте Fire TV и держите его направленным на телевизор.</string>
+    <string name="l5_5_title">Переключение входов</string>
+    <string name="l5_7_title">Нажатие  вернуло вас к Fire TV?</string>
+    <string name="l5_8_description">"• Убедитесь, что пульт дистанционного управления Fire TV направлен прямо на телевизор, и повторите попытку.
+• Попробуйте выбрать другой вход.
+• Если вы возвращаетесь к этому экрану несколько раз, ваш телевизор может не поддерживать эту функцию. Вы все еще можете сказать %1$s для переключения между вашими входами."</string>
+    <string name="l5_8_description_graspa">"• Make sure your Fire TV Blaster has line of sight to your TV and try again.
+• Попробуйте выбрать другой вход.
+• If you return to this screen repeatedly, your TV might not support this feature. You can still say %1$s to jump between your inputs."</string>
+    <string name="l_1_18_description">К сожалению, мы не можем подключиться к серверу. Пожалуйста, проверьте ваше Wi-Fi соединение и попробуйте снова. Если проблема не устранена, обратитесь в сервисную службу Amazon.</string>
+    <string name="live">В эфире</string>
+    <string name="live_card">Прямой эфир</string>
+    <string name="loading">Загрузка…</string>
+    <string name="loading_description">Загрузка настроек вашего устройства. Пожалуйста, подождите.</string>
+    <string name="loading_error">Ошибка загрузки</string>
+    <string name="loading_profiles_indicator">Загрузка ИК-профилей</string>
+    <string name="loading_watchlist">Проверка вашего списка наблюдения</string>
+    <string name="loading_with_title">Загрузка %s…</string>
+    <string name="loading_without_title">Загрузка…</string>
+    <string name="ls1_1_please_wait_while_we_start">Пожалуйста, подождите, пока мы готовим ваш Fire TV Cube.</string>
+    <string name="ls1_1_please_wait_while_we_start_lucky_l">Пожалуйста, подождите, пока мы подготовим ваш Fire TV.</string>
+    <string name="ls1_1_subtitle">"• Not in a closed cabinet
+• Unobstructed
+• Facing you
+• At least 30 cm away from speakers
+
+If you have media equipment in a closed cabinet, use the IR blaster included in the box."</string>
+    <string name="ls1_1_title">"Your Fire TV Cube needs line of sight to your equipment. Make sure it's…"</string>
+    <string name="ls1_1_title_lucky_l">Please wait while we prepare your Fire TV.</string>
+    <string name="ls2_1_is_this_the_same_stb">Is this the same %1$s you are using with the Alexa %2$s TV skill?</string>
+    <string name="ls2_2_all_we_need_to_do_is_make_sure">Got it! Now we need to make sure that we can switch to the correct inputs on your %1$s.</string>
+    <string name="ls2_4_would_you_like_to_reconfigure">Got it! Would you like to reconfigure your inputs for your %1$s?</string>
+    <string name="ls3_2_something_went_wrong">Unable to connect</string>
+    <string name="ls3_2_we_are_having_trouble_connecting">Sorry, a connectivity issue has occurred. Please try again.</string>
+    <string name="ls3_3_confirming_your_zip_code">Next, we will set up control of your %1$s. Can you confirm your postcode is %2$s?</string>
+    <string name="ls3_7_no_zip_code_associated_with">"Next, we will set up control of your %1$s. Let's start with your postcode."</string>
+    <string name="ls4_1_please_wait_while_we_start">Please wait while we find the TV service providers in your area.</string>
+    <string name="ls4_3_no_lineups_for_zip_available">"It appears your postcode is incorrect or not supported.
+A valid or supported postcode is required to continue."</string>
+    <string name="ls4_3_something_went_wrong">Something went wrong</string>
+    <string name="ls4_4_provider_not_listed">Provider not listed</string>
+    <string name="ls4_4_select_your_tv_provider">Who is your TV provider?</string>
+    <string name="ls4_5_lineup_not_listed">Lineup not listed</string>
+    <string name="ls4_5_select_your_tv_lineup">What is your %1$s lineup?</string>
+    <string name="ls5_1_lineup_not_listed">"It looks like your lineup is not supported. However, let's see if we can learn how your %1$s is connected to your equipment."</string>
+    <string name="ls5_1_provider_not_listed">"It looks like your provider is not supported. However, let's see if we can learn how your %1$s is connected to your equipment."</string>
+    <string name="ls5_3_it_looks_like_lineup_not_available">It looks like your lineup is not supported. Would you like to reconfigure how your %1$s is connected to your equipment?</string>
+    <string name="ls5_3_it_looks_like_provider_not_available">It looks like your provider is not supported. Would you like to reconfigure how your %1$s is connected to your equipment?</string>
+    <string name="ltv1_0_title">Which device do you use for changing channels on Live TV?</string>
+    <string name="ltv2_0_title">How do you want to call this device?</string>
+    <string name="manage_equipment_description">Настройте, как Fire TV управляет вашим телевизором, аудио и другим оборудованием.</string>
+    <string name="manage_equipment_title">Управление оборудованием</string>
+    <string name="manual">По запросу</string>
+    <string name="max_value_label">" (макс.)"</string>
+    <string name="media_player">Media Player</string>
+    <string name="menu_button_content_description">Кнопка Меню</string>
+    <string name="menu_main">Главное меню</string>
+    <string name="milliseconds">" мс"</string>
+    <string name="mini_detail_known_for">Known For  %s</string>
+    <string name="mini_details_year_range">%1$s - %2$s</string>
+    <string name="more_description">Ещё</string>
+    <string name="more_info">Больше информации</string>
+    <string name="more_ways_to_watch">"More Ways
+to Watch"</string>
+    <string name="music_videos_views">Views</string>
+    <string name="music_videos_watch_on_vevo">Watch On Vevo</string>
+    <string name="mute_toggle">Mute Toggle</string>
+    <string name="my_account_card">My Account</string>
+    <string name="network_card">Сеть</string>
+    <string name="not_switch_inputs_title">Не задан</string>
+    <string name="notification_center_card">Уведомления</string>
+    <string name="off">Выкл.</string>
+    <string name="ok">OK</string>
+    <string name="once">Один раз</string>
+    <string name="open_paren">(</string>
+    <string name="ota1_0_title">If you watch live TV using an OTA/Terrestrial aerial, you can use the Fire TV Cube to change channels using your voice.</string>
+    <string name="ota1_10_title">It appears your postcode is incorrect or not supported. A valid or supported postcode is required to continue.</string>
+    <string name="ota1_11_title">Next, we will set up control of your TV aerial. Can you confirm your postcode is %1$s?</string>
+    <string name="ota1_1_description">"• Not in a closed cabinet
+• Unobstructed
+• Facing you
+• At least 30 cm away from speakers
+
+If you have media equipment in a closed cabinet, use the IR blaster included in the box."</string>
+    <string name="ota1_1_note">Preparing setup. This may take a few seconds.</string>
+    <string name="ota1_1_title">"Your Fire TV Cube needs line of sight to your equipment. Make sure it's…"</string>
+    <string name="ota1_3_title">"Next, we will set up control of your aerial. Let's start with your postcode."</string>
+    <string name="ota1_7_loading_title">Please wait while we retrieve the TV lineup information for your area.</string>
+    <string name="ota1_7_title">What is your Live TV lineup?</string>
+    <string name="ota2_10_title">"It looks like we couldn't switch to your Aerial.
+Press  to continue."</string>
+    <string name="ota2_11_title">Welcome back. Click next to continue.</string>
+    <string name="ota2_4_subtitle_avr">"Press  if you don't change inputs on your receiver"</string>
+    <string name="ota2_4_subtitle_soundbar">"Press  if you don't change inputs on your soundbar"</string>
+    <string name="ota2_4_title_avr_antenna">Select the receiver input you use with your aerial.</string>
+    <string name="ota2_4_title_avr_cable">Select the receiver input you use with your Cable.</string>
+    <string name="ota2_4_title_avr_satellite">Select the receiver input you use with your Satellite.</string>
+    <string name="ota2_4_title_soundbar_antenna">Select the soundbar input you use with your aerial.</string>
+    <string name="ota2_4_title_soundbar_cable">Select the soundbar input you use with your Cable.</string>
+    <string name="ota2_4_title_soundbar_satellite">Select the soundbar input you use with your Satellite.</string>
+    <string name="ota2_5_title_antenna">"We will now switch to Aerial. Click Next when you're ready."</string>
+    <string name="ota2_5_title_cable">"We will now switch to Cable. Click Next when you're ready."</string>
+    <string name="ota2_5_title_satellite">"We will now switch to Satellite. Click Next when you're ready."</string>
+    <string name="ota2_8_title">It looks like we are unable to switch inputs on your TV. Click Next to continue.</string>
+    <string name="ota2_9_title_input_switching_not_successful">%1$s, try saying, %2$s or %3$s.</string>
+    <string name="ota2_9_title_input_switching_successful">You can now say, %1$s. %2$s, try saying, %3$s or %4$s. To switch back to Fire TV, just say, %5$s.</string>
+    <string name="ota2_9_title_switching_back_to_fire_tv_not_successful">You can now say, %1$s. %2$s, try saying, %3$s or %4$s.</string>
+    <string name="ota2_9_to_control_your_activity_antenna">To control your Antenna with Alexa</string>
+    <string name="ota2_9_to_control_your_activity_cable">To control your Cable with Alexa</string>
+    <string name="ota2_9_to_control_your_activity_satellite">To control your Satellite with Alexa</string>
+    <string name="ota_common_switching_multiple_inputs">Переключение входов</string>
+    <string name="ota_common_switching_single_input">Переключение входа</string>
+    <string name="oxford_and_list_dual_terminator">" и "</string>
+    <string name="oxford_and_list_terminator">", и "</string>
+    <string name="oxford_list_separator">", "</string>
+    <string name="oxford_or_list_dual_terminator">" или "</string>
+    <string name="oxford_or_list_terminator">", или "</string>
+    <string name="pipe">|</string>
+    <string name="play_station">Playstation</string>
+    <string name="play_station_2">Playstation 2</string>
+    <string name="play_station_3">Playstation 3</string>
+    <string name="play_station_4">Playstation 4</string>
+    <string name="power_adapter_continue">Продолжить без адаптера питания</string>
+    <string name="power_command_description">Измените этот параметр, если ваш %1$s не включается или не выключается.</string>
+    <string name="power_command_description_avr">Change this setting if your receiver is not turning on or off.</string>
+    <string name="power_command_description_soundbar">Change this setting if your soundbar is not turning on or off.</string>
+    <string name="power_command_repetition_description_message">Отрегулируйте количество отправок ИК-сигнала включения и выключения на телевизор</string>
+    <string name="power_command_repetition_title">Повтор команд питания</string>
+    <string name="power_command_title">Команды питания</string>
+    <string name="power_controls_automatic_off_description">Включите этот параметр, чтобы Fire TV мог автоматически включать и выключать ваш %1$s.</string>
+    <string name="power_controls_automatic_on_description">Fire TV автоматически включает и выключает ваш %1$s. Отключите этот параметр, если ваше оборудование работает не так, как ожидалось.</string>
+    <string name="power_controls_automatic_on_description_avr">Fire TV will automatically turn your receiver on and off. Turn off this setting if your equipment does not behave as expected.</string>
+    <string name="power_controls_automatic_on_description_soundbar">Fire TV will automatically turn your soundbar on and off. Turn off this setting if your equipment does not behave as expected.</string>
+    <string name="power_controls_automatic_turn_on_title">Управление питанием</string>
+    <string name="power_controls_description">Настройте параметры включения / выключения питания для %1$s.</string>
+    <string name="power_controls_description_avr">Настройте параметры включения / выключения питания для ресивера.</string>
+    <string name="power_controls_description_soundbar">Настройте параметры включения / выключения питания для звуковой панели.</string>
+    <string name="power_controls_title">Управление питанием</string>
+    <string name="power_off">Power Off</string>
+    <string name="power_off_command_repetition_description_message">Отрегулируйте количество раз, когда ИК-сигнал выключения питания отправляется на ваш телевизор.</string>
+    <string name="power_off_command_repetition_title">Power Off</string>
+    <string name="power_ok">OK</string>
+    <string name="power_on">Power On</string>
+    <string name="power_on_command_repetition_description_message">Отрегулируйте количество раз, когда ИК-сигнал включения питания отправляется на ваш телевизор.</string>
+    <string name="power_on_command_repetition_title">Power On</string>
+    <string name="power_on_delay_description">Если ваш %1$s не реагирует на ИК-сигналы после включения, увеличьте эту задержку.</string>
+    <string name="power_on_delay_header_value">Задержка:</string>
+    <string name="power_on_delay_title">Задержка Power On</string>
+    <string name="power_on_input_description">Пытаться вернуться ко входу Fire TV при включении телевизора после фразы %1$s.</string>
+    <string name="power_on_input_fire_tv">Fire TV</string>
+    <string name="power_on_input_fire_tv_cube">Fire TV</string>
+    <string name="power_on_input_fire_tv_cube_description">Пытаться вернуться к входу Fire TV при включении телевизора после фразы \"Alexa, turn on the TV\".</string>
+    <string name="power_on_input_fire_tv_description">Пытаться вернуться к входу Fire TV при включении телевизора после фразы %1$s.</string>
+    <string name="power_on_input_title">Вход при включении</string>
+    <string name="power_on_input_tv_default">По умолчанию на ТВ</string>
+    <string name="power_on_input_tv_default_description">Не пытаться вернуться к входу Fire TV при включении телевизора после фразы %1$s, а только следовать поведению при включении телевизора по умолчанию."</string>
+    <string name="power_timing_description">Если ваше аудио-видео оборудование не включается и не выключается одновременно, увеличьте этот интервал.</string>
+    <string name="power_timing_header_value">Интервал:</string>
+    <string name="power_timing_max_value"> (макс.)</string>
+    <string name="pr1_0_projector_welcome_dialog_accessibility_description">"Please refer to your projector as TV when interacting with Alexa: \"Alexa, turn on the TV\". You can rename the TV \"projector\" in the Alexa mobile app. If you're having issues turning your projector on or off, you can change the TV power settings in the Equipment Control section of Settings."</string>
+    <string name="pr1_0_projector_welcome_dialog_description">"• Пожалуйста, при работе с Alexa обращайтесь к вашему проектору как к телевизору: \"Alexa, turn on the TV\"
+• Вы можете переименовать телевизор \"projector\" в мобильном приложении Alexa.
+• Если у вас возникают проблемы с включением или выключением проектора, вы можете изменить настройки «Управление питанием» телевизора в разделе «Управление оборудованием» Настроек Fire TV."</string>
+    <string name="pr1_0_projector_welcome_dialog_title">Ваш проектор был настроен как ваш телевизор.</string>
+    <string name="pr1_1_close_button">Закрыть</string>
+    <string name="pr1_1_projector_reminder_dialog_accessibility_description">"Please refer to your projector as TV when interacting with Alexa: \"Alexa, turn on the TV\". You can rename the TV \"projector\" in the Alexa mobile app. If you're having issues turning your projector on or off, you can change the TV power settings in the Equipment Control section of Settings. If you'd like to change the IR Profile to a TV or to another projector, press the Menu button twice. The Menu button is the right button on the top row of 3 small buttons."</string>
+    <string name="pr1_1_projector_reminder_dialog_description">"• Пожалуйста, при работе с Alexa обращайтесь к вашему проектору как к телевизору: \"Alexa, turn on the TV\"
+• Вы можете переименовать телевизор \"projector\" в мобильном приложении Alexa.
+• Если у вас возникают проблемы с включением или выключением проектора, вы можете изменить настройки «Управление питанием» телевизора в разделе «Управление оборудованием» Настроек Fire TV.
+• Если вы хотите изменить ИК-профиль на телевизор или другой проектор, нажмите "</string>
+    <string name="pr1_1_projector_reminder_dialog_title">Ваш проектор был настроен как ваш телевизор.</string>
+    <string name="preferences_card">Настройки</string>
+    <string name="press_and_hold_for_more_options">Удерживайте «ОК» для всех параметров</string>
+    <string name="press_hint_divider">|</string>
+    <string name="receiver_friendly_name_editor_description">Измените имя, которое вы используете при управлении вашим ресивером</string>
+    <string name="remove_avr_description">Вы уверены, что хотите удалить этот ресивер?</string>
+    <string name="remove_avr_title">Удалить ресивер?</string>
+    <string name="remove_device_description">Вы уверены, что хотите удалить %1$s?</string>
+    <string name="remove_device_title">Удалить %1$s?</string>
+    <string name="remove_from_list">"Удалить из
+%1$s"</string>
+    <string name="remove_from_list_label">"Удалить из
+списка"</string>
+    <string name="remove_from_recent">"Удалить из
+недавнего"</string>
+    <string name="remove_from_watchlist">"Удалить из
+списка наблюдения"</string>
+    <string name="remove_soundbar_description">Вы уверены, что хотите удалить эту звуковую панель?</string>
+    <string name="remove_soundbar_title">Удалить звуковую панель?</string>
+    <string name="remove_stb_device_description">"Вы уверены, что хотите удалить это устройство?
+Fire TV больше не сможет контролировать %1$s."</string>
+    <string name="remove_this_device">Удалить это устройство</string>
+    <string name="restore_default">Сброс настроек</string>
+    <string name="restore_defaults">Восстановить значения по умолчанию</string>
+    <string name="restore_defaults_description">Это переопределит ваши настройки и восстановит рекомендуемые значения по умолчанию.</string>
+    <string name="restore_defaults_title">Сброс настроек %1$s</string>
+    <string name="restore_defaults_title_avr">Сброс настроек ресивера</string>
+    <string name="restore_defaults_title_soundbar">Сброс настроек звуковой панели</string>
+    <string name="resume_movie">Продолжить</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="roku">Roku</string>
+    <string name="run_device_setup_description">Fire TV может управлять вашим телевизором и аудио оборудованием. Установка займет от 5 до 10 минут.</string>
+    <string name="run_device_setup_title">Настройте оборудование</string>
+    <string name="runtime_caption">Время выполнения: </string>
+    <string name="runtime_value_hour_short"> ч.</string>
+    <string name="runtime_value_min_short"> мин.</string>
+    <string name="runtime_value_plural_hour"> ч. </string>
+    <string name="runtime_value_plural_min"> мин. </string>
+    <string name="runtime_value_plural_sec"> сек. </string>
+    <string name="runtime_value_sec_short"> с.</string>
+    <string name="runtime_value_singular_hour"> ч. </string>
+    <string name="runtime_value_singular_min"> мин. </string>
+    <string name="runtime_value_singular_sec"> cек. </string>
+    <string name="runtime_value_whitespace"> </string>
+    <string name="s1_0_title">"Now we're going to learn how your Fire TV connects to your equipment."</string>
+    <string name="s1_10_title">Fire TV is unable to control your inputs. You can further customise this setting by going to Settings > Equipment Control > Manage Equipment > TV > Input Change Options.</string>
+    <string name="s1_1_title">How do you switch input with your TV remote?</string>
+    <string name="s1_2_title">Do you need to press the OK button on your TV remote after you navigate to the desired input?</string>
+    <string name="s1_4_title_cycle_through_bottom_left_direction">"Use your TV remote, press the Input button, then navigate to the input located after the current input. Press  when you've switched."</string>
+    <string name="s1_4_title_cycle_through_top_right_direction">"Use your TV remote, press the Input button, then navigate to the input located before the current input. Press  when you've switched."</string>
+    <string name="s1_4_title_horizontal">"Use your TV remote, press the Input button, then navigate to the input located to the left of the current input. Press  when you've switched."</string>
+    <string name="s1_4_title_vertical">"Use your TV remote, press the Input button, then navigate to the input located below the current input. Press  when you've switched."</string>
+    <string name="s1_5_title">Welcome back! Did we switch you back automatically?</string>
+    <string name="s1_7_bottom">By navigating down</string>
+    <string name="s1_7_left">By navigating left</string>
+    <string name="s1_7_right">By navigating right</string>
+    <string name="s1_7_title">When the input menu is open, how do you change inputs?</string>
+    <string name="s1_7_top">By navigating up</string>
+    <string name="s2_10_title">How do you switch input with your TV remote?</string>
+    <string name="s2_11_title">Do you need to press the OK button on your TV remote after you navigate to the desired input?</string>
+    <string name="s2_2_cycle_through_above_five_times">Five inputs above current input</string>
+    <string name="s2_2_cycle_through_above_four_times">Four inputs above current input</string>
+    <string name="s2_2_cycle_through_above_once">One input above current input</string>
+    <string name="s2_2_cycle_through_above_three_times">Three inputs above current input</string>
+    <string name="s2_2_cycle_through_above_two_times">Two inputs above current input</string>
+    <string name="s2_2_cycle_through_below_five_times">Five inputs below current input</string>
+    <string name="s2_2_cycle_through_below_four_times">Four inputs below current input</string>
+    <string name="s2_2_cycle_through_below_once">One input below current input</string>
+    <string name="s2_2_cycle_through_below_three_times">Three inputs below current input</string>
+    <string name="s2_2_cycle_through_below_two_times">Two inputs below current input</string>
+    <string name="s2_2_down_five_times">Press down five times</string>
+    <string name="s2_2_down_four_times">Press down four times</string>
+    <string name="s2_2_down_once">Press down once</string>
+    <string name="s2_2_down_three_times">Press down three times</string>
+    <string name="s2_2_down_twice">Press down twice</string>
+    <string name="s2_2_left_five_times">Press left five times</string>
+    <string name="s2_2_left_four_times">Press left four times</string>
+    <string name="s2_2_left_once">Press left once</string>
+    <string name="s2_2_left_three_times">Press left three times</string>
+    <string name="s2_2_left_twice">Press left twice</string>
+    <string name="s2_2_right_five_times">Press right five times</string>
+    <string name="s2_2_right_four_times">Press right four times</string>
+    <string name="s2_2_right_once">Press right once</string>
+    <string name="s2_2_right_three_times">Press right three times</string>
+    <string name="s2_2_right_twice">Press right twice</string>
+    <string name="s2_2_title_cycle_through">When the input menu is open, what is the location of %1$s comparing to current input?</string>
+    <string name="s2_2_title_vertical_horizontal">From here, how do you go to %1$s when the input menu is open?</string>
+    <string name="s2_2_up_five_times">Press up five times</string>
+    <string name="s2_2_up_four_times">Press up four times</string>
+    <string name="s2_2_up_once">Press up once</string>
+    <string name="s2_2_up_three_times">Press up three times</string>
+    <string name="s2_2_up_twice">Press up twice</string>
+    <string name="s2_3_title">"We will now switch to your %1$s. Make sure that it is powered on and click Next when you're ready."</string>
+    <string name="s2_4_title">Switching input.</string>
+    <string name="s2_5_title">"It looks like we couldn't switch to %1$s. Press  to continue."</string>
+    <string name="s2_6_title">Welcome back! Did we switch you back automatically?</string>
+    <string name="s2_7_title">You can now say, %1$s. To switch back to Fire TV Cube, just say, %2$s.</string>
+    <string name="s2_8_description">"• Change the input switching method and try again.
+• If you return to this screen repeatedly, your TV might not support input switching. You can skip this flow for now."</string>
+    <string name="s2_8_title">We were not able to switch back to Fire TV. Try this:</string>
+    <string name="s2_9_description">"• Change the number of button taps needed to switch to %1$s and try again.
+• If you return to this screen repeatedly, your TV might not support input switching. You can skip this flow for now."</string>
+    <string name="s2_9_title">We were not able to switch to %1$s. Try this:</string>
+    <string name="satellite">Satellite</string>
+    <string name="satellite_friendly_name_editor_description">Change the name you use when controlling your satellite box</string>
+    <string name="satellite_lowercase">satellite</string>
+    <string name="satellite_receiver">satellite receiver</string>
+    <string name="satellite_receiver_first_cap">Satellite Receiver</string>
+    <string name="sd11_2_title_param">We need your help to further identify your %1$s.</string>
+    <string name="sd12_1_description_param">"• Check the Placement Guide for tips on where to place Fire TV Cube.
+• Verify that you have selected the correct %1$s brand and try again. Make sure that you are selecting the brand, not the provider. To find the brand, take a moment to look around the device.
+• Continue setup, and fix this later."</string>
+    <string name="sd12_1_title_param">It looks like we could not communicate with your %1$s. Please try one of these things to help:</string>
+    <string name="sd12_2_description_accessibility">"Make sure that you can see the Fire TV Cube, and it's not behind your equipment or in a closed cabinet.
+ Place Fire TV Cube 6-18 inches away from your TV and any speakers, with the logo facing you.
+ If you have %1$s in a closed cabinet, use the IR blaster accessory included in the box. Press  to learn how."</string>
+    <string name="sd12_2_description_cable">"• Make sure you can see Fire TV, and it's not behind your equipment or in a closed cabinet.
+• Place Fire TV Cube 15-45 cm away from your TV and any speakers, with the logo facing you.
+• If you have a set-top box in a closed cabinet, use the IR blaster accessory included in the box. Press  to learn how."</string>
+    <string name="sd12_2_description_graspa_cable">"• Make sure there are no obstructions between Fire TV Blaster and your set-top box.
+• If your set-top box is in a closed cabinet, use the IR extender cable. Press  to learn how.
+• You are using Fire TV Blaster as the control device. If you'd like to change it, press Try Again."</string>
+    <string name="sd12_2_description_graspa_satellite">"• Make sure there are no obstructions between Fire TV Blaster and your satellite receiver.
+• If your satellite receiver is in a closed cabinet, use the IR extender cable. Press  to learn how.
+• You are using Fire TV Blaster as the control device. If you'd like to change it, press Try Again."</string>
+    <string name="sd12_2_description_satellite">"• Make sure you can see Fire TV, and it's not behind your equipment or in a closed cabinet.
+• Place Fire TV Cube 15-45 cm away from your TV and any speakers, with the logo facing you.
+• If you have a satellite receiver in a closed cabinet, use the IR blaster accessory included in the box. Press  to learn how."</string>
+    <string name="sd12_2_title">Fire TV needs line of sight to your equipment. Here are some tips:</string>
+    <string name="sd12_2_title_graspa">Before continuing, please check your Fire TV Blaster is in the right place:</string>
+    <string name="sd12_3_subtitle">"The included IR extender allows Fire TV to control equipment that is in a closed cabinet.
+• Plug the IR extender into the back of your Fire TV.
+• Place the other end of the IR extender close to the device you wish to control.
+• Click  to continue setup."</string>
+    <string name="sd12_3_subtitle_graspa">"The included IR extender allows Fire TV Blaster to control equipment that is in a closed cabinet.
+• Plug the IR extender into the back of your Fire TV Blaster.
+• Place the other end of the IR extender close to the device you wish to control.
+• Click  to continue setup."</string>
+    <string name="sd12_3_title">How to use the IR extender:</string>
+    <string name="sd13_1_title_param">You can now control your %1$s with Alexa.</string>
+    <string name="sd14_2_title_param">Would you like to reconfigure your inputs for your %1$s?</string>
+    <string name="sd1_1_title_param">Please wait while we gather information about your %1$s.</string>
+    <string name="sd1_2_title_one_device_tv_remote">Make sure your %1$s is turned on and you have your TV remote.</string>
+    <string name="sd1_2_title_one_device_tv_remote_receiver">Make sure your %1$s is turned on and you have your original remotes (for example, your TV and/or receiver remote).</string>
+    <string name="sd1_2_title_one_device_tv_remote_soundbar">Make sure your %1$s is turned on and you have your original remotes (for example, your TV and/or soundbar remote).</string>
+    <string name="sd1_4_description">Sorry, a connectivity issue has occurred. Please try again.</string>
+    <string name="sd1_4_title">Unable to connect</string>
+    <string name="sd2_1_title_param">Do you have %1$s?</string>
+    <string name="sd4_1_title_param">Which brand of %1$s do you have?</string>
+    <string name="sd4_4_description">"Sorry, it looks like we don’t support your %1$s. However, let's see if we can learn how your %1$s is connected to your equipment."</string>
+    <string name="sd4_5_description">Sorry, it looks like we don’t support your %1$s. Would you like to reconfigure how your %1$s is connected to your equipment?</string>
+    <string name="sd4_6_description">Sorry, a connectivity issue has occurred. Please try again.</string>
+    <string name="sd4_6_title">Unable to connect</string>
+    <string name="sd5_1_title">Using your remote(s), switch to your %1$s. When a channel appears, press  on your Fire TV remote.</string>
+    <string name="sd6_1_restart_test">Restart test</string>
+    <string name="sd6_1_title">If you are seeing this screen, we need to restart the test.</string>
+    <string name="sdl11_2_title">We need your help to further identify your %1$s.</string>
+    <string name="sdl12_1_description">Make sure you are pointing your Fire TV remote directly at the %1$s and try again.</string>
+    <string name="sdl12_1_description_cable_box_graspa">Make sure your Fire TV Blaster and your cable box are not obstructed and try again.</string>
+    <string name="sdl12_1_description_satellite_graspa">Make sure your Fire TV Blaster and your satellite are not obstructed and try again.</string>
+    <string name="sdl12_1_title">The Fire TV remote is having difficulty controlling your %1$s.</string>
+    <string name="sdl12_1_title_cable_box_graspa">"We're having difficulty controlling your set-top box."</string>
+    <string name="sdl12_1_title_satellite_graspa">"We're having difficulty controlling your satellite."</string>
+    <string name="sdl13_1_title">Your Fire TV remote can now control your %1$s.</string>
+    <string name="sdl14_2_title">Would you like to reconfigure your inputs for your %1$s?</string>
+    <string name="sdl5_1_bottom_text">Tip: Take a picture of this screen so you can refer to it later</string>
+    <string name="sdl5_1_description">"1. Use your original remotes to switch to your %1$s.
+
+2. %2$s
+
+3.Switch back to Fire TV Cube using your original remotes."</string>
+    <string name="sdl5_1_description_channel_changes">2. Once there, press  on your Fire TV remote, and note if the channel changes.</string>
+    <string name="sdl5_1_description_guide">2. Once there, press  on your Fire TV remote, and note if the TV programme guide appears.</string>
+    <string name="sdl5_1_description_power_off">2. Once there, press  on your Fire TV remote, and note if your %1$s turns off.</string>
+    <string name="sdl5_1_description_power_on">2. Once there, press  on your Fire TV remote, and note if your %1$s turns on. It may take a few seconds to turn back on.</string>
+    <string name="sdl5_1_description_step_one_tv_remote">1. Use your TV remote to switch to your %1$s.</string>
+    <string name="sdl5_1_description_step_one_tv_remote_receiver">1. Use your original remotes (for example, your TV and/or receiver remote) to switch to your %1$s.</string>
+    <string name="sdl5_1_description_step_one_tv_remote_soundbar">1. Use your original remotes (for example, your TV and/or soundbar remote) to switch to your %1$s.</string>
+    <string name="sdl5_1_description_step_three_tv_remote">3. Switch back to Fire TV using your TV remote.</string>
+    <string name="sdl5_1_description_step_three_tv_remote_receiver">3. Switch back to Fire TV using your original remotes (for example, your TV and/or receiver remote).</string>
+    <string name="sdl5_1_description_step_three_tv_remote_soundbar">3. Switch back to Fire TV using your original remotes (for example, your TV and/or soundbar remote).</string>
+    <string name="sdl5_1_title">"Next, you'll need to switch to your %1$s. Please do the following:"</string>
+    <string name="sdl5_3_description">Sorry, Fire TV is having trouble finishing your remote setup. You can try again now or skip and try later in the Equipment Control section of Settings.</string>
+    <string name="sdl5_3_title">Remote error</string>
+    <string name="sdl7_1_power_off">Did pressing  turn off your %1$s?</string>
+    <string name="sdl7_1_power_on">Did pressing  turn on your %1$s?</string>
+    <string name="sdl7_1_title_channel_change">Did pressing  change the channel on your %1$s?</string>
+    <string name="sdl7_1_title_guide">Did pressing  show the TV programme guide on your screen?</string>
+    <string name="sdl9_2_title">"Let's try again. When you are ready, press Next to continue."</string>
+    <string name="second">" c."</string>
+    <string name="seconds">" c."</string>
+    <string name="select">Выбрать</string>
+    <string name="send_ir_on_remote_home_description">Если нажатие кнопки «Домой» на пульте не приводит к автоматическому переходу на начальный экран Fire TV, попробуйте переключить этот параметр.</string>
+    <string name="send_ir_on_remote_home_off">Только HDMI-CEC</string>
+    <string name="send_ir_on_remote_home_on">IR и HDMI-CEC</string>
+    <string name="send_ir_on_remote_home_title">Поведение кнопки «Домой»</string>
+    <string name="set_active_source">Установить активный источник</string>
+    <string name="set_as_screen_saver">"Установить альбом
+на заставку"</string>
+    <string name="set_top_box_lowercase">set-top box</string>
+    <string name="setting_main_title">Контроль оборудования</string>
+    <string name="settings_vertical_list_usage_hint_remote_text">Используйте «Вверх» и «Вниз» для перемещения между элементами</string>
+    <string name="shuffle_album_music">"Shuffle
+Album"</string>
+    <string name="shuffle_all_music">"Shuffle
+All Songs"</string>
+    <string name="sic11_1_audio_device">audio device</string>
+    <string name="sic11_1_description">"• Make sure you can see Fire TV Cube, and it's not behind your equipment or in a closed cabinet.
+• Place Fire TV Cube 15-45 cm away from your TV and any speakers, with the logo facing you.
+• If you have your %1$s in a closed cabinet, use the IR blaster accessory included in the box. Press  to learn how.
+• If you return to this screen repeatedly, your TV might not support input switching. You can skip this for now."</string>
+    <string name="sic11_1_description_graspa">"• Make sure you can see Fire TV and Fire TV Blaster, and they are not behind any equipment or in a closed cabinet.
+• Place Fire TV 15–45 cm away from your TV and any speakers, with the logo facing you.
+• If you have your %1$s in a closed cabinet, use the IR blaster accessory included in the box. Press  to learn how.
+• Fire TV Blaster should be unobstructed and facing the equipment it is trying to control.
+• If you return to this screen repeatedly, your TV might not support input switching. You can skip this for now."</string>
+    <string name="sic11_1_devices_concatenated_with_or">%1$s or %2$s</string>
+    <string name="sic11_1_title">The Fire TV Cube needs line of sight to your equipment. Here are some tips:</string>
+    <string name="sic11_1_title_graspa">Fire TV and Fire TV Blaster need line of sight to your equipment. Here are some tips:</string>
+    <string name="sic11_1_tv_or_audio">TV or audio device</string>
+    <string name="sic11_2_description">"The included IR extender allows the Fire TV Cube to control equipment that is in a closed cabinet.
+• Plug the IR extender into the back of your Fire TV Cube.
+• Place the other end of the IR extender close to the device you wish to control.
+• Click  to continue setup.
+"</string>
+    <string name="sic11_2_title">How to use the IR extender:</string>
+    <string name="sic12_1_description">"• Go back to Equipment Control Settings and check the Fire TV Cube input configuration for all your devices, then try again.
+• Check the placement guide for tips on where to place the Fire TV Cube and try again.
+• If you return to this screen repeatedly, your TV might not support input switching. You can skip this for now."</string>
+    <string name="sic12_1_description_graspa">"• Go back to Equipment Control Settings and check the input configuration for all your devices then try again.
+• Check the placement guide for tips on where to place Fire TV Cube and Fire TV Blaster and try again.
+• If you return to this screen repeatedly, your TV might not support input switching. You can skip this for now."</string>
+    <string name="sic12_1_placement_guide">Placement Guide</string>
+    <string name="sic12_1_skip">Skip</string>
+    <string name="sic12_1_title">Sorry, we were not able to change back to Fire TV Cube. Try this:</string>
+    <string name="sic12_1_title_graspa">Sorry, we were not able to change back to Fire TV Cube. Try this:</string>
+    <string name="sic13_1_title_alexa_skill">It appears Alexa is unable to switch inputs to your %1$s. Please use your original remote to change inputs. Use the skill settings in the Alexa app to pair the Fire TV Cube with the %1$s you just set up.</string>
+    <string name="sic13_1_title_failure">Sorry, it looks like we are unable to set up your %1$s.</string>
+    <string name="sic13_1_title_success">You can now control your %1$s with Alexa. Try saying, \"%2$s\" or \"%3$s\". Please note that we are unable to switch to your %1$s input.</string>
+    <string name="sic2_1_subtitle">"Press  if you don't switch inputs on your TV."</string>
+    <string name="sic2_1_title">Select the TV input you use with %1$s.</string>
+    <string name="sic2_2_subtitle">"Press  if you don't switch inputs on your %1$s."</string>
+    <string name="sic2_2_title">Select the %1$s input you use with your %2$s.</string>
+    <string name="sic3_1_description_with_one_device">You did not select the %1$s input that you use with %2$s. In order for the Fire TV Cube to switch automatically to your %2$s, you will have to select an input.</string>
+    <string name="sic3_1_description_with_two_devices">You did not select any inputs you use with your %1$s. In order for the Fire TV Cube to switch automatically to your %1$s, you will have to select at least one input.</string>
+    <string name="sic3_1_select_input">Select Input</string>
+    <string name="sic3_1_title">No Input Selected</string>
+    <string name="sic4_1_title_single_input">"We will now switch to your %1$s. Make sure that it is powered on and click Next when you're ready."</string>
+    <string name="sic5_1_title_multiple_inputs">Переключение входов</string>
+    <string name="sic5_1_title_single_input">Переключение входа</string>
+    <string name="sic5_2_title">"Похоже, не получилось переключиться на ваш %1$s.
+Нажмите  для продолжения."</string>
+    <string name="sic6_2_title">"Now that you're back, press  to continue."</string>
+    <string name="sic7_1_title_alexa_skill">You can now say, %1$s. To switch back to Fire TV, just say %2$s. Use the skill settings in the Alexa app to pair Fire TV Cube with the %3$s you just set up.</string>
+    <string name="sic7_1_title_failure">You can now say, %1$s. To switch back to Fire TV Cube, just say, %2$s.</string>
+    <string name="sic7_1_title_success">You can now say, %1$s. To control your %2$s with Alexa try saying, %3$s or, %4$s. To switch back to Fire TV Cube just say, %5$s.</string>
+    <string name="sic9_1_title">We were unable to switch to %1$s. Please verify that your %1$s is connected to %2$s on your %3$s.</string>
+    <string name="sic9_2_device_input_param">• %1$s: %2$s</string>
+    <string name="sic9_2_not_configured">No input configured</string>
+    <string name="sic9_2_title">We were unable to switch to %1$s. Please verify that these are the inputs you use for your %1$s?</string>
+    <string name="similar_to_this">"Similar
+to This"</string>
+    <string name="sleep_timer_card">Sleep Timer</string>
+    <string name="soundbar_device_type">soundbar</string>
+    <string name="soundbar_device_type_upper_case_first_letter">Soundbar</string>
+    <string name="soundbar_friendly_name_editor_description">Измените имя, которое вы используете при управлении звуковой панелью</string>
+    <string name="soundbar_input_title">Soundbar Input</string>
+    <string name="starring">Starring:</string>
+    <string name="start_slideshow">"Start
+Slideshow"</string>
+    <string name="stb_activity_header_description">"Manage how Fire TV controls your %1$s and your TV provider settings.
+
+
+Location
+%2$s"</string>
+    <string name="stb_activity_header_description_graspa">"Manage how Fire TV controls your %1$s and your TV provider settings.
+
+
+Location
+%2$s
+Управление обеспечивает Fire TV Blaster."</string>
+    <string name="stb_add_stb_description">Control your %1$s and change channels with Fire TV and Alexa. Setup will take 5 to 10 minutes.</string>
+    <string name="stb_automatic_power_on_disabled_description">Enable this setting so Fire TV can automatically turn on your %1$s for requests like TV channels.</string>
+    <string name="stb_automatic_power_on_enabled_description">Fire TV will automatically turn on your %1$s for requests like TV channels. Turn off this setting if your equipment does not behave as expected.</string>
+    <string name="stb_change_inputs">Change Inputs</string>
+    <string name="stb_change_inputs_button_label">Change Inputs</string>
+    <string name="stb_change_inputs_description">"Change which inputs we switch to for watching %1$s.
+
+
+Location
+%2$s"</string>
+    <string name="stb_change_inputs_dialog_title">Change Inputs?</string>
+    <string name="stb_change_ir_profile">Change IR Profile</string>
+    <string name="stb_change_ir_profile_description">Change the IR profile assigned to your %1$s.</string>
+    <string name="stb_change_lineup_selection_description">Change which %1$s lineup we will use for your %2$s.</string>
+    <string name="stb_change_lineups">Change Channel Lineup</string>
+    <string name="stb_change_mso_provider_description">"Select this option if the %1$s lineup you are currently using is not switching your %2$s to the expected channel.
+
+Current %1$s Lineup:
+%3$s"</string>
+    <string name="stb_change_profile_description">Change the IR profile assigned to your %1$s to %2$s.</string>
+    <string name="stb_change_provide_or_lineups_description">Select if you have changed your TV provider or want to update your channel lineup.</string>
+    <string name="stb_change_provider_description">"Select if you have changed your TV provider.
+
+Current TV Provider:
+%1$s"</string>
+    <string name="stb_change_providers_lineups_title">Update Lineup</string>
+    <string name="stb_change_service_provider_title">Change TV Provider</string>
+    <string name="stb_change_tv_provider">Change TV Provider?</string>
+    <string name="stb_channel_changing">Channel Changing</string>
+    <string name="stb_channel_changing_description">Select if your %1$s is not changing channels as expected.</string>
+    <string name="stb_channel_channel_confirmation_description">Select if your %1$s requires a confirmation command after channel numbers are received in order to change the channel.</string>
+    <string name="stb_channel_confirmation_disabled_description">No command is currently being sent to your %1$s after channel numbers are received.</string>
+    <string name="stb_channel_confirmation_function_description">Change which confirmation command to send to your %1$s after channel numbers are received.</string>
+    <string name="stb_channel_confirmation_title">Channel Confirmation</string>
+    <string name="stb_channel_number_padding_title">Channel Number Padding</string>
+    <string name="stb_command_channel_confirmation_description">Change which confirmation command to send to your %1$s after channel numbers are received.</string>
+    <string name="stb_device_type">Set-top Box</string>
+    <string name="stb_device_type_accessibility">Set-top box</string>
+    <string name="stb_dialog_change_profile_description">Changing your %1$s IR profile will not override any customizations you have made.</string>
+    <string name="stb_infrared_options">Infrared Options</string>
+    <string name="stb_input_location">%1$s - %2$s</string>
+    <string name="stb_ir_profile_description">Change the IR Profile assigned to your %1$s, or check for updates.</string>
+    <string name="stb_ir_update_profile">Check for Update</string>
+    <string name="stb_loading_lineups_indicator">Loading Providers</string>
+    <string name="stb_loading_profiles_indicator">Loading IR Profiles</string>
+    <string name="stb_number_padding_description">Select to make channel changing faster, or if your %1$s requires that you prefix channel numbers with zero(s).</string>
+    <string name="stb_number_padding_label">Padding:</string>
+    <string name="stb_setup_will_take_up_to_10_minutes">Setup will take 5 to 10 minutes.</string>
+    <string name="subtitle_learned_input">Learned Button</string>
+    <string name="switch_off">ВЫКЛ</string>
+    <string name="switch_on">ВКЛ</string>
+    <string name="test_input">Проверка входа</string>
+    <string name="test_volume_again_did_it_work_receiver">Нам нужно попробовать это снова. Направив пульт дистанционного управления Fire TV на ресивер, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства? (Попытка %1$d/%2$d)</string>
+    <string name="test_volume_again_did_it_work_soundbar">Нам нужно попробовать это снова. Когда пульт Fire TV направлен на звуковую панель, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства? (Попытка %1$d/%2$d)</string>
+    <string name="test_volume_again_did_it_work_tv">Нам нужно попробовать это снова. Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости. Изменилась ли громкость музыки и вышла ли она из ожидаемого аудиоустройства? (Попытка %1$d/%2$d)</string>
+    <string name="test_volume_again_title_receiver">"Нам нужно попробовать это снова. Направив пульт Fire TV на ресивер, переключайте кнопки увеличения и уменьшения громкости.
+(Попытка %1$d/%2$d)"</string>
+    <string name="test_volume_again_title_soundbar">"Нам нужно попробовать это снова. Когда пульт Fire TV направлен на звуковую панель, переключайте кнопки увеличения и уменьшения громкости.
+(Попытка %1$d/%2$d)"</string>
+    <string name="test_volume_again_title_tv">"Нам нужно попробовать это снова. Когда пульт Fire TV направлен на телевизор, переключайте кнопки увеличения и уменьшения громкости.
+(Попытка %1$d/%2$d)"</string>
+    <string name="three_times">Три раза</string>
+    <string name="title_ribbon_num_titles_format_string">%1$3d | %2$3d</string>
+    <string name="tivo">TiVo</string>
+    <string name="toggle">Переключение Power</string>
+    <string name="toggle_button_off">ВЫКЛ</string>
+    <string name="toggle_button_on">ВКЛ</string>
+    <string name="top_level_av_receiver_soundbar_description">Настройте, как Fire TV управляет %1$s.</string>
+    <string name="top_level_avr_description">Настройте, как Fire TV управляет ресивером.</string>
+    <string name="top_level_avr_description_graspa">"Настройте, как Fire TV управляет ресивером.
+
+Управление обеспечивает Fire TV Blaster."</string>
+    <string name="top_level_soundbar_description">Настройте, как Fire TV управляет звуковой панелью.</string>
+    <string name="top_level_soundbar_description_graspa">"Настройте, как Fire TV управляет звуковой панелью.
+
+Управление обеспечивает Fire TV Blaster."</string>
+    <string name="top_level_tv_description">Настройте, как Fire TV управляет вашим телевизором.</string>
+    <string name="top_level_tv_description_graspa">"Настройте, как Fire TV управляет вашим телевизором.
+
+Управление обеспечивает Fire TV Blaster."</string>
+    <string name="top_level_tv_title">Телевизор</string>
+    <string name="turn_off">Выключить</string>
+    <string name="turn_on">Включить</string>
+    <string name="tv_device_type">Телевизор</string>
+    <string name="tv_friendly_name_editor_description">Измените имя, которое вы используете при управлении телевизором.</string>
+    <string name="tv_input_title">Вход телевизора</string>
+    <string name="twice">Дважды</string>
+    <string name="unchecked">Не отмечено</string>
+    <string name="unknown">Неизв.</string>
+    <string name="video_quality_description">Качество видео</string>
+    <string name="video_rating_description">Рейтинг видео</string>
+    <string name="video_subtitle_description">Субтитры доступны</string>
+    <string name="volume_control_description">Если вы испытываете задержки при изменении громкости или приглушении звука, измените этот параметр на Fire TV Remote. Инфракрасный сигнал для регулировки громкости будет передаваться с вашего пульта Fire TV.</string>
+    <string name="volume_control_device_item_avr_message">Звук регулируется на ресивере при просмотре Fire TV</string>
+    <string name="volume_control_device_item_soundbar_message">Звук регулируется на звуковой панели при просмотре Fire TV</string>
+    <string name="volume_control_device_item_tv_message">Звук регулируется на ТВ при просмотре Fire TV</string>
+    <string name="volume_control_device_message">Измените устройство, на которое Fire TV посылает команды громкости при просмотре Fire TV</string>
+    <string name="volume_control_device_title">Регулировка громкости</string>
+    <string name="volume_control_lucky_l_description">Когда вы нажимаете кнопки «Mute», «Volume Up», «Volume Down» или «Power», ИК-сигнал будет отправляться с пульта Fire TV. Чтобы это работало, пульт дистанционного управления Fire TV должен быть на виду у вашего оборудования. Если какое-либо ваше оборудование скрыто, измените этот параметр на Fire TV.</string>
+    <string name="volume_control_lucky_l_title">Пульт Fire TV</string>
+    <string name="volume_control_stark_description">Когда вы нажимаете кнопки «Mute», «Volume Up», «Volume Down» или «Power», ИК-сигнал будет отправляться с Fire TV. Если какое-либо ваше оборудование находится в шкафу, выберите этот параметр. Если вы испытываете задержки при использовании любой из этих кнопок, измените этот параметр на Пульт Fire TV.</string>
+    <string name="volume_control_stark_title">Fire TV</string>
+    <string name="volume_control_title">Кнопки громкости и Питание</string>
+    <string name="volume_down">Громкость –</string>
+    <string name="volume_increments_accessibility_ff">Чтобы увеличить интервал громкости, нажмите «Fast Forward», правую кнопку в нижнем ряду из трех маленьких кнопок.</string>
+    <string name="volume_increments_accessibility_rwd">Чтобы уменьшить интервал громкости, нажмите «Rewind», левую кнопку в нижнем ряду трех маленьких кнопок.</string>
+    <string name="volume_increments_description">Выберите, на сколько интервалов громкость для %1$s увеличивается или уменьшается, когда вы просите Алекса изменить громкость.</string>
+    <string name="volume_increments_description_avr">Выберите, на сколько интервалов громкость на ресивере увеличивается или уменьшается, когда вы просите Алекса изменить громкость.</string>
+    <string name="volume_increments_description_soundbar">Выберите, на сколько интервалов громкость звуковой панели увеличивается или уменьшается, когда вы просите Алекса изменить громкость.</string>
+    <string name="volume_increments_description_tv">Выберите, на сколько интервалов громкость вашего телевизора увеличивается или уменьшается, когда вы просите Алекса изменить громкость.</string>
+    <string name="volume_increments_header_value">Интервалов за раз:</string>
+    <string name="volume_increments_title">Интервалы громкости</string>
+    <string name="volume_up">Громкость +</string>
+    <string name="watch_again">Смотреть снова</string>
+    <string name="watch_from_start">"Смотреть с
+начала"</string>
+    <string name="wii">Nintendo Wii</string>
+    <string name="wii_u">Nintendo Wii U</string>
+    <string name="xbox">Xbox</string>
+    <string name="xbox_360">Xbox 360</string>
+    <string name="xbox_one">Xbox One</string>
+    <string name="yes">Да</string>
+</resources>

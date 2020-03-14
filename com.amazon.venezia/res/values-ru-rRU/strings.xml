@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IAP -->
+    <string name="iap_1_click_settings_disclaimer">Использование настроек в 1 клик</string>
+    <string name="iap_account">Учетная запись:</string>
+    <string name="iap_accessibility_double_tap_to_learn_more">Дважды нажмите, чтобы узнать больше.</string>
+    <string name="iap_amazons_privacy_notice">Уведомление о конфиденциальности Amazon</string>
+    <string name="iap_amount_coins_needed">Нужно еще %1$,.0f.</string>
+    <string name="iap_amount_coins_owned">У вас %1$,.0f монет.</string>
+    <string name="iap_annual_subscription_term">Годовая подписка</string>
+    <string name="iap_appstore_customer_service_pterror_generic_message">Произошла ошибка. Пожалуйста, попробуйте еще раз. Если вы продолжаете испытывать проблемы, пожалуйста, свяжитесь со службой поддержки.</string>
+    <string name="iap_appstore_dialog_button_try_again">Попробуйте еще раз</string>
+    <string name="iap_appstore_long_name">Amazon Appstore</string>
+    <string name="iap_appstore_subscription_url_us">www.amazon.com/appstoresubscriptions</string>
+    <string name="iap_available_amazon_coins_balance">Amazon Coins Balance: %1$s
+    </string>
+    <string name="iap_banjo">Amazon Underground</string>
+    <string name="iap_banjo_loading_message">You will not be charged for this item.</string>
+    <string name="iap_banjo_purchased_message">You were not charged for this item. Only from %1$s</string>
+    <string name="iap_banjo_purchasing_message">%1$s is getting this item for you…</string>
+    <string name="iap_banjo_success_message">"You're all set. Enjoy your free item!"</string>
+    <string name="iap_buy_coins">Купить монеты Coin</string>
+    <string name="iap_buy_iap_with_coins_loading_subtitle">пока мы обрабатываем ваш заказ</string>
+    <string name="iap_buy_iap_with_coins_loading_title">Подождите …</string>
+    <string name="iap_buy_iap_with_coins_success_subtitle">добавлено в вашу учетную запись</string>
+    <string name="iap_cancel">Отмена</string>
+    <string name="iap_consumable_single_use">Одноразовое использование: при покупке этот товар можно использовать только один раз.</string>
+    <string name="iap_details_and_terms_of_use">См. дополнительные сведения и Условия использования</string>
+    <string name="iap_example_email">example@example.com</string>
+    <string name="iap_feature_is_blocked_title">Функция заблокирована</string>
+    <string name="iap_firetv_crd_waiver">Нажимая %1$s, вы соглашаетесь с тем, что ваша покупка станет доступна незамедлительно. Ее нельзя будет отменить после этого.</string>
+    <string name="iap_firetv_privacy_preferences_subtitle">Управление настройками конфиденциальности</string>
+    <string name="iap_forgot_password_url" formatted="false">https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin</string>
+    <string name="iap_kaw_confirm_purchase">Подтвердить покупку</string>
+    <string name="iap_kft_purchase_not_allowed_message">покупка в приложении недоступна для FreeTime</string>
+    <string name="iap_leave_appstore_experience_text">Запрошенное действие будет выполнено не в приложении. Продолжить?</string>
+    <string name="iap_manage">Управление</string>
+    <string name="iap_manage_privacy_settings">Управление настройками конфиденциальности</string>
+    <string name="iap_manage_subscription">Управление подпиской</string>
+    <string name="iap_more_options">Дополнительные параметры</string>
+    <string name="iap_non_consumable_multi_use">Многоразовое использование: при покупке этот товар будет доступен на всех совместимых устройствах, зарегистрированных для этой учетной записи.</string>
+
+    <string name="iap_parental_controls_created_dialog_label_title">Пароль родительского контроля создан</string>
+    <string name="iap_parental_controls_creation_dialog_label_subtitle">Пароль родительского контроля будет необходим для всех покупок на сайте Amazon с этого устройства.</string>
+    <string name="iap_parental_controls_creation_dialog_label_title">Пароль родительского контроля</string>
+    <string name="iap_parental_controls_dialog_challenge_prompt">Чтобы выполнить покупку, введите пароль родительского контроля для %1$s:</string>
+    <string name="iap_parental_controls_dialog_promotion_subscription_confirmation">"После окончания вашего &lt;font color='%1$s'>%2$s&lt;/font> ваша подписка будет продолжена с использованием плана &lt;font color='%3$s'>%4$s&lt;/font>."</string>
+    <string name="iap_parental_controls_dialog_purchase_summary_color">"Вы приобретаете &lt;font color='%1$s'>%2$s&lt;/font> за &lt;font color='%3$s'>%4$s&lt;/font>"</string>
+    <string name="iap_parental_controls_dialog_title_coins">Подтвердить покупку монет Amazon</string>
+    <string name="iap_parental_controls_enabled_dialog_label_notice">Мы не изменяли другие настройки родительского контроля.</string>
+    <string name="iap_parental_controls_enabled_dialog_label_parental_controls_settings">"Управляйте родительским контролем и включайте дополнительные настройки контроля. &lt;a href='#' id=parental-controls>«Настройки» > «Родительский контроль»&lt;/a>."</string>
+    <string name="iap_parental_controls_enabled_dialog_label_subtitle">Пароль родительского контроля будет запрашиваться каждый раз, когда вы совершаете покупку на Amazon с этого устройства.</string>
+    <string name="iap_parental_controls_enabled_dialog_label_title">Родительский контроль включен</string>
+    <string name="iap_password_challenge_dialog_challenge_parental_controls">"Настройки авторизации для покупок можно изменить в &lt;a href='#' id='iap-settings-link'>Настройках родительского контроля&lt;/a>."</string>
+    <string name="iap_password_challenge_dialog_challenge_prompt">Чтобы выполнить покупку, введите пароль Amazon для %1$s:</string>
+    <string name="iap_password_challenge_dialog_challenge_reason">Вы видите это сообщение, потому что Amazon всегда запрашивает пароль для некоторых покупок внутри приложений.</string>
+    <string name="iap_password_challenge_dialog_challenge_reason_coins">Вы видите это сообщение, потому что Amazon всегда требует пароль для некоторых покупок.6</string>
+    <string name="iap_password_challenge_dialog_coins_notice">Монеты Amazon Coin будут добавлены в вашу учетную запись. Монеты можно использовать в приложениях и играх.</string>
+    <string name="iap_password_challenge_dialog_dont_require_challenge">Не запрашивать пароль для покупок внутри приложений</string>
+    <string name="iap_password_challenge_dialog_dont_require_purchase_challenge">Не запрашивать пароль для будущих покупок</string>
+    <string name="iap_password_challenge_dialog_future_challenges">Выберите одну из настроек для покупок внутри приложений на этом устройстве</string>
+    <string name="iap_password_challenge_dialog_future_challenges_parental_controls">"Выбранная настройка будет распространяться на все приложения, пока вы не измените ее в &lt;a href='#' id='iap-settings-link'>Настройках родительского контроля&lt;/a>."</string>
+    <string name="iap_password_challenge_dialog_future_challenges_prompt">Чтобы разрешить эту покупку и сохранить настройку для покупок в будущем, введите пароль Amazon для %1$s:</string>
+    <string name="iap_password_challenge_dialog_future_purchase_challenges">Выберите одну из настроек для покупок внутри приложений и других покупок на этом устройстве.</string>
+    <string name="iap_password_challenge_dialog_future_purchase_challenges_parental_controls">"Выбранная настройка будет распространяться на все покупки, пока вы не измените ее в &lt;a href='#'>Настройках родительского контроля&lt;/a>."</string>
+    <string name="iap_password_challenge_dialog_purchase_summary">Вы приобретаете %1$s для %2$s</string>
+    <string name="iap_password_challenge_dialog_purchase_summary_color">"Вы приобретаете &lt;font color='%1$s'>%2$s&lt;/font> за &lt;font color='%3$s'>%4$s&lt;/font>."</string>
+    <string name="iap_password_challenge_dialog_require_challenge">Запрашивать пароль для покупок внутри приложений</string>
+    <string name="iap_password_challenge_dialog_require_purchase_challenge">Запрашивать пароль для будущих покупок (будет включен родительский контроль)</string>
+    <string name="iap_password_challenge_dialog_title_coins">Подтвердить покупку монет Amazon</string>
+    <string name="iap_pin_challenge_dialog_challenge_prompt">Чтобы завершить покупку, введите четырехзначный PIN-код для %1$s:</string>
+    <string name="iap_privacy_preferences">Параметры конфиденциальности</string>
+    <string name="iap_purchase_dialog_v2_amazon_account_setting">Настройки учетной записи Amazon</string>
+    <string name="iap_purchase_dialog_v2_terms_of_use">Условия использования</string>
+    <string name="iap_purchase_dialog_v2_user_s">%1$s</string>
+    <string name="iap_purchase_error_check_one_click">Проверьте настройки 1-Click в вашей учетной записи на %1$s и повторите попытку.</string>
+    <string name="iap_purchase_error_gift_card_insufficient_funds">На вашей подарочной карте недостаточно средств, чтобы выполнить эту покупку. Повторите попытку с использованием другой подарочной карты или измените способ оплаты, перейдя на %1$s в веб-браузере.</string>
+    <string name="iap_purchase_error_gift_card_insufficient_funds_no_browser">На вашей подарочной карте недостаточно средств, чтобы выполнить эту покупку. Повторите попытку с использованием другой подарочной карты или измените способ оплаты, перейдя на %1$s в веб-браузере.</string>
+    <string name="iap_purchase_error_invalid_billing_address_no_browser">Для вашего удобства все покупки выполняются с использованием настроек Amazon 1-Click. Мы не смогли обработать ваш заказ из-за отсутствия в вашей учетной записи Amazon действительного адреса для выставления счетов. Обновите адрес для выставления счетов, перейдя на %1$s в веб-браузере, и повторите попытку.</string>
+    <string name="iap_purchase_error_invalid_payment_instrument">Для вашего удобства все покупки выполняются с использованием настроек Amazon 1-Click. Мы не смогли обработать ваш заказ из-за отсутствия действительного способа оплаты в вашей учетной записи. Обновите способ оплаты, перейдя на %1$s в веб-браузере, и повторите попытку.</string>
+    <string name="iap_purchase_error_invalid_payment_instrument_no_browser">Для вашего удобства все покупки выполняются с использованием настроек Amazon 1-Click. Мы не смогли обработать ваш заказ из-за отсутствия действительного способа оплаты в вашей учетной записи. Обновите способ оплаты, перейдя на %1$s в веб-браузере, и повторите попытку.</string>
+    <string name="iap_purchase_price_in_coins">mонеты %1$d</string>
+    <string name="iap_save">Сохранить</string>
+    <string name="iap_settings_button_done">Готово</string>
+    <string name="iap_subscribe_base_sub_required">Для приобретения этой подписки вам необходимо сначала приобрести базовую подписку. Пожалуйста, приобретите базовую подписку, а затем снова попробуйте приобрести эту подписку.</string>
+    <string name="iap_subscribe_mcb_only_instrument">На данный момент покупка подписок с помощью o2 недоступна.</string>
+    <string name="iap_subscribe_mcb_only_instrument_general">Невозможно приобрести подписки с помощью вашего оператора. Эта операция будет отменена.</string>
+    <string name="iap_subscribe_mcb_primary_instrument">На данный момент покупка подписок с помощью o2 недоступна.</string>
+    <string name="iap_subscription_ends_on">Дата окончания: %1$s (без автоматического возобновления)</string>
+    <string name="iap_subscription_info_label_auto_renew_checkox">Автоматическое возобновление подписки</string>
+    <string name="iap_subscription_renews_on">Дата возобновления: %1$s</string>
+    <string name="iap_subscription_wallet_cycling_information">Вы даете нам разрешение на списание с вашей карты 1-Click или другой указанной карты средств на сумму выбранной цены (+ применимый налог) до момента отмены подписки.</string>
+    <string name="iap_subscription_wallet_cycling_information_firetv_us">Оформляя подписку, вы соглашаетесь с нашими Условиями пользования, приведенными на %1$s, и санкционируете списание средств с вашей карты 1-Click или другой вашей зарегистрированной карты на сумму, равную выбранной стоимости вместе с суммой всех применимых налогов. &lt;b>Подписка сохраняется до ее отмены. Для отмены перейдите в %2$s.&lt;/b></string>
+    <string name="iap_subscription_wallet_cycling_information_us">Оформляя подписку, вы соглашаетесь с нашими Условиями пользования и санкционируете списание средств с вашей карты 1-Click или другой вашей зарегистрированной карты на сумму, равную выбранной стоимости вместе с суммой всех применимых налогов. &lt;b>Подписка сохраняется до ее отмены. Для отмены перейдите в %1$s.&lt;/b></string>
+    <string name="iap_subscriptions">Подписки</string>
+    <string name="iap_subscriptions_about_how_subs_work_text">Доступ к подпискам можно получить на всех совместимых устройствах, зарегистрированных в вашей учетной записи. Подписки будут автоматически продляться с помощью вашей карты по умолчанию или другой указанной вами карты, пока автоматическое продление не будет отключено. Чтобы изменить подписку или отключить автоматическое продление, откройте %1$s, щелкните меню и выберите %2$s. Или можно изменить подписки или отключить автоматическое продление в разделе Управление подписками на странице Ваши приложения и устройства на Amazon.com. Если отключить автоматическое продление, доступ будет прекращен по истечении периода подписки.</string>
+    <string name="iap_subscriptions_daily">Ежедневно</string>
+    <string name="iap_subscriptions_seasonal_daily">Ежедневно</string>
+    <string name="iap_subscriptions_special_promotion">Специальная акция</string>
+    <string name="iap_thank_you_purchase_for">Куплено для %1$s.</string>
+    <string name="iap_use_one_click_settings">Используйте настройки 1-Click *</string>
+    <string name="iap_view_and_edit_one_click_settings">* Просмотр и редактирование настроек 1-Click</string>
+    <string name="iap_zeroes_learn_about_amazon_coins">Узнать больше о монетах Amazon Coin</string>
+    <string name="iap_zeroes_you_need_more">Необходимо еще %1$,.0f.</string>
+</resources>

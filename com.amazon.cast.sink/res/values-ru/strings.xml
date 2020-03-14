@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="continue_button">Нет</string>
+    <string name="default_device_name_text">Fire TV</string>
+    <string name="display_mirroring_exiting">Завершение дублирования экрана, пожалуйста, подождите…</string>
+    <string name="display_mirroring_sink_service_label">Служба дублирования экрана</string>
+    <string name="exit_button">Да</string>
+    <string name="exit_mirroring_message">Вы уверены, что хотите завершить дублирование экрана?</string>
+    <string name="guest_mirroring_desc1">Оставьте этот экран открытым, чтобы устройства могли</string>
+    <string name="guest_mirroring_desc2">дублировать свой экран на:</string>
+    <string name="guest_mirroring_footer">"·\u0009чтобы узнать больше о дублировании экрана, посетите www.%1s."</string>
+    <string name="guest_mirroring_footer_url">amazon.com/firetv/mirroring</string>
+    <string name="guest_mirroring_title">Miracast™</string>
+    <string name="press_any_button">Нажмите любую кнопку на пульте дистанционного управления Amazon Fire TV, чтобы выйти из режима дублирования экрана.</string>
+    <string name="preparing_to_mirror">"Подготовка к отображению экрана с вашего устройства на %1$s"</string>
+</resources>
