@@ -264,12 +264,19 @@ Turn on this setting if you have trouble communicating with Alexa."</string>
     <string name="common_yes_fast_forward">Да </string>
     <string name="component">Component</string>
     <string name="composite">Composite</string>
+    <string name="configure_cable">Настроить кабельное ТВ</string>
     <string name="configure_projector_description">Если вы используете %1$s проектор, используйте эту опцию, чтобы выбрать правильный профиль ИК.</string>
     <string name="configure_projector_title">Настроить проектор</string>
+    <string name="configure_satellite">Настроить спутниковое ТВ</string>
     <string name="confirm_exit_description">Если вы выйдете сейчас, ваши изменения не будут сохранены.</string>
     <string name="confirm_exit_title">Вы уверены, что хотите выйти?</string>
     <string name="confirmation_dialog_cancel">Отмена</string>
     <string name="controllers_and_bluetooth_devices_card">Контроллеры и Bluetooth</string>
+    <string name="cover_content_description">Title Cover</string>
+    <string name="custom_channel_value_illegal_user_input_message">Значение не должно быть пустым</string>
+    <string name="customize_channel_lineup_description">Выберите эту опцию, если при запросе канала он настраивается на номер, отличный от ожидаемого.</string>
+    <string name="customize_channel_lineup_menu">Обновить номер канала</string>
+    <string name="customize_channel_lineup_title">Настройка конфигурации каналов</string>
     <string name="decrease">Уменьшить</string>
     <string name="device_avr">Ресивер</string>
     <string name="device_avr_non_title_case">ресивер</string>
@@ -338,11 +345,28 @@ Turn on this setting if you have trouble communicating with Alexa."</string>
     <string name="find_ir_profile_error">Введенный вами номер ИК-профиля не найден</string>
     <string name="find_ir_profile_label">Введите номер ИК-профиля</string>
     <string name="fire_tv">Fire TV</string>
+    <string name="fire_tv_blaster_disabled">Отключить Blaster</string>
+    <string name="fire_tv_blaster_disabled_description">Выберите этот параметр, чтобы отключить голосовое управление для всего вашего оборудования. Ваш пульт Fire TV по-прежнему будет работать.</string>
+    <string name="fire_tv_blaster_disabled_subtitle">Отключен</string>
+    <string name="fire_tv_blaster_enabled">Включить Blaster</string>
+    <string name="fire_tv_blaster_enabled_description">Выберите этот параметр, чтобы включить голосовое управление для всего вашего оборудования. Это займет всего несколько простых шагов.</string>
+    <string name="fire_tv_blaster_enabled_subtitle">Включен</string>
+    <string name="fire_tv_blaster_menu_description_disabled">"Для настройки управления голосом всего оборудования выберите Fire TV Blaster и следуйте инструкциям.
+
+ВНИМАНИЕ: Не все ваше оборудование использует Fire TV Blaster, выберите Fire TV Blaster > Включить"</string>
+    <string name="fire_tv_blaster_menu_description_enabled">Для управления голосом без пульта всего оборудования выберите Fire TV Blaster и следуйте инструкциям.</string>
+    <string name="fire_tv_blaster_menu_title">Fire TV Blaster</string>
     <string name="fire_tv_cube_input_description">"Укажите, какие входы переключать для просмотра Fire TV.
 
 
 Размещение:
 %1$s"</string>
+    <string name="fire_tv_disable_fire_tv_blaster_description">"It seems we cannot disable hands-free voice control. Please try again.
+
+
+Or go back to each piece of equipment to disable hands-free voice control with Fire TV Blaster. Select the equipment > Change Equipment and follow the instructions."</string>
+    <string name="fire_tv_disable_fire_tv_blaster_loading">Please wait while we disable hands-free voice control.</string>
+    <string name="fire_tv_disable_fire_tv_blaster_title">Unable to complete request</string>
     <string name="fire_tv_input_description">"Укажите, какие входы переключать для просмотра Fire TV.
 
 
@@ -350,14 +374,14 @@ Turn on this setting if you have trouble communicating with Alexa."</string>
 %1$s"</string>
     <string name="friendly_name_editor">Изменить имя устройства</string>
     <string name="friendly_name_illegal_user_input_message">Имя устройства не должно быть пустым</string>
-    <string name="g12_1_subtitle">Make sure the Fire TV Blaster you select has line of sight to your %1$s.</string>
-    <string name="g12_1_title">Which Fire TV Blaster would you like to use to control your %1$s?</string>
-    <string name="g12_4_description">By selecting Yes, you can control your %1$s using your Fire TV remote or your Echo device. If you have other equipment set up you must also use Fire TV Blaster. You can change this by selecting Equipment Control > Manage Equipment. Would you like to continue?</string>
-    <string name="g12_4_title_multiple_graspa">Looks like you have Fire TV Blasters</string>
-    <string name="g12_4_title_one_graspa">Looks like you have a Fire TV Blaster</string>
-    <string name="g12_7_title">Please wait while we connect to your Fire TV Blaster</string>
-    <string name="g12_9_subtitle">Sorry, a connectivity issue has occurred. Please make sure your Fire TV Blaster is turned on and connected to the same Wi-Fi network as your Fire TV. If you choose to skip, we will check for another IR blaster on your network and use that one instead.</string>
-    <string name="g12_9_title">Unable to connect</string>
+    <string name="g12_1_subtitle">Убедитесь, что выбранный вами Fire TV Blaster имеет прямую видимость %1$s.</string>
+    <string name="g12_1_title">Какой Fire TV Blaster вы хотели бы использовать для управления %1$s?</string>
+    <string name="g12_4_description">Выбрав Да, вы можете контролировать свои %1$s используя пульт Fire TV или устройство Echo. Если у вас установлено другое оборудование, вы также должны использовать Fire TV Blaster. Вы можете изменить настройку, выбрав Оборудование > Управление оборудованием. Желаете ли вы продолжить?</string>
+    <string name="g12_4_title_multiple_graspa">У вас есть Fire TV Blasters</string>
+    <string name="g12_4_title_one_graspa">У вас есть Fire TV Blaster</string>
+    <string name="g12_7_title">Пожалуйста, подождите, пока мы подключимся к вашему Fire TV Blaster</string>
+    <string name="g12_9_subtitle">Извините, возникла проблема с подключением. Убедитесь, что Fire TV Blaster включен и подключен к той же сети Wi-Fi, что и Fire TV. Если вы решите пропустить, мы проверим наличие еще одного ИК-бластера в вашей сети и используем его вместо этого.</string>
+    <string name="g12_9_title">Невозможно подключиться</string>
     <string name="g2_2_device_profile_item">ИК-профиль #%1$s</string>
     <string name="g2_2_subtitle">Нажмите  чтобы найти ИК-профиль по номеру</string>
     <string name="g2_2_title_avr">Выберите ИК-профиль для вашего AV-ресивера</string>
@@ -564,6 +588,50 @@ Turn on this setting if you have trouble communicating with Alexa."</string>
     <string name="input_sirius">Sirius</string>
     <string name="input_stream_box">Stream Box</string>
     <string name="input_svideo">S-Video</string>
+    <string name="input_switching_advanced_settings_description">Отрегулируйте расширенные параметры переключения входа</string>
+    <string name="input_switching_advanced_settings_title">Расширенные параметры</string>
+    <string name="input_switching_change_type_cycle_through_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+Вы перебираете каждый вход, нажимая кнопку «Вход» несколько раз."</string>
+    <string name="input_switching_change_type_cycle_through_title">Циклически</string>
+    <string name="input_switching_change_type_description">Выберите способ использования исходного пульта ДУ для изменения входа на телевизоре. Fire TV будет следовать тому же методу, когда вы переключаете входы.</string>
+    <string name="input_switching_change_type_horizontal_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажатие кнопки «Вход» открывает горизонтальное меню.
+
+2. Переход к следующему входу нажатием «Влево» или «Вправо» на панели навигации пульта."</string>
+    <string name="input_switching_change_type_horizontal_title">Навигация «Влево» + «Вправо»</string>
+    <string name="input_switching_change_type_title">Тип изменения входа</string>
+    <string name="input_switching_change_type_vertical_description">"Выберите эту опцию, если это описывает, как вы меняете вход:
+
+1. Нажатие кнопки «Вход» открывает вертикальное меню.
+
+2. Переход к следующему входу нажатием «Вверх» или «Вниз» на панели навигации пульта."</string>
+    <string name="input_switching_change_type_vertical_title">Навигация «Вверх» + «Вниз»</string>
+    <string name="input_switching_command_separation_description">Интервал между посылками ИК-команд, связанных с переключением входа.</string>
+    <string name="input_switching_command_separation_title">Интервал команд</string>
+    <string name="input_switching_common_ir_interval">Интервал:</string>
+    <string name="input_switching_common_off">Выкл.</string>
+    <string name="input_switching_common_on">Вкл.</string>
+    <string name="input_switching_description">Укажите, как вы используете свой оригинальный пульт для изменения входа на телевизоре.</string>
+    <string name="input_switching_input_list_common_padding_increment">Количество игнорируемых элементов:</string>
+    <string name="input_switching_input_list_padding_bottom_description">Количество элементов в списке входов, которые мы должны игнорировать - снизу</string>
+    <string name="input_switching_input_list_padding_bottom_title">Пропуск в списке входов - С конца</string>
+    <string name="input_switching_input_list_padding_top_description">Количество элементов в списке входов, которые мы должны игнорировать - сверху</string>
+    <string name="input_switching_input_list_padding_top_title">Пропуск в списке входов - С начала</string>
+    <string name="input_switching_pause_after_home_description">ИК-интервал после выбора входа.</string>
+    <string name="input_switching_pause_after_home_title">Пауза после «Home»</string>
+    <string name="input_switching_pause_before_enter_description">ИК-интервал после выбора входа.</string>
+    <string name="input_switching_pause_before_enter_title">Пауза перед «OK»</string>
+    <string name="input_switching_send_enter_after_input_description">Включите эту опцию, если вам нужно нажать кнопку «Enter» на пульте ДУ после перехода к нужному входу.</string>
+    <string name="input_switching_send_enter_after_input_title">Команда подтверждения</string>
+    <string name="input_switching_send_exit_after_input_description">Включите эту опцию, если вам нужно нажать кнопку «Выход», чтобы скрыть меню после выбора входа.</string>
+    <string name="input_switching_send_exit_after_input_title">Команда выхода</string>
+    <string name="input_switching_send_input_entry_twice_description">Включите эту опцию, если вам нужно дважды нажать кнопку выбора входа, чтобы начать навигацию между входами.</string>
+    <string name="input_switching_send_input_entry_twice_title">Отправить команду «Вход» дважды</string>
+    <string name="input_switching_start_from_home_description">Включите отправку CEC One Touch Play и навигацию из этого исходного положения, вместо того чтобы пытаться перемещаться между входами напрямую.</string>
+    <string name="input_switching_start_from_home_title">Начать с «Домой»</string>
+    <string name="input_switching_title">Переключение входа</string>
     <string name="input_tape">Tape</string>
     <string name="input_tape_1">Tape 1</string>
     <string name="input_tape_2">Tape 2</string>
@@ -1018,11 +1086,25 @@ Press  to continue."</string>
     <string name="ota2_5_title_satellite">"We will now switch to Satellite. Click Next when you're ready."</string>
     <string name="ota2_8_title">It looks like we are unable to switch inputs on your TV. Click Next to continue.</string>
     <string name="ota2_9_title_input_switching_not_successful">%1$s, try saying, %2$s or %3$s.</string>
-    <string name="ota2_9_title_input_switching_successful">You can now say, %1$s. %2$s, try saying, %3$s or %4$s. To switch back to Fire TV, just say, %5$s.</string>
-    <string name="ota2_9_title_switching_back_to_fire_tv_not_successful">You can now say, %1$s. %2$s, try saying, %3$s or %4$s.</string>
-    <string name="ota2_9_to_control_your_activity_antenna">To control your Antenna with Alexa</string>
+    <string name="ota2_9_title_input_switching_not_successful_non_us">%1$s, try saying %2$s.</string>
+    <string
+name="ota2_9_title_input_switching_successful">You can now say, %1$s. %2$s, try saying, %3$s or %4$s. To switch back to Fire TV, just say, %5$s.</string>
+    <string name="ota2_9_title_input_switching_successful_non_us">You can now say %1$s. %2$s, try saying %3$s. To switch back to Fire TV, just say %4$s.</string>
+    <string
+name="ota2_9_title_switching_back_to_fire_tv_not_successful">You can now say, %1$s. %2$s, try saying, %3$s or %4$s.</string>
+    <string name="ota2_9_title_switching_back_to_fire_tv_not_successful_non_us">You can now say %1$s. %2$s, try saying %3$s.</string>
+    <string
+name="ota2_9_to_control_your_activity_antenna">To control your Antenna with Alexa</string>
     <string name="ota2_9_to_control_your_activity_cable">To control your Cable with Alexa</string>
     <string name="ota2_9_to_control_your_activity_satellite">To control your Satellite with Alexa</string>
+    <string name="ota_change_inputs_description">"Change which inputs we switch to for watching Live TV.
+
+
+%1$s"</string>
+    <string name="ota_change_lineup_description">"Select this option if the configuration you are currently using is not switching your TV to the expected channel.
+
+Current configuration:
+%1$s"</string>
     <string name="ota_common_switching_multiple_inputs">Переключение входов</string>
     <string name="ota_common_switching_single_input">Переключение входа</string>
     <string name="oxford_and_list_dual_terminator">" и "</string>
@@ -1348,7 +1430,7 @@ to This"</string>
     <string name="sleep_timer_card">Sleep Timer</string>
     <string name="soundbar_device_type">soundbar</string>
     <string name="soundbar_device_type_upper_case_first_letter">Soundbar</string>
-    <string name="soundbar_friendly_name_editor_description">Измените имя, которое вы используете при управлении звуковой панелью</string>
+    <string name="soundbar_friendly_name_editor_description">Измените имя звуковой панели</string>
     <string name="soundbar_input_title">Soundbar Input</string>
     <string name="starring">Starring:</string>
     <string name="start_slideshow">"Start
