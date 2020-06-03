@@ -25,7 +25,7 @@
     <string name="app_compatibility_interstitial_download_text_arg">загрузить</string>
     <string name="app_compatibility_interstitial_launch_text_arg">запустить</string>
     <string name="app_compatibility_interstitial_subtitle">"Это приложение еще не обновлено до последних стандартов совместимости или безопасности. Вы все еще можете %s приложение, но у вас могут возникнуть проблемы.
-        
+
         Если у вас есть какие-либо вопросы, свяжитесь с нашей службой поддержки через Настройки > Справка."</string>
     <string name="app_compatibility_interstitial_title">Возможные проблемы совместимости</string>
     <string name="app_name">AppStore</string>
@@ -130,7 +130,7 @@
     <string name="detail_no_network_message">Мы не можем подключиться к сервисам Amazon. Пожалуйста, проверьте подключение к Интернету или повторите попытку позже.</string>
     <string name="detail_no_network_title">Сеть недоступна</string>
     <string name="detail_overview_developer">"Разработчик: "</string>
-    <string name="detail_purchase_option">Купить для %s</string>
+    <string name="detail_purchase_option">Купить за %s</string>
     <string name="detail_release_notes_default">На данный момент нет замечаний по выпуску</string>
     <string name="detail_release_notes_title">Что нового в версии: %s</string>
     <string name="detail_screenshots_title">Трейлеры и скриншоты</string>
@@ -230,7 +230,7 @@
     <string name="mfa_verification_error_message">Мы не можем подтвердить ваш заказ. Пожалуйста, попробуйте снова, используя инструкции, которые были отправлены вам по электронной почте. Если не будет подтверждения в течение 72 часов, ваш заказ будет автоматически отменен.</string>
     <string name="mfa_verification_error_title">Verification Error</string>
     <string name="mfa_verification_message">"Ваш банк требует дополнительной проверки. Проверьте свою электронную почту для инструкций, чтобы проверить и завершить ваш заказ. Если не будет подтверждения в течение 72 часов, ваш заказ будет автоматически отменен.
-        
+
         После завершения нажмите Готово."</string>
     <string name="mfa_verification_message_coins">Ваш банк требует дополнительной проверки. Проверьте свою электронную почту для получения инструкций или перейдите на %s, чтобы проверить и выполнить ваш заказ. Если не будет подтверждения в течение 72 часов, ваш заказ будет автоматически отменен. После завершения нажмите Готово.</string>
     <string name="mfa_verification_title">Требуется проверка</string>
@@ -363,7 +363,7 @@
     <string name="usb_unmounted_uninstall_warning_title">Предупреждение об удалении</string>
     <string name="video_preview_error_dismiss">ОК</string>
     <string name="video_preview_error_message">"Произошла ошибка при попытке воспроизвести видео для этого приложения. Пожалуйста, повторите попытку позже.
-        
+
         Ошибка: %1$d,%2$d"</string>
     <string name="video_preview_error_title">Невозможно воспроизвести видео</string>
     <string name="works_with">"Работает с: "</string>

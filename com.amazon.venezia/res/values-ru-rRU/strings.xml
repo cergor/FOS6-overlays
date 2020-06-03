@@ -97,7 +97,7 @@
     <string name="iap_subscriptions_daily">Ежедневно</string>
     <string name="iap_subscriptions_seasonal_daily">Ежедневно</string>
     <string name="iap_subscriptions_special_promotion">Специальная акция</string>
-    <string name="iap_thank_you_purchase_for">Куплено для %1$s.</string>
+    <string name="iap_thank_you_purchase_for">Куплено за %1$s.</string>
     <string name="iap_use_one_click_settings">Используйте настройки 1-Click *</string>
     <string name="iap_view_and_edit_one_click_settings">* Просмотр и редактирование настроек 1-Click</string>
     <string name="iap_zeroes_learn_about_amazon_coins">Узнать больше о монетах Amazon Coin</string>
