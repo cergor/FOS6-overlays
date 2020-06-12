@@ -240,7 +240,7 @@
     <string name="missing_launch_intent_title">Не удается открыть приложение</string>
     <string name="more_app_updates_available_content">%1$s + %2$s ещё</string>
     <string name="more_app_updates_available_title">Доступны обновления приложений: %s</string>
-    <string name="more_info">Больше информации</string>
+    <string name="more_info">Открыть в AppStore</string>
     <string name="mouse">Мышь</string>
     <string name="mouse_description">Беспроводные мыши Bluetooth или USB-мыши предлагают еще один способ играть в игры, созданные для планшетов Fire, на вашем Fire TV.</string>
     <string name="move_mode_disabled_toast">Режим перемещения отключен во время обновления сетки.</string>
