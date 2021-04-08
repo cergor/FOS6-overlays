@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appliance_group_name_suggestions">
+        <item>Кухня</item>
+        <item>Їальня</item>
+        <item>Спальня</item>
+        <item>Головна спальня</item>
+        <item>Вітальня</item>
+        <item>Вітальня</item>
+        <item>Кабінет</item>
+        <item>Офіс</item>
+        <item>Ванна</item>
+        <item>Хол</item>
+        <item>Передпокій</item>
+        <item>Підвал</item>
+        <item>Гараж</item>
+        <item>Тераса</item>
+        <item>Сад</item>
+        <item>Нижній поверх</item>
+        <item>Верхній поверх</item>
+    </string-array>
+</resources>

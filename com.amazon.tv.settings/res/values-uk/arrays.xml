@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="captions_background_color_titles">
+        <item>За замовчуванням</item>
+        <item>Білий</item>
+        <item>Чорний</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Синій</item>
+        <item>Жовтий</item>
+        <item>Фіолетовий</item>
+        <item>Бірюзовий</item>
+        <item>Немає</item>
+    </string-array>
+    <string-array name="captions_edge_type_titles">
+        <item>Немає</item>
+        <item>Одноманітний</item>
+        <item>Відкидати тінь</item>
+        <item>Рельеф</item>
+        <item>Втиснутий</item>
+    </string-array>
+    <string-array name="captions_font_color_titles">
+        <item>За замовчуванням</item>
+        <item>Білий</item>
+        <item>Чорний</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Синій</item>
+        <item>Жовтий</item>
+        <item>Фіолетовий</item>
+        <item>Бірюзовий</item>
+    </string-array>
+    <string-array name="captions_font_size_titles">
+        <item>Крихітний</item>
+        <item>Маленький</item>
+        <item>Звичайний</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+    </string-array>
+    <string-array name="captions_typeface_titles">
+        <item>За замовчуванням</item>
+        <item>Недбалий</item>
+        <item>Курсив</item>
+        <item>Моноширинний, без засічок</item>
+        <item>Моноширинний, з засічками</item>
+        <item>Без засічок</item>
+        <item>З засічками</item>
+        <item>Малі літери</item>
+    </string-array>
+    <string-array name="captions_window_color_titles">
+        <item>За замовчуванням</item>
+        <item>Білий</item>
+        <item>Чорний</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Синій</item>
+        <item>Жовтий</item>
+        <item>Фіолетовий</item>
+        <item>Бірюзовий</item>
+        <item>Немає</item>
+    </string-array>
+    <string-array name="gamepad_instructions">
+        <item>"Натисніть і утримуйте  протягом ${pairingTimeout} секунд на ігровому контролері Amazon Fire TV, який ви бажаєте під’єднати.
+
+Як тільки його буде виявлено, виберіть контролер із списку."</item>
+        <item>"Для контролерів Nyko PlayPad Pro переконайтеся, що перемикач в нижній частині контролера встановлений на значок геймпада. Увімкніть контролер, потім утримуйте  протягом 3-4 секунд, аж доки світлодіод не почне швидко блимати.
+
+Як тільки його буде виявлено, виберіть контролер зі списку."</item>
+    </string-array>
+    <string-array name="gamepad_instructions_content_desc">
+        <item>"Натисніть і утримуйте кнопку «Додому» протягом ${pairingTimeout} секунд на ігровому контролері Amazon Fire TV, який ви бажаєте під’єднати.
+
+Як тільки його буде виявлено, виберіть контролер зі списку."</item>
+        <item>"Для контролерів Nyko PlayPad Pro переконайтеся, що перемикач в нижній частині контролера встановлений на значок геймпада. Увімкніть контролер, потім утримуйте кнопку «Додому» протягом 3-4 секунд, аж доки світлодіод не почне швидко блимати.
+
+Як тільки його буде виявлено, виберіть контролер зі списку."</item>
+    </string-array>
+    <string-array name="searching_animation">
+        <item>Пошук</item>
+        <item>Пошук.</item>
+        <item>Пошук...</item>
+        <item>Пошук...</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканування…</item>
+        <item>Підключення…</item>
+        <item>Авторизація…</item>
+        <item>Отримання IP-адреси</item>
+        <item>Підключено</item>
+        <item>Припинено</item>
+        <item>Відключення…</item>
+        <item>Відключено</item>
+        <item>Невдало</item>
+        <item>Заблоковано</item>
+        <item>Погане з’єднання</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканування…</item>
+        <item>Підключення до %1$s…</item>
+        <item>Авторизація в %1$s…</item>
+        <item>Отримання IP-адреси від %1$s…</item>
+        <item>Підключено до %1$s</item>
+        <item>Припинено</item>
+        <item>Відключення від %1$s…</item>
+        <item>Відключено</item>
+        <item>Невдало</item>
+        <item>Заблоковано</item>
+        <item>Погане з’єднання</item>
+    </string-array>
+</resources>

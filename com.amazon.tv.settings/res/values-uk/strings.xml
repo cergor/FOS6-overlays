@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lb_search_bar_hint">Пошук</string>
+    <string name="lb_search_bar_hint_speech">Промовте запит</string>
+    <string name="lb_search_bar_hint_with_title">Пошук тут: %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Промовте запит для пошуку тут: %1$s</string>
+    <string name="orb_search_action">Пошук</string>
+    <string name="a11y_closed_captioned">Доступні субтитри</string>
+    <string name="a11y_uhd">Доступно у UHD</string>
+    <string name="a11y_xray">X-ray доступний</string>
+    <string name="about_controller_details_text">Підключено 1 контролер</string>
+    <string name="about_controllers_details_text">Підключено контролерів: %s</string>
+    <string name="about_device_name">Назва пристрою</string>
+    <string name="about_ethernet_mac_address">MAC-адреса (Ethernet):</string>
+    <string name="about_hardware_serial">Серійний номер</string>
+    <string name="about_network_dns">DNS:</string>
+    <string name="about_network_gateway">Шлюз:</string>
+    <string name="about_network_ip_address">IP-адреса:</string>
+    <string name="about_network_not_connected">Немає підключення</string>
+    <string name="about_network_ssid">SSID:</string>
+    <string name="about_network_subnet_mask">Маска мережі:</string>
+    <string name="about_network_unknown">Невід.</string>
+    <string name="about_pane_check_for_update_checking">Йде перевірка…</string>
+    <string name="about_pane_check_for_update_downloading">Завантаження оновлення…</string>
+    <string name="about_pane_check_for_update_error">Помилка при оновленні</string>
+    <string name="about_pane_check_for_update_install">Встановити оновлення</string>
+    <string name="about_pane_check_for_update_installing">Встановлення оновлення…</string>
+    <string name="about_pane_check_for_update_title">Перевірка оновлень</string>
+    <string name="about_pane_controllers_title">Контролери</string>
+    <string name="about_pane_margo_title">Ваш ТВ</string>
+    <string name="about_pane_network_title">Мережа</string>
+    <string name="about_pane_report_an_issue_title">Повідомити про помилку</string>
+    <string name="about_pane_storage_title">Сховище</string>
+    <string name="about_pane_system_title">$(pn)</string>    <string name="about_remotes_battery">Стан батареї</string>
+    <string name="about_remotes_mac_address">MAC-адреса</string>
+    <string name="about_remotes_name">Назва пристрою</string>
+    <string name="about_remotes_serial_number">Серійній номер</string>
+    <string name="about_remotes_type">Тип</string>
+    <string name="about_remotes_version">Версія</string>
+    <string name="about_report_an_issue_summary">Повідомити про помилку</string>
+    <string name="about_settings_details">Перегляд інформації про пристрій, доступний простір, мережеві підключення та оновлення.</string>
+    <string name="about_storage_available">%1$s з %2$s доступно</string>
+    <string name="about_storage_external_label">Зовнішній простір</string>
+    <string name="about_storage_internal_label">Внутрішній простір</string>
+    <string name="about_storage_mask">${availableDisplaySize} з ${totalDisplaySize} доступно</string>
+    <string name="about_storage_no_external">USB-диску не виявлено</string>
+    <string name="about_system_account">Обл. запис Amazon</string>
+    <string name="about_system_account_not_connected">Не авторизовано</string>
+    <string name="about_system_device_name">Назва пристрою</string>
+    <string name="about_system_launcher_version">Версія Fire TV Home</string>
+    <string name="about_system_model_name">Модель</string>
+    <string name="about_system_software_build">Версія ПЗ</string>
+    <string name="about_system_storage_capacity">Розмір сховища</string>
+    <string name="about_system_time">Поточна дата і час</string>
+    <string name="about_unknown_info">Невідома інформація</string>
+    <string name="about_update_checking">Перевірка оновлень…</string>
+    <string name="about_update_current_build">Поточна версія</string>
+    <string name="about_update_downloaded">Доступне оновлення</string>
+    <string name="about_update_downloaded_app_updates_name">Системні компоненти</string>
+    <string name="about_update_downloaded_desc">"Оновлення автоматично почнеться наступного разу, коли ваш $(pn) не буде використовуватись. Встановлення оновлення може потребувати перезавантаження пристрою.
+Натисніть «ОК» для початку"</string>
+    <string name="about_update_downloaded_ver">Оновлення для встановлення</string>
+    <string name="about_update_downloading">Завантаження оновлення…</string>
+    <string name="about_update_downloading_desc">Встановлення оновлення може зажадати перезавантаження пристрою. Якщо ви залишите цю сторінку, то оновлення буде встановлено пізніше, коли ваш $(pn) не буде використовуватись.</string>
+    <string name="about_update_downloading_ver_app_only">Отримання додатків…</string>
+    <string name="about_update_downloading_ver_os_only">Отримання версії…</string>
+    <string name="about_update_error">Помилка оновлення</string>
+    <string name="about_update_error_desc">На жаль, ми зіткнулися з помилкою при спробі оновити програмне забезпечення вашої системи. Будь ласка, спробуйте ще раз пізніше.</string>
+    <string name="about_update_installed_date">Дата встановлення</string>
+    <string name="about_update_installing">Встановлення оновлення…</string>
+    <string name="about_update_installing_desc">Система перезавантажиться, і оновлення завершиться через кілька хвилин.</string>
+    <string name="about_update_never_checked">Ніколи</string>
+    <string name="about_update_no_update">Ваш Fire TV оновлено</string>
+    <string name="about_update_update_checked">Стан</string>
+    <string name="about_wifi_mac_address">MAC-адреса (Wi-Fi):</string>
+    <string name="account_loading_text">Завантаження…</string>
+    <string name="account_sync_details">Синхронізуйте придбаний вами контент Amazon</string>
+    <string name="account_sync_text">Синхронізація…</string>
+    <string name="account_sync_title">Синхронізація з Amazon</string>
+    <string name="acon_unblock_warning">"Це увімкне контент для дорослих на вашому Fire TV.
+Клієнтам, що молодше 18 років заборонено переглядати цей
+вміст.
+Вам більше 18 років?"</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="adaptable_external_storage_title">USB-диск</string>
+    <string name="adaptable_manage_installed_apps_title">Керування додатками</string>
+    <string name="adaptable_storage_details">Управління USB-диском</string>
+    <string name="adaptable_storage_status_title">Стан сховища</string>
+    <string name="adaptable_unmount_external_storage_text">Безпечне вилучення USB-диску та визначення додатків, що більше не будуть доступні.</string>
+    <string name="adaptable_unmount_external_storage_title">Витягти USB-диск</string>
+    <string name="adptable_manage_installed_apps_text">Управління встановленими додатками з Amazon та інших джерел</string>
+    <string name="adult_content_setting_desc">Обмежити перегляд контенту для дорослих користувачів (18 років та більше)</string>
+    <string name="adult_content_settings_title">Керуйте контентом для дорослих</string>
+    <string name="advanced_audio_desc">Керуйте гучністю та поліпшеннями діалогів тут</string>
+    <string name="advanced_audio_dialogue_enhancer">Посилення діалогів</string>
+    <string name="advanced_audio_dialogue_enhancer_off">"Посилення голосів, щоб полегшити розуміння діалогів.
+
+Натисніть «ОК» для увімкнення посилення діалогів"</string>
+    <string name="advanced_audio_dialogue_enhancer_on">"Посилення голосів, щоб полегшити розуміння діалогів.
+
+Натисніть «ОК» для вимкнення посилення діалогів"</string>
+    <string name="advanced_audio_title">Аудіорозширення</string>
+    <string name="advanced_audio_volume_leveler">Нормалізатор рівнів</string>
+    <string name="advanced_audio_volume_leveler_off">"Встановлює постійний рівень гучності для потокового контенту і додатків.
+
+Натисніть «ОК» для увімкнення нормалізатора рівнів"</string>
+    <string name="advanced_audio_volume_leveler_on">"Встановлює постійний рівень гучності для потокового контенту і додатків.
+
+Натисніть «ОК» для вимкнення нормалізатора рівнів."</string>
+    <string name="advertisement_reset_string">Скидання ідентифікатора реклами</string>
+    <string name="advertising_reset_option">Натисніть для скидання ідентифікатора реклами</string>
+    <string name="advertising_reset_option_content_desc">Натисніть кнопку Меню для скидання ідентифікатора реклами</string>
+    <string name="advertising_settings_title">Ідентифікатор реклами</string>
+    <string name="advertising_text">%1$s</string>
+    <string name="advertising_title">Ваш ідентифікатор реклами</string>
+    <string name="alexa_app_dialog_text">"Додаток Alexa створено, щоб допомогти вам краще опанувати всі можливості голосового помічника Alexa.
+
+Ви можете використовувати додаток для налаштування музичних служб, перегляду списків справ і покупок на ходу та перегляду історії ваших запитів. Ви також можете керувати налаштуваннями облікових записів, наприклад, голосовою покупкою через Alexa.
+
+Щоб завантажити додаток Alexa, відвідайте alexa.amazon.com на мобільному пристрої або перейдіть на alexa.amazon.com на комп’ютері, щоб отримати доступ до додатку у веб-переглядачі."</string>
+    <string name="alexa_app_dialog_title">Додаток Alexa</string>
+    <string name="alexa_postal_code_failed">Помилка</string>
+    <string name="alexa_postal_code_fetching">Отримання…</string>
+    <string name="alexa_postal_code_hint">98109</string>
+    <string name="alexa_postal_code_needs_setting">Встановити</string>
+    <string name="alexa_postal_code_prompt">Введіть ваш індекс</string>
+    <string name="alexa_postal_code_update_failed_msg">Неможливо змінити індекс</string>
+    <string name="alexa_pref_alexa_app_description">Натисніть «ОК» для знайомства з додатком Alexa</string>
+    <string name="alexa_pref_things_to_try_description">Натисніть «ОК» щоб дізнатися, що ви можете зробити з Alexa. Обов’язково розмовляйте з Alexa англійською мовою.</string>
+    <string name="all_installed_applications_category_details">"Перегляд встановлених додатків і управління ними,
+включаючи зупинку, видалення, очищення даних і очищення кешу."</string>
+    <string name="all_installed_applications_title">Керування додатками</string>
+    <string name="allow_permission_text">ДОЗВОЛ.</string>
+    <string name="amazon_applications_category_title">Налаштування додатків Amazon</string>
+    <string name="amazon_launcher_settings_permission_description">Дозволяє додаткам запускати налаштування робочого столу Amazon.</string>
+    <string name="amazon_launcher_settings_permission_label">Налаштування робочого столу Amazon</string>
+    <string name="amazon_settings_adult_content_settings_provider_permission_description">Дозволяє додаткам отримувати доступ до налаштувань Вмісту для Дорослих.</string>
+    <string name="amazon_settings_adult_content_settings_provider_permission_label">Налаштування Вмісту для Дорослих.</string>
+    <string name="amazon_settings_blacklist_description">Додатки можуть вимагати цього дозволу, щоб приховувати своє відображення на сторінці налаштувань додатку.</string>
+    <string name="amazon_settings_blacklist_label">Дозволяє додаткам приховувати своє відображення на сторінці налаштувань додатку.</string>
+    <string name="amazon_settings_permission_description">Дозволяє додаткам відображати власні налаштування.</string>
+    <string name="amazon_settings_permission_label">Налаштування додатків Amazon</string>
+    <string name="amazon_settings_wps_permission_description">Дозволяє додаткам запускати діалог Wi-Fi WPS</string>
+    <string name="amazon_settings_wps_permission_label">Wi-Fi WPS</string>
+    <string name="amzn_rating_content_description">%1$.1f з 5</string>
+    <string name="amzn_rating_with_count_content_description">%1$.1f з 5 від %2$d користувачів</string>
+    <string name="app_data_usage_settings_pref_detail">Статистика споживання даних додатками за поточний період, зазначений у налаштуванні «Сповіщення про дані»</string>
+    <string name="app_data_usage_settings_pref_header_setup_done">Статистика споживання даних для 20 додатків</string>
+    <string name="app_data_usage_settings_pref_title">Статистика споживання</string>
+    <string name="app_friends_count_content_description">Друзі %1$s</string>
+    <string name="app_game_controller_content_description">Ігровий контролер %1$s</string>
+    <string name="app_list_price_content_description">Список цін %1$s</string>
+    <string name="app_move_external_failed_low_storage_text">На вашому USB-диску недостатньо місця для зберігання. Ви можете звільнити місце, видаливши додатки або файли, що не використовуються, а потім спробувати ще раз.</string>
+    <string name="app_move_failed_text">Перевірте ваше USB-з’єднання. При необхідності знову підключіть USB-диск і спробуйте ще раз.</string>
+    <string name="app_move_failed_title">Неможливо перемістити додаток</string>
+    <string name="app_move_internal_failed_low_storage_text">Вашому Amazon Fire TV потрібно 500 МБ вільного місця на внутрішній пам’яті для переміщення цього додатка.  Ви можете звільнити місце, видаливши додатки або файли, що не використовуються, а потім спробувати ще раз.</string>
+    <string name="app_move_to_internal_text">"Будь ласка, зачекайте. Час переміщення буде залежати від розміру додатку і швидкості вашого USB-диска.
+
+Будь ласка, не відключайте USB-диск під час переміщення."</string>
+    <string name="app_move_to_usb_text">"Будь ласка, зачекайте. Час переміщення буде залежати від розміру додатку і швидкості вашого USB-диска. Деякі додатки будуть продовжувати зберігати дані у внутрішньому сховищі навіть при переміщенні на USB.
+
+Будь ласка, не відключайте USB-диск під час переміщення."</string>
+    <string name="app_name_label">Налаштування</string>
+    <string name="app_our_price_content_description">Наша ціна %1$s</string>
+    <string name="app_scan_dialog_text">"Пошук додатків, встановлених на цьому
+диску. Це може зайняти деякий час."</string>
+    <string name="app_scan_dialog_title">Сканування додатків</string>
+    <string name="app_size_label">Додаток:</string>
+    <string name="app_trophies_count_content_description">Знайдено %1$s</string>
+    <string name="app_uninstall_dialog_title">Продовжити?</string>
+    <string name="app_uninstall_dialog_uninstall_button">Видалити</string>
+    <string name="app_uninstall_progress_dialog_text">Видалення додатку</string>
+    <string name="app_usage_metrics_confirm_desc">"Appstore збирає інформацію про частоту та тривалість використання завантажених додатків, щоб поліпшити роботу Appstore і якість самих додатків. Ми також можемо ділитися з розробниками агрегованою або іншою інформацією про використання додатків, що не ідентифікує особу, щоб допомогти їм поліпшити свої додатки.
+Примітка: відключення цього параметра не призведе до вимикання хмарного сховища даних ігор в GameCircle."</string>
+    <string name="app_usage_metrics_confirm_desc_smart_tv">Amazon збирає інформацію, що стосується використання вами ефірного телевізійного контенту, а також частоти і тривалості використання сторонніх додатків. Це допомагає нам поліпшити наші послуги і персоналізувати ваш досвід. Ми будемо обробляти будь-яку таку інформацію відповідно до Повідомлення про конфіденційність Amazon, що доступне за адресою %1$s.</string>
+    <string name="app_usage_metrics_confirm_desc_smart_tv_us">Amazon збирає інформацію, що стосується використання вами ефірного телевізійного контенту, а також частоти і тривалості використання сторонніх додатків. Це допомагає нам поліпшити наші послуги і персоналізувати ваш досвід. Ми будемо обробляти будь-яку таку інформацію відповідно до Повідомлення про конфіденційність Amazon, що доступне за адресою %1$s. Відключення цього параметра не впливає на збір даних на будь-якому пов’язаному пристрої Fire TV Recast.</string>
+    <string name="app_usage_metrics_confirm_ok">Вимкнути</string>
+    <string name="app_usage_metrics_confirm_title">Статистика використання додатків</string>
+    <string name="app_usage_metrics_settings">Статистика використання додатків</string>
+    <string name="app_usage_metrics_settings_details">Дозволити Appstore збирати інформацію про частоту і тривалість використання завантажених додатків.</string>
+    <string name="app_usage_metrics_settings_details_smart_tv">Дозволити Amazon збирати інформацію, що стосується використання вами ефірного телевізійного контенту, а також частоти і тривалості використання додатків.</string>
+    <string name="app_usage_metrics_settings_details_smart_tv_us">Дозволити Amazon збирати інформацію, що стосується використання вами ефірного телевізійного контенту, отриманого через антену, підключену безпосередньо до вашого телевізора, а також частоти і тривалості використання сторонніх додатків.</string>
+    <string name="application_alexa_settings">Alexa</string>
+    <string name="application_alexa_settings_details">Отримати інформацію про сервіси Alexa.</string>
+    <string name="application_filter_all_applications_title">Всі додатки</string>
+    <string name="application_filter_internal_apps_title">Тільки внутр. пам’ять</string>
+    <string name="application_filter_pref_title">Показувати</string>
+    <string name="application_filter_usb_apps_title">Тільки USB-диск</string>
+    <string name="application_sort_title">Перегляд</string>
+    <string name="apps_all_checked">"Наразі відображаються всі встановлені додатки.
+
+Додатки відсортовані за алфавітом"</string>
+    <string name="apps_all_unchecked">"Відображення додатків, що встановлені на вашому $(pn).
+
+Додатки сортуються за алфавітом"</string>
+    <string name="apps_internal_checked">"Наразі відображаються додатки, що встановлені у внутрішній пам’яті.
+
+Додатки відсортовані за розміром"</string>
+    <string name="apps_internal_unchecked">"Відображення додатків, встановлених у внутрішній пам’яті.
+
+Додатки сортуються за розміром"</string>
+    <string name="apps_usb_checked">"Наразі відображаються додатки, встановлені на USB-диску.
+
+Додатки відсортовані за розміром"</string>
+    <string name="apps_usb_unchecked">"Відображення додатків, встановлених на USB-диску, що  підключений до вашого $(pn).
+
+Додатки сортуються за розміром"</string>
+    <string name="audio_auto">Авто Dolby Digital Plus</string>
+    <string name="audio_auto_checked_description">Якщо ваш пристрій HDMI не підтримує Dolby Digital, ви отримаєте звук стереофонічної якості.</string>
+    <string name="audio_auto_checked_dolby">Dolby Digital Plus вмикається автоматично через HDMI.</string>
+    <string name="audio_auto_unchecked_description">Якщо ваш пристрій HDMI не підтримує Dolby Digital, ви отримаєте звук стереофонічної якості.</string>
+    <string name="audio_auto_unchecked_dolby">Виберіть, щоб Dolby Digital Plus вмикався автоматично через HDMI.</string>
+    <string name="audio_dd_always">Завжди Dolby Digital</string>
+    <string name="audio_dd_always_checked">Виберіть для відключення «Завжди Dolby Digital»</string>
+    <string name="audio_dd_always_plus">Завжди Dolby Digital Plus</string>
+    <string name="audio_dd_always_unchecked">Виберіть для включення «Завжди Dolby Digital»</string>
+    <string name="audio_dd_best_available">Кращий з доступних</string>
+    <string name="audio_dd_best_available_checked">Dolby Digital вмикається автоматично</string>
+    <string name="audio_dd_best_available_unchecked">Виберіть для автоматичного увімкнення Dolby Digital</string>
+    <string name="audio_dd_plus_always_checked">Виберіть для відключення «Завжди Dolby Digital Plus»</string>
+    <string name="audio_dd_plus_always_unchecked">Виберіть для включення «Завжди Dolby Digital Plus»</string>
+    <string name="audio_dd_stereo">Стерео</string>
+    <string name="audio_dd_stereo_checked">Dolby Digital вимкнено</string>
+    <string name="audio_dd_stereo_unchecked">Виберіть, щоб вимкнути Dolby Digital.</string>
+    <string name="audio_digital_audio_format">Вибирає аудіоформат для виходів HDMI ARC і Optical Out. PCM пропускає стиснені аудіо дані, Dolby Digital Plus і Dolby Digital будуть передаватися в форматі Dolby Digital. Авто працює з пристроєм ARC для визначення найкращого формату і не рекомендується для SPDIF.</string>
+    <string name="audio_dolby_description">Виберіть, щоб увімкнути вихід Dolby Digital Plus для HDMI або оптичного аудіо.</string>
+    <string name="audio_dolby_description_no_optical">Виберіть, щоб увімкнути вихід Dolby Digital Plus через HDMI.</string>
+    <string name="audio_dolby_description_optical">Виберіть, щоб увімкнути вихід Dolby Digital Plus через SPDIF.</string>
+    <string name="audio_dolby_hdmi">Dolby Digital через HDMI</string>
+    <string name="audio_dolby_hdmi_checked">Dolby Digital передається через HDMI</string>
+    <string name="audio_dolby_hdmi_checked_description">Якщо ваш пристрій HDMI не підтримує Dolby Digital, можливо, ви не почуєте звук.</string>
+    <string name="audio_dolby_hdmi_unchecked">Виберіть для увімкнення Dolby Digital через HDMI</string>
+    <string name="audio_dolby_hdmi_unchecked_description">Якщо ваш пристрій HDMI не підтримує Dolby Digital, можливо, ви не почуєте звук.</string>
+    <string name="audio_dolby_optical">Dolby Digital через Optical Out</string>
+    <string name="audio_dolby_plus_optical">Dolby Digital Plus через Optical Out</string>
+    <string name="audio_dolby_title">Вивід Dolby Digital</string>
+    <string name="audio_dolby_warning">УВАГА: Якщо ваш телевізор або AV-ресивер не підтримує Dolby Digital, можливо, ви не почуєте звук в деяких фільмах або телепередачах.</string>
+    <string name="audio_hdmi">Dolby Digital Plus через HDMI</string>
+    <string name="audio_hdmi_checked_description">Якщо ваш пристрій HDMI не підтримує Dolby Digital Plus, можливо, ви не почуєте звук.</string>
+    <string name="audio_hdmi_checked_dolby">Dolby Digital Plus увімкненний через HDMI. SPDIF забезпечує стереозвук.</string>
+    <string name="audio_hdmi_checked_dolby_no_optical">Dolby Digital Plus передається через HDMI.</string>
+    <string name="audio_hdmi_unchecked_description">Якщо ваш пристрій HDMI не підтримує Dolby Digital Plus, можливо, ви не почуєте звук.</string>
+    <string name="audio_hdmi_unchecked_dolby">Виберіть для увімкнення Dolby Digital Plus через HDMI. SPDIF забезпечить стереозвук.</string>
+    <string name="audio_hdmi_unchecked_dolby_no_optical">Виберіть для увімкнення Dolby Digital Plus через HDMI.</string>
+    <string name="audio_hdmi_warning">Попередження: кабель HDMI ARC не підключений.</string>
+    <string name="audio_headset_title">Гарнітура підключена</string>
+    <string name="audio_headset_warning">Вихідний аудіосигнал можна змінити тільки після відключення прослуховувального пристрою</string>
+    <string name="audio_mixing_details">За замовчуванням ваш телевізор підтримує технологію 5.1-канального відтворення через Dolby Audio. Вимкніть мікшування звуку, щоб підтримувати максимум 7.1 каналів.</string>
+    <string name="audio_mixing_title">Мікшування звуку</string>
+    <string name="audio_mixing_warning">Попередження: ви вимикаєте мікшування звуку.</string>
+    <string name="audio_navigation_sounds_off">"Звук навігації - це звук, який чути під час навігації або при виборі елемента на екрані $(pn).
+
+Натисніть «ОК» для вимкнення звуків навігації"</string>
+    <string name="audio_navigation_sounds_on">"Звук навігації - це звук, який чути під час навігації або при виборі елемента на екрані Fire TV.
+
+Натисніть «ОК» для увімкнення звуків навігації"</string>
+    <string name="audio_navigation_sounds_title">Звук навігації</string>
+    <string name="audio_no_selection">Вимк.</string>
+    <string name="audio_off">Dolby Digital Plus ВИМК</string>
+    <string name="audio_off_checked_description">І HDMI, і SPDIF забезпечують стереофонічну якість звуку.</string>
+    <string name="audio_off_checked_description_no_optical">HDMI забезпечує стереофонічну якість звуку</string>
+    <string name="audio_off_checked_dolby">Dolby Digital Plus вимкнено</string>
+    <string name="audio_off_unchecked_description">І HDMI, і SPDIF забезпечать стереофонічну якість звуку.</string>
+    <string name="audio_off_unchecked_description_no_optical">HDMI забезпечить стереофонічну  якість звуку</string>
+    <string name="audio_off_unchecked_dolby">Виберіть, щоб вимкнути Dolby Digital Plus.</string>
+    <string name="audio_optical_checked_description">Якщо ваш пристрій SPDIF не підтримує Dolby Digital, можливо, ви не почуєте звук.</string>
+    <string name="audio_optical_checked_dolby">Dolby Digital виводиться через SPDIF. HDMI забезпечує стереозвук.</string>
+    <string name="audio_optical_checked_dolby_plus">Dolby Digital Plus виводиться через SPDIF. HDMI забезпечує стереозвук.</string>
+    <string name="audio_optical_unchecked_description">Якщо ваш пристрій SPDIF не підтримує Dolby Digital, можливо, ви не почуєте звук.</string>
+    <string name="audio_optical_unchecked_dolby">Виберіть для увімкнення Dolby Digital через SPDIF. HDMI забезпечує стереозвук.</string>
+    <string name="audio_optical_unchecked_dolby_plus">Виберіть для увімкнення Dolby Digital Plus через SPDIF. HDMI забезпечує стереозвук.</string>
+    <string name="audio_output_title">Вивід звуку</string>
+    <string name="audio_pane_title">Звук</string>
+    <string name="audio_pcm_stereo">PCM Стерео</string>
+    <string name="audio_pcm_stereo_checked">PCM Стерео виводиться через SPDIF</string>
+    <string name="audio_pcm_stereo_unchecked">Виберіть для увімкнення PCM Стерео</string>
+    <string name="audio_surround_sound_title">Об’ємний звук</string>
+    <string name="auto">Авто</string>
+    <string name="auto_launch_disable_text">Немає типових значень</string>
+    <string name="auto_launch_enable_text">Цей додаток запускається за замовчуванням для деяких дій</string>
+    <string name="auto_launch_label">Запуск за замовчуванням</string>
+    <string name="auto_reblock_ac_title">Тайм-аут сеансу</string>
+    <string name="billing_cycle_label">Початок платіжного циклу:</string>
+    <string name="billing_cycle_value_pattern">{0,ordinal} день кожного місяця</string>
+    <string name="black_curtain_question">"Ця сторінка може містити матеріали для дорослих.
+Особам до 18 років не слід розглядати цей тип
+змісту. Вам більше 18 років?"</string>
+    <string name="black_curtain_warning">Увага!</string>
+    <string name="block_adult_content_detail">Обмежити перегляд вмісту для дорослих, призначеного для користувачів старше 18 років</string>
+    <string name="block_adult_content_title">Блокувати вміст для дорослих</string>
+    <string name="bueller_about_settings">Про пристрій</string>
+    <string name="bueller_about_settings_title">Про пристрій</string>
+    <string name="bueller_account_settings_title">Обл. запис</string>
+    <string name="bueller_add_network_settings_title">Підключити до іншої мережі</string>
+    <string name="bueller_advertisements_settings">ID реклами</string>
+    <string name="bueller_amazon_account_settings_title">Обл. запис Amazon</string>
+    <string name="bueller_applications_settings">Додатки</string>
+    <string name="bueller_applications_settings_title">Додатки</string>
+    <string name="bueller_as_amazon_account">Обл. запис Amazon</string>
+    <string name="bueller_as_amazon_account_details">Скасування реєстрації пристрою в обліковому записі Amazon і нова реєстрація</string>
+    <string name="bueller_as_amazon_account_logged_in_message">Привіт, %s</string>
+    <string name="bueller_as_amazon_account_logged_out_message">Привіт, увійдіть</string>
+    <string name="bueller_as_amazon_account_option_deregister">Скасувати реєстрацію</string>
+    <string name="bueller_as_amazon_account_option_deregister_confirmation">Ваш пристрій буде відключено від вашого облікового запису Amazon. Це може видалити деякий контент з вашого пристрою, і вам буде показано форму для повторної реєстрації пристрою. Щоб видалити особисті дані, використовуйте «Скидання до заводських налаштувань» в налаштуваннях.</string>
+    <string name="bueller_as_amazon_account_option_deregister_desc">"Ваш $(pn) буде видалений з вашого облікового запису Amazon. Це видалить контент з вашого пристрою і багато функцій не працюватимуть. Щоб видалити особисті дані, використовуйте «Скидання до заводських налаштувань» в налаштуваннях. Після скасування реєстрації ви можете зареєструвати свій Fire TV в іншому обліковому записі Amazon."</string>
+    <string name="bueller_as_amazon_account_option_register">Зареєструвати</string>
+    <string name="bueller_audio_detail">Налаштування звуків навігації, об’ємного звуку Dolby Digital і поліпшень для аудіо.</string>
+    <string name="bueller_audio_settings">Звук</string>
+    <string name="bueller_audio_settings_title">Звук</string>
+    <string name="bueller_controller_settings_title">Контролер</string>
+    <string name="bueller_date_time_settings">Часовий пояс</string>
+    <string name="bueller_date_time_settings_title">Дата і час</string>
+    <string name="bueller_display_and_sounds_settings">Екран і звук</string>
+    <string name="bueller_display_and_sounds_settings_title">Екран і звук</string>
+    <string name="bueller_ethernet_settings_title">Налаштування мережі</string>
+    <string name="bueller_ethernet_static_settings_title">Оновити конфігурацію мережі</string>
+    <string name="bueller_factory_reset_settings">Скидання до заводських налаштувань</string>
+    <string name="bueller_factory_reset_settings_details">Видаліть всі особисті дані і завантажений контент з вашого $(pn)</string>
+    <string name="bueller_hide_notifications_settings">Тиха година</string>
+    <string name="bueller_language_settings">Мова</string>
+    <string name="bueller_language_settings_title">Мова</string>
+    <string name="bueller_legal_settings">Умови використання</string>
+    <string name="bueller_legal_settings_details">Перегляд угод і ліцензій</string>
+    <string name="bueller_network_settings">Мережа</string>
+    <string name="bueller_network_settings_summary_internet_down">%s: проблема з’єднання</string>
+    <string name="bueller_network_settings_title">Мережа</string>
+    <string name="bueller_rescan_network_settings_title">Оновити список</string>
+    <string name="bueller_resolution_change_cancel">Скасування (через %d сек.)</string>
+    <string name="bueller_resolution_change_confirm">Підтвердити</string>
+    <string name="bueller_resolution_change_message">Ви змінили дозвіл з %1$s на %2$s. Якщо екран відображається нормально, виберіть «Підтвердити» нижче, щоб зберегти налаштування дозволу.</string>
+    <string name="bueller_resolution_change_title">Дозвіл змінено</string>
+    <string name="bueller_resolution_fail_message">Дозвіл не може бути застосований до вашого телевізора. Будь ласка, виберіть інший дозвіл або встановіть його на «Авто», і $(pn) визначить оптимальний для вас дозвіл.</string>
+    <string name="bueller_resolution_fail_ok">ОК</string>
+    <string name="bueller_resolution_fail_title">Непідтримуваний дозвіл</string>
+    <string name="bueller_scanning_network_settings_title">Пошук…</string>
+    <string name="bueller_screensavers_detail">Персоналізуйте свою заставку: міняйте альбоми, порядок відображення, стиль та швидкість слайдів.</string>
+    <string name="bueller_screensavers_settings">Заставка</string>
+    <string name="bueller_see_all_networks_title">Перегляд всіх мереж</string>
+    <string name="bueller_system_settings">Система</string>
+    <string name="bueller_system_settings_title">Система</string>
+    <string name="bueller_time_zone_settings">Часовий пояс</string>
+    <string name="bueller_time_zone_settings_title">Часовий пояс</string>
+    <string name="bueller_video_detail">Налаштування роздільної здатності екрану, автоматичного налаштування частоти кадрів, глибини кольору і HDR.</string>
+    <string name="bueller_video_overscan">Калібрування екрану</string>
+    <string name="bueller_video_overscan_desc">Налаштуйте екран, щоб зображення і відео було повністю видно.</string>
+    <string name="bueller_video_overscan_title">Оверскан</string>
+    <string name="bueller_video_resolution">Розд. здатність екрану</string>
+    <string name="bueller_video_resolution_1080_24Hz">1080p 23.97Гц</string>
+    <string name="bueller_video_resolution_1080_50Hz">1080p 50Гц</string>
+    <string name="bueller_video_resolution_1080_60Hz">1080p 60Гц</string>
+    <string name="bueller_video_resolution_2160_50Hz">2160p 50Гц</string>
+    <string name="bueller_video_resolution_2160_60Hz">2160p 60Гц</string>
+    <string name="bueller_video_resolution_480_60Hz">480p 60Гц</string>
+    <string name="bueller_video_resolution_720_50Hz">720p 50Гц</string>
+    <string name="bueller_video_resolution_720_60Hz">720p 60Гц</string>
+    <string name="bueller_video_resolution_auto">Автоматично</string>
+    <string name="bueller_video_resolution_auto_uhd">Авто (до 4K Ultra HD)</string>
+    <string name="bueller_video_resolution_desc">Виберіть роздільну здатність, яку ви бажаєте застосувати на вашому телевізорі.</string>
+    <string name="bueller_video_resolution_title">Режим розд. здатності</string>
+    <string name="bueller_video_settings">Екран</string>
+    <string name="bueller_video_settings_no_scale_summary">%1$s без масштабування</string>
+    <string name="bueller_video_settings_summary">%1$s з %2$s</string>
+    <string name="bueller_video_settings_title">Екран</string>
+    <string name="bueller_wifi_wps_pbs_settings">Підключення WPS</string>
+    <string name="bueller_wps_pbc_title">Підключення кнопкою WPS</string>
+    <string name="bueller_wps_pin_title">Підключення WPS (СІН)</string>
+    <string name="cache_header_label">Кеш</string>
+    <string name="cache_size_label">Використовується:</string>
+    <string name="calendar_dialog_text">"Alexa може читати події у вашому календарі Google. Для початку зв’яжіть свій обліковий запис Google із Alexa в додатку Alexa. Якщо у вас немає облікового запису Google, відвідайте https://calendar.google.com, щоб створити обліковий запис.
+
+%s
+
+Примітка: Alexa докладує вам лише про події у ваших календарях. Події в календарях, якими ви ділитесь, наприклад календар свят Google, не обробляються."</string>
+    <string name="cancel">Скасувати</string>
+    <string name="captioning_preview_text">Приклад титрів</string>
+    <string name="card_push_notification_content">Застосування змін</string>
+    <string name="cec_description">"Дозволяє $(pn) надсилати сигнал увімкнення телевізора і ресівера через HDMI при виході зі сплячого режиму або при натисканні кнопки «Додому»
+
+Так само може включати в себе додаткові можливості CEC, такі як дистанційне керування $(pn) за допомогою пульта ТВ."</string>
+    <string name="cec_description_margo">"Дозволяє телевізору керувати підключеними пристроями HDMI з підтримкою CEC за допомогою пульта телевізора.
+
+Відтворення, навігація і вмикання/вимикання живлення можуть бути виконані за допомогою одного пульта телевізора."</string>
+    <string name="cec_title">Управління HDMI CEC</string>
+    <string name="check_network_status_text">Перевірка стану мережі</string>
+    <string name="check_network_status_text_content_desc">Натисніть кнопку «Пауза/Відтворення», щоб перевірити стан мережі.</string>
+    <string name="check_network_status_text_either_remote_or_game_controller">Перевірка стану мережі</string>
+    <string name="check_network_status_text_either_remote_or_game_controller_content_desc">Натисніть кнопку «Пауза/Відтворення» або лівий джойстик, щоб перевірити стан мережі.</string>
+    <string name="cinema_mode_settings_description">"Коли увімкненно функцію «Автоналаштування частоти», додатки, що підтримуються, будуть використовувати власну частоту кадрів вмісту під час відтворення відео.
+
+Роздільна здатність екрану має бути також встановлена на «Автоматично»."</string>
+    <string name="cinema_mode_settings_title">Автоналаштування частоти</string>
+    <string name="clear_cache_btn_text">Очистити кеш</string>
+    <string name="clear_data_dlg_text">Усі дані цього додатку буде видалено назавжди. Зокрема всі файли, налаштування, облікові записи, бази даних тощо.</string>
+    <string name="clear_data_dlg_title">Видалити дані додатку?</string>
+    <string name="clear_user_data_text">Очистити дані</string>
+    <string name="closed_caption_option_details">Показувати субтитри для відео, якщо вони доступні.</string>
+    <string name="closed_caption_option_title">Субтитри</string>
+    <string name="closed_caption_settings_details">Показувати субтитри для відео, якщо вони доступні.</string>
+    <string name="closed_caption_settings_title">Субтитри</string>
+    <string name="closed_caption_text">Текст</string>
+    <string name="closed_caption_text_background">​​Фон тексту</string>
+    <string name="closed_caption_window_background">​​Фон вікна</string>
+    <string name="color_depth_8_bits">8 біт</string>
+    <string name="color_depth_8_bits_change_message">Ви змінили глибину кольору на 8 біт. Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="color_depth_8_bits_checked">Використовується 8-бітова глибина кольору</string>
+    <string name="color_depth_8_bits_unchecked">Виберіть для увімкнення 8-бітної глибини кольору</string>
+    <string name="color_depth_change_title">Глибина кольору змінена</string>
+    <string name="color_depth_desc">Виберіть глибину кольору для вашого TV</string>
+    <string name="color_depth_title">Глибина кольору</string>
+    <string name="color_depth_upto_10_bits">До 10 біт</string>
+    <string name="color_depth_upto_10_bits_change_message">Ви змінили глибину кольору до 10 біт. Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="color_depth_upto_10_bits_checked">Використовується глибина кольору до 10 біт.
+Якщо ваш телевізор не підтримує 10-бітові кольори, екран може не відображатися належним чином.</string>
+    <string name="color_depth_upto_10_bits_unchecked">Виберіть для увімкнення 10-бітної глибини кольору.
+Якщо ваш телевізор не підтримує 10-бітові кольори, екран може не відображатися належним чином.</string>
+    <string name="color_depth_upto_12_bits">До 12 біт</string>
+    <string name="color_depth_upto_12_bits_change_message">Ви змінили глибину кольору до 12 біт. Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="color_depth_upto_12_bits_checked">Використовується глибина кольору до 12 біт.
+Якщо ваш телевізор не підтримує 12-бітові кольори, екран може не відображатися належним чином.</string>
+    <string name="color_depth_upto_12_bits_unchecked">Виберіть для увімкнення 12-бітної глибини кольору.
+Якщо ваш телевізор не підтримує 12-бітові кольори, екран може не відображатися належним чином.</string>
+    <string name="color_format_auto">Автоматично</string>
+    <string name="color_format_auto_change_message">Ви змінили палітру кольорів на «Автоматично». Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="color_format_auto_checked">Fire TV визначає палітру кольорів автоматично</string>
+    <string name="color_format_auto_unchecked">Виберіть, щоб Fire TV встановив палітру кольорів автоматично.</string>
+    <string name="color_format_change_title">Палітру кольорів змінено</string>
+    <string name="color_format_desc">Виберіть палітру кольорів для вашого телевізора</string>
+    <string name="color_format_rgb">RGB</string>
+    <string name="color_format_rgb_change_message">Ви змінили палітру кольорів на RGB. Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="color_format_rgb_checked">Палітра кольорів: RGB</string>
+    <string name="color_format_rgb_unchecked">Виберіть для використання палітри кольорів RGB.
+Якщо ваш телевізор не підтримує цю палітру, ваш екран може відображатися неправильно.</string>
+    <string name="color_format_title">Палітра кольорів</string>
+    <string name="color_format_ycbcr">YCbCr</string>
+    <string name="color_format_ycbcr_change_message">Ви змінили палітру кольорів на YCbCr. Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="color_format_ycbcr_checked">Палітра кольорів: YCbCr</string>
+    <string name="color_format_ycbcr_unchecked">Виберіть для використання палітри кольорів YCbCr.
+Якщо ваш телевізор не підтримує цю палітру, ваш екран може відображатися неправильно.</string>
+    <string name="connect">ПІДКЛЮЧИТИСЯ</string>
+    <string name="content_description_category_icon">Значок категорії</string>
+    <string name="content_rating_adults_only">Рейтинг %1$s Тільки для дорослих</string>
+    <string name="content_rating_not_rated">Без рейтингу</string>
+    <string name="content_rating_rated">Рейтинг %1$s</string>
+    <string name="context_menu_header_loading">ЗАВАНТАЖЕННЯ</string>
+    <string name="context_menu_header_options">ОПЦІЇ</string>
+    <string name="continue_label">Продовжити</string>
+    <string name="data_alert_allocate_hint">ГБ</string>
+    <string name="data_alert_allocate_prompt">Встановіть ліміт даних (в ГБ) для вашого $(pn)</string>
+    <string name="data_alert_change_details">Встановіть ліміт споживання даних для Fire TV з вашого тарифу. Fire TV повідомить вас, коли ліміт даних буде перевищено.</string>
+    <string name="data_alert_confirm_label">Підтвердження</string>
+    <string name="data_alert_confirm_subtext_1">Ви отримаєте повідомлення на екрані, коли ваш $(pn)</string>
+    <string name="data_alert_confirm_subtext_2">"%1$s витратить %2$s ГБ.
+"</string>
+    <string name="data_alert_confirm_text">"Ви отримаєте повідомлення на екрані, коли ваш $(pn) витратить %1$s ГБ.
+"</string>
+    <string name="data_alert_data_allocate_error">Введіть дійсний номер</string>
+    <string name="data_alert_data_date_error">Введіть коректну дату</string>
+    <string name="data_alert_date_error">Введіть коректну дату</string>
+    <string name="data_alert_date_prompt">Введіть день початку для вашого щомісячного рахунку на Інтернет</string>
+    <string name="data_alert_settings_pref_detail">"Отримуйте попередження на екрані, коли споживання даних $(pn) досягає 90%% і 100%% від встановленої межі.
+
+ПРИМІТКА: це тільки для інформації - споживання даних не блокується після досягнення 100%%."</string>
+    <string name="data_alert_settings_pref_title">Встановити сповіщення</string>
+    <string name="data_alert_setup_confirm">Підтвердити</string>
+    <string name="data_alert_setup_details">Встановіть ліміт даних для Fire TV на основі вашого щомісячного плану доступу в Інтернет. Fire TV повідомить вас, коли ваш ліміт даних буде досягнуто.</string>
+    <string name="data_alert_submit_error_message">Сталася помилка. Будь ласка, спробуйте ще раз.</string>
+    <string name="data_alert_used_label">Використано</string>
+    <string name="data_monitor_data_alert_change_settings_title">Змінити Сповіщення про дані</string>
+    <string name="data_monitor_data_alert_settings_title">Сповіщення про дані</string>
+    <string name="data_monitor_settings">Контроль даних</string>
+    <string name="data_monitor_settings_detail">Контроль споживання даних на вашому $(pn)</string>
+    <string name="data_monitor_settings_title">Контроль даних</string>
+    <string name="data_monitor_video_quality_settings_best">Найкраща</string>
+    <string name="data_monitor_video_quality_settings_best_details">Перегляд 1 години використовує до X ГБ вашого тарифного плану.</string>
+    <string name="data_monitor_video_quality_settings_better">Висока</string>
+    <string name="data_monitor_video_quality_settings_better_details">Перегляд 1 години використовує до X ГБ вашого тарифного плану.</string>
+    <string name="data_monitor_video_quality_settings_good">Середня</string>
+    <string name="data_monitor_video_quality_settings_good_details">Перегляд 1 години використовує до X ГБ вашого тарифного плану.</string>
+    <string name="data_monitor_video_quality_settings_title">Встановити якість відео</string>
+    <string name="data_monitoring_app_usage_settings_title">Використання даних додатками</string>
+    <string name="data_monitoring_data_alert_change_settings_title">Сповіщення про зміну даних</string>
+    <string name="data_monitoring_data_alert_settings_title">Сповіщення про дані</string>
+    <string name="data_monitoring_data_alert_setup_settings_title">Встановити Сповіщення про дані</string>
+    <string name="data_monitoring_pref_name">Контроль даних</string>
+    <string name="data_monitoring_settings_detail">Контроль споживання даних на вашому $(pn)</string>
+    <string name="data_monitoring_settings_title">Контроль даних</string>
+    <string name="data_monitoring_video_quality_settings_best">Найкраща</string>
+    <string name="data_monitoring_video_quality_settings_best_details">Найкраща якість потокового відео. Споживає багато інтернет-даних.</string>
+    <string name="data_monitoring_video_quality_settings_better">Висока</string>
+    <string name="data_monitoring_video_quality_settings_better_details">Висока якість потокового відео. Зберігає інтернет-дані шляхом потокової передачі на більш низьких швидкостях.</string>
+    <string name="data_monitoring_video_quality_settings_good">Середня</string>
+    <string name="data_monitoring_video_quality_settings_good_details">Середня якість потокового відео. Зберігає інтернет-дані за рахунок потокової передачі з меншою швидкістю і мінімізує кешування</string>
+    <string name="data_monitoring_video_quality_settings_title">Встановити якість відео</string>
+    <string name="data_size_label">Дані:</string>
+    <string name="data_unit_gb">ГБ</string>
+    <string name="data_unit_kb">КБ</string>
+    <string name="data_unit_mb">МБ</string>
+    <string name="date">Дата</string>
+    <string name="datetime_tweleve_hr">"d MMMM ’у’ h:mm a"</string>
+    <string name="datetime_twentyfour_hr">"d MMMM ’у’ kk:mm"</string>
+    <string name="default_browser_details">Виберіть браузер за замовчуванням</string>
+    <string name="default_browser_title">Браузер за замовчуванням</string>
+    <string name="deny_permission_text">ЗАБОРОН.</string>
+    <string name="details_video_description_setting">Цей параметр регулює гучність описової доріжки щодо звичайної доріжки для всіх ефірних каналів. Якщо є, буде відтворена описова звукова доріжка і звичайна звукова доріжка.</string>
+    <string name="dev_options">Налаштування розробника</string>
+    <string name="dev_options_details">Увімкнути ADB-з’єднання по мережі</string>
+    <string name="development_settings_title">Параметри розробника</string>
+    <string name="device_connected">Підключено</string>
+    <string name="discovered_remote_control_name">Пульт Fire TV</string>
+    <string name="discovered_remote_description">Готовий до з’єднання</string>
+    <string name="display_quick_settings">Налаштування екрану</string>
+    <string name="display_quick_settings_description">Налаштування параметрів зображення</string>
+    <string name="dns1_prompt">Введіть DNS 1</string>
+    <string name="dns2_prompt">Введіть DNS 2</string>
+    <string name="dolby_digital">Dolby Digital</string>
+    <string name="dolby_digital_plus">Dolby Digital Plus</string>
+    <string name="dolby_off">Dolby ВИМК</string>
+    <string name="drive_detected_text">Перевірка сумісності диска… Будь ласка, зачекайте.</string>
+    <string name="drive_detected_title">USB-диск вставлено</string>
+    <string name="drive_formatting_complete_text">Ваш USB-диск готовий до використання.</string>
+    <string name="drive_formatting_complete_title">Форматування завершено</string>
+    <string name="drive_mounted_as_device_text">USB-пристрій готовий до використання.</string>
+    <string name="drive_mounted_as_device_title">Виявлено USB-пристрій</string>
+    <string name="drive_mounted_as_external_text">Fire TV не може зберігати додатки на цьому USB-пристрої.</string>
+    <string name="drive_mounted_as_external_title">Обмежене використання</string>
+    <string name="drive_mounted_full_text">На підключеному диску немає вільного місця.</string>
+    <string name="drive_mounted_text">При необхідності %1$s вільного місця буде автоматично використовуватися для встановлення додатків.</string>
+    <string name="drive_mounted_title">USB-диск вставлено</string>
+    <string name="drive_removed_text">Тепер ви можете безпечно витягти USB-диск з вашого $(pn)</string>
+    <string name="drive_removed_title">USB-диск витягто</string>
+    <string name="drive_unsafe_removal_text">Щоб правильно витягти USB-диск, перейдіть в %1$s > USB-диск в меню «Налаштування».</string>
+    <string name="drive_unsafe_removal_title">Несподіване відключення</string>
+    <string name="eject">Витягти</string>
+    <string name="eject_label">Витягти</string>
+    <string name="eject_progress_title">Витяг USB-диска. Будь ласка, зачекайте…</string>
+    <string name="enable_adb">Налагодження ADB</string>
+    <string name="enable_adb_summary">Увімкніть, щоб використовувати підключення ADB через мережу.
+
+Попередження: це дозволить будь-якому користувачеві у вашій мережі встановлювати додатки з ненадійних джерел.</string>
+    <string name="enable_adb_usb">Налагодження USB</string>
+    <string name="enable_adb_usb_summary">"Увімкніть, щоб використовувати підключення ADB через USB для цього циклу живлення.
+
+Попередження: увімкнення цієї функції зробить USB-аксесуари недоступними."</string>
+    <string name="enable_advertising_details_text">"Якщо ви відмовитеся від реклами на основі інтересів, додатки будуть проінструктовані не використовувати рекламний ідентифікатор для створення профілів в рекламних цілях або націлювання на рекламу на основі інтересів на цьому пристрої.
+
+Рекламний ідентифікатор - це ідентифікатор, що скидається та який можна використовувати для створення профілів або показу реклами на основі інтересів."</string>
+    <string name="enable_advertising_summary">"Якщо ви відмовитеся від реклами на основі інтересів, додатки будуть проінструктовані не використовувати рекламний ідентифікатор для створення профілів в рекламних цілях або націлювання на рекламу на основі інтересів на цьому пристрої.
+
+Рекламний ідентифікатор - це ідентифікатор, що скидається та який можна використовувати для створення профілів або показу реклами на основі інтересів."</string>
+    <string name="enable_advertising_title">Реклама на основі інтересів</string>
+    <string name="enable_airplane_mode">Відключити Wi-Fi</string>
+    <string name="enable_airplane_mode_confirmation">Так, відключити</string>
+    <string name="enable_airplane_mode_summary">Увімкніть, щоб відключити бездротове радіо. Зверніть увагу, що всі бездротові аксесуари (пульти Fire TV, ігрові контролери та аксесуари Bluetooth) будуть відключені. Перезавантаження необхідне для повторного увімкнення бездротового зв’язку.</string>
+    <string name="enable_airplane_mode_warning">Все бездротові аксесуари, включаючи Fire TV Remote і Fire Game Controller, не працюватимуть, якщо ви продовжите. Fire TV необхідно перезавантажити, щоб відновити працездатність бездротового пульта.</string>
+    <string name="enable_unknown_sources">Невідомі джерела додатків</string>
+    <string name="enable_unknown_sources_summary">"Дозволити установку додатків не з Appstore.
+
+Увімкніть цю опцію, якщо ви встановлюєте додатки з надійних джерел в якості розробника."</string>
+    <string name="enable_unknown_sources_warning">Коли ви використовуєте додатки з невідомих джерел, ваш $(pn) і особисті дані стають менш безпечними і існує ризик неочікуваної поведінки. Ви погоджуєтеся з тим, що несете повну відповідальність за будь-який збиток для вашого пристрою або втрату даних, які можуть виникнути в результаті використання цих додатків.</string>
+    <string name="error_app_title">Помилка отримання статистики використання даних. Повторіть спробу пізніше</string>
+    <string name="esn_title">Netflix ESN</string>
+    <string name="esn_wait_message">Не вдається отримати номер Netflix ESN, спробуйте ще раз.</string>
+    <string name="ethernet_gateway_no_route">Шлюз мережі не збігається з IP-адресою.</string>
+    <string name="ethernet_ip_settings_invalid_dns">Вкажіть правильну адресу DNS.</string>
+    <string name="ethernet_ip_settings_invalid_gateway">Вкажіть правильну адресу шлюзу.</string>
+    <string name="ethernet_ip_settings_invalid_ip_address">Вкажіть правильну IP адресу.</string>
+    <string name="ethernet_ip_settings_invalid_network_prefix_length">Вкажіть префікс мережі (від 0 до 32 символів).</string>
+    <string name="external_total_size_label">USB:</string>
+    <string name="factory_reset_message">Скидання вашого $(pn) до заводських налаштувань</string>
+    <string name="factory_reset_ok">ОК</string>
+    <string name="factory_reset_text">Ви збираєтеся відновити заводські налаштування на $(pn). Ваша інформація облікового запису і особисті налаштування будуть втрачені.</string>
+    <string name="factory_reset_timer_text">Скидання до заводських налаштувань розпочнеться автоматично через %d сек.</string>
+    <string name="factory_reset_title">Скидання до заводських налаштувань</string>
+    <string name="factory_reset_yes">Скидання</string>
+    <string name="facts_dialog_text">"Ви можете задавати Alexa всілякі запитання. Спробуйте запитати про відомих людей, дати та місця.
+
+%s"</string>
+    <string name="failed_loading">Не вдається зв’язатися з нашими серверами. Будь ласка спробуйте ще раз.</string>
+    <string name="featured_content_audio_autoplay_details">Дозволити автоматичне відтворення звуку. Коли ВИМК, відео буде відтворюватися без звуку.</string>
+    <string name="featured_content_audio_autoplay_title">Дозволити автозапуск аудіо</string>
+    <string name="featured_content_details">Управління відео і аудіо в області рекомендованого контенту на головній сторінці</string>
+    <string name="featured_content_title">Рекомендації Amazon</string>
+    <string name="featured_content_video_autoplay_details">Дозволити автоматичне відтворення відео. Коли ВИМК, тільки зображення будуть відображатися.</string>
+    <string name="featured_content_video_autoplay_title">Дозволити автозапуск відео</string>
+    <string name="filter_app_dialog_title">Фільтрація встановлених додатків</string>
+    <string name="flash_briefing_dialog_text">Прослуховуйте останні персоналізовані новини, які читає Alexa та отримуйте оновлення погоди у своєму Flash-брифінгу. Ви можете налаштувати свій Flash-брифінг у додатку Alexa.</string>
+    <string name="force_stop">Зупинити</string>
+    <string name="forget_button">Забути</string>
+    <string name="forget_confirm">Натисніть «ОК» щоб забути %s</string>
+    <string name="forget_confirm_dhcp">Натисніть «ОК» для підтвердження скасування постійного IP</string>
+    <string name="forget_text">[MENU] Видалити цю мережу</string>
+    <string name="format_as_private_description">Виберіть цю опцію, якщо ви бажаєте, щоб Fire TV використовував цей USB-диск для зберігання додатків. Після форматування цей USB-диск може використовуватися тільки цим Fire TV. Весь контент на цьому USB-диску буде вилучений під час форматування.</string>
+    <string name="format_as_public_description">Виберіть цю опцію, якщо ви зберігаєте вміст, відмінний від додатків, і хочете використовувати цей USB-диск на іншому пристрої. Весь контент буде вилучений під час форматування.</string>
+    <string name="format_complete_dialog_text">Ваш USB-диск відформатовано Тепер ви можете використовувати його для передачі даних на $(pn).</string>
+    <string name="format_complete_dialog_title">Форматування завершено</string>
+    <string name="format_confirmation_adaptable_cancel">Ні</string>
+    <string name="format_confirmation_adaptable_dialog_text">Весь контент на цьому USB-диску буде видалено</string>
+    <string name="format_confirmation_adaptable_dialog_title">Продовжити?</string>
+    <string name="format_confirmation_adaptable_yes">Так</string>
+    <string name="format_confirmation_cancel">Скасувати</string>
+    <string name="format_confirmation_dialog_text">Попередження! Всі дані на USB-диску будуть видалені. Продовжити?</string>
+    <string name="format_confirmation_dialog_title">Підтвердження</string>
+    <string name="format_confirmation_erase">Форматувати USB-диск</string>
+    <string name="format_dialog_text">"$(pn) форматує USB-диск.
+Це може зайняти деякий час."</string>
+    <string name="format_dialog_title">Форматування USB-диска</string>
+    <string name="format_drive_adaptable_text">"Підключений USB-диск має файлову систему, що не підтримується. $(pn) може відформатувати його в одну з двох файлових систем. Зверніть увагу, що весь контент на ньому буде втрачений під час форматування.
+
+Зовнішнє сховище: виберіть цей параметр для зберігання контенту, що відмінний від додатків. USB-диск буде відформатований в FAT32, що дозволить використовувати його в іншому місці.
+
+Пам’ять пристрою: виберіть цей варіант, якщо ви збираєтеся зберігати додатки на цьому USB-диску. Після форматування USB-диск можна використовувати тільки на цьому $(pn)."</string>
+    <string name="format_drive_adaptable_title">Не можна прочитати USB-пристрій</string>
+    <string name="format_drive_as_device_storage">Пам’ять пристрою</string>
+    <string name="format_drive_as_external_storage">Зовнішнє сховище</string>
+    <string name="format_drive_dialog_cancel_button">Нічого не робити</string>
+    <string name="format_drive_ok">Формат USB-диска</string>
+    <string name="format_drive_text">"Підключений USB-диск має несумісну файлову систему.
+Щоб продовжити, $(pn) повинен відформатувати диск в FAT32.
+
+Попередження: це видалить ВСІ дані на вашому USB-диску."</string>
+    <string name="format_drive_title">Проблема з USB-диском</string>
+    <string name="format_error_text">Вибачте, виникла проблема з підключенням USB-диска. Якщо питання залишається невирішеним, спробуйте інший диск.</string>
+    <string name="format_error_title">Помилка USB-диска</string>
+    <string name="gateway_prompt">Введіть адресу шлюзу</string>
+    <string name="guest_mirroring_detail">"Дозвольте іншим мобільним пристроям дублювати екран на вашому $(pn), зробивши його доступним для виявлення по Wi-Fi.
+
+Це називається Бездротовий дисплей, Трансляція екрану або Miracast на вашому мобільному пристрої."</string>
+    <string name="guest_mirroring_settings">Увімкнути Miracast™</string>
+    <string name="hdmi_automatic">Автоматично</string>
+    <string name="hdr_setting_adaptive">Адаптивно</string>
+    <string name="hdr_setting_adaptive_change_message">Ви змінили налаштування HDR з «Завжди HDR»» на «Адаптивно»». Якщо ваш екран виглядає задовільно, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="hdr_setting_adaptive_desc">Формат відповідає початковому динамічному діапазону вмісту</string>
+    <string name="hdr_setting_change_title">Налаштування динамічного діапазону змінені</string>
+    <string name="hdr_setting_desc">Виберіть налаштування динамічного діапазону, які ви хочете застосувати до вашого $(pn).</string>
+    <string name="hdr_setting_forced">Завжди HDR</string>
+    <string name="hdr_setting_forced_change_message">Ви змінили налаштування динамічного діапазону з «Адаптивно» на «Завжди HDR». Якщо ваш екран виглядає добре, виберіть «Підтвердити», щоб зберегти це налаштування.</string>
+    <string name="hdr_setting_forced_desc">Відображати весь контент в режимі HDR на телевізорах, що підтримуються</string>
+    <string name="hdr_setting_title">Налаштування HDR</string>
+    <string name="high_contrast_text_settings_details">Змінює текст на чорний або білий і додає рамку</string>
+    <string name="high_contrast_text_settings_title">Контрастний текст</string>
+    <string name="hud_apps_library_button_text">Додатки</string>
+    <string name="hud_apps_library_description">Відкрити бібліотеку додатків</string>
+    <string name="hud_debug_button_text">Розробник</string>
+    <string name="hud_mirroring_button_text">Miracast™</string>
+    <string name="hud_mirroring_description">Зробити $(pn) доступним для дублювання екрану</string>
+    <string name="hud_settings_button_text">Налаштування</string>
+    <string name="hud_settings_description">Відкрити меню налаштувань Fire TV</string>
+    <string name="hud_sleep_button_text">Режим сну</string>
+    <string name="hud_sleep_description">Надіслати $(pn) в сон (пробудження клавішею)</string>
+    <string name="hud_volume_description">Використовуйте L2 і R2 для регулювання гучності</string>
+    <string name="imdb_rating_content_description">Рейтинг IMDB %1$s з 10</string>
+    <string name="input_device_settings_details">Підключайте, відключайте і керуйте іншими пристроями Bluetooth, такими як гарнітури, звукові панелі, пульти, клавіатури і миші.</string>
+    <string name="input_device_settings_pref">Інші пристрої Bluetooth</string>
+    <string name="installed_applications_title">Керування додатками</string>
+    <string name="ipaddress_prompt">Введіть IP-адресу</string>
+    <string name="label_no">Ні</string>
+    <string name="label_yes">Так</string>
+    <string name="language_detail_text">За допомогою кнопок виберіть %1$s</string>
+    <string name="language_settings_details">Виберіть іншу мову системи</string>
+    <string name="language_settings_title">Мова</string>
+    <string name="launch_application_btn_text">Запустити додаток</string>
+    <string name="launcher_app_title">Fire TV Home</string>
+    <string name="launcher_preference_title">FTV Home</string>
+    <string name="limited_device_access_text">"Ваш USB-диск використовує файлову систему, несумісною з додатками $(pn). Щоб використовувати цей диск для додатків, він повинен бути відформатований.
+
+Хочете, щоб $(pn) відформатував його? Весь вміст USB-диска буде стерто під час форматування."</string>
+    <string name="limited_device_access_title">Обмежений доступ до пристрою</string>
+    <string name="list_separator">,</string>
+    <string name="live_mini_detail_air_date_label">Дата ефіру:</string>
+    <string name="live_mini_detail_airing_time">%1$s - %2$s</string>
+    <string name="live_mini_detail_up_next_label">Наступний:</string>
+    <string name="location_text">Місце знаходження</string>
+    <string name="manage_permissions_text">Перегляд і управління дозволами додатків</string>
+    <string name="margo_audio_settings">Виберіть спосіб виведення звуку через динаміки телевізора, HDMI або SPDIF</string>
+    <string name="margo_digital_audio_format_settings">Цифровий аудіоформат</string>
+    <string name="margo_hdmi_audio_settings">HDMI ARC</string>
+    <string name="margo_optical_audio_settings">SPDIF</string>
+    <string name="marketing_setting_alert_desc">"Мы используем данные об использовании вами этого устройства, чтобы предоставлять индивидуальные маркетинговые предложения, которые вам могут понравиться, и улучшать наши продукты и услуги для всех пользователей. Вы можете отказаться от использования нами личных данных, собранных операционной системой этого устройства, для этих целей, отключив этот параметр.
+
+ "&lt;b>"Отключение этого параметра не повлияет на:
+"&lt;/b> <li>"способность использовать функции этого устройства, так как мы будем продолжать собирать и обрабатывать ваши данные для предоставления вам этих функций;
+"</li> <li>"получение вами маркетинговых предложений, хотя эти предложения могут быть менее значимыми для вас; или
+"</li> <li>"обработку данных, связанных с использованием вами сервисов Amazon, таких как Prime Video, на этом устройстве.
+"</li>" "</string>
+    <string name="marketing_setting_alert_title">Дані про використання</string>
+    <string name="measuring">Вимірювання</string>
+    <string name="mini_detail_amazon_rating">( %1$s )</string>
+    <string name="mini_detail_imdb_rating">%1$s/10</string>
+    <string name="mini_detail_known_for_constant">Відомий за:</string>
+    <string name="mini_detail_new_recording_number">(%1$ s нов.)</string>
+    <string name="mini_detail_season_constant">Сезон %1$d</string>
+    <string name="mini_detail_tv_season_episode_constant">Сезон %1$d, серія %2$d</string>
+    <string name="move_to_internal">Перемістити на карту пам’яті</string>
+    <string name="move_to_internal_label">Переміщення в пам’ять</string>
+    <string name="move_to_usb">Перемістити на USB-диск</string>
+    <string name="move_to_usb_label">Переміщення на USB-диск</string>
+    <string name="name_seperator">", "</string>
+    <string name="network_add_details">Вкажіть свій SSID, тип безпеки і введіть пароль.</string>
+    <string name="network_confirm_wifi">"Назва мережі: %1$s
+Безпека: %2$s"</string>
+    <string name="network_confirm_wifi_full">"Назва мережі: %1$s
+Безпека: %2$s
+IP-адреса: %3$s
+Шлюз: %4$s
+Довжина префікса: %5$s
+DNS 1: %6$s
+DNS 2: %7$s"</string>
+    <string name="network_details_internet_down">%s з проблемами</string>
+    <string name="network_ethernet_details_dhcp">За бажанням: Натисніть «ОК» для ручного налаштування вашого з’єднання Ethernet</string>
+    <string name="network_ethernet_details_static">"IPV4-адреса:		%1$s
+Шлюз:		%2$s
+Маска:		%3$s
+DNS 1:		%4$s
+DNS 2:		%5$s"</string>
+    <string name="network_ethernet_details_unassinged">Натисніть «ОК» для ручного налаштування вашого з’єднання Ethernet</string>
+    <string name="network_ethernet_details_unplug_wifi">Для підключення до Wi-Fi вимкніть мережевий кабель</string>
+    <string name="network_ethernet_details_unplugged">Будь ласка, підключіть ваш мережевий кабель.</string>
+    <string name="network_ethernet_format">Локальна мережа (%s)</string>
+    <string name="network_ethernet_title">Локальна мережа</string>
+    <string name="network_forget_text">" Від’єднатися від цієї мережі"</string>
+    <string name="network_forget_text_content_desc">Натисніть кнопку Меню, щоб від’єднатися від цієї мережі.</string>
+    <string name="network_not_connected">"%1$s
+(Від’єднано)"</string>
+    <string name="network_password_text">Введіть пароль для %1$s</string>
+    <string name="network_password_text_no_ssid">Введіть пароль</string>
+    <string name="network_prefix_length_prompt">Введіть довжину префікса мережі</string>
+    <string name="network_rescan_details">Оновити список доступних мереж Wi-Fi</string>
+    <string name="network_see_all_networks_detail">Дивіться повний список виявлених мереж Wi-Fi</string>
+    <string name="network_settings_details">Змінити налаштування бездротової або дротової мережі</string>
+    <string name="network_settings_title">Доступні мережі</string>
+    <string name="network_static_dns1_title">DNS1:</string>
+    <string name="network_static_dns2_title">DNS2:</string>
+    <string name="network_static_gateway_title">Шлюз:</string>
+    <string name="network_static_ip_address_title">IP-адреса:</string>
+    <string name="network_static_prefix_length_title">Маска мережі:</string>
+    <string name="network_status_text">[PLAY] Перевірка стану мережі</string>
+    <string name="network_status_text_either_remote_or_game_controller">[PLAY] / L3 Перевірка стану мережі.</string>
+    <string name="network_status_text_game_controller">L3 Перевірка стану мережі.</string>
+    <string name="network_status_text_game_controller_content_desc">Натисніть лівий джойстик, щоб перевірити стан мережі.</string>
+    <string name="network_wifi_security_open">Відкрити</string>
+    <string name="network_wifi_security_wep">WEP</string>
+    <string name="network_wifi_security_wpa">WPA</string>
+    <string name="network_wifi_security_wpa1_2">WPA/WPA2</string>
+    <string name="network_wifi_security_wpa2">WPA2</string>
+    <string name="network_wifi_title">Мережа</string>
+    <string name="network_wps_display_details">Підключіться до мережі Wi-Fi, вказавши PIN-код на своєму роутері.</string>
+    <string name="network_wps_pbc_details">Підключіться до мережі Wi-Fi за допомогою кнопки WPS на маршрутизаторі.</string>
+    <string name="no_network_security">Без шифрування</string>
+    <string name="non_member_amazon_account_settings_title">Обл. запис Amazon: Вхід / Реєстрація</string>
+    <string name="notification_settings_detail">Вимкніть всі спливаючі повідомлення або блокуйте / розблокуйте повідомлення від певних додатків</string>
+    <string name="notification_settings_title">Налаштування повідомлень</string>
+    <string name="notifications_settings_off_details">Увімкніть, щоб приховати всі повідомлення додатку.</string>
+    <string name="notifications_settings_on_details">Вимкніть, щоб отримувати всі повідомлення додатку.</string>
+    <string name="ok">OK</string>
+    <string name="other_app_title">Система Fire TV</string>
+    <string name="other_dialog_text">"Використовуйте ці команди в будь-який час.
+
+%s"</string>
+    <string name="pair_game_controller_description">Виберіть цю опцію для пошуку нового ігрового контролера</string>
+    <string name="pair_game_controller_pref">Додати новий контролер</string>
+    <string name="pair_input_device_description">Додавання пультів Bluetooth, мишей і клавіатур.</string>
+    <string name="pair_input_device_pref">Додати пристрій</string>
+    <string name="pair_pairing_input_device">З’єднання з пристроєм…</string>
+    <string name="pair_pairing_remote">З’єднання з пультом…</string>
+    <string name="pair_pairing_thunder">З’єднання з контролером…</string>
+    <string name="pair_remote_description">Виберіть цю опцію для пошуку нового пульта</string>
+    <string name="pair_remote_pref">Додати новий пульт</string>
+    <string name="pair_searching_amazon_game_controller_no_name">Ігровий контролер Amazon Fire TV</string>
+    <string name="pair_searching_amazon_remote_app_no_name">Віддалене керування Amazon Fire TV</string>
+    <string name="pair_searching_amazon_remote_no_name">Пульт Amazon Fire TV</string>
+    <string name="pair_searching_cancel">Скасувати</string>
+    <string name="pair_searching_gamepad_no_name">Ігровий контролер</string>
+    <string name="pair_searching_input_device">Пошук пристроїв Bluetooth…</string>
+    <string name="pair_searching_input_device_cancel">Скасування додавання нового пристрою введення</string>
+    <string name="pair_searching_input_device_found">​Виберіть цей пристрій введення зі списку для під’єднання до  Amazon Fire TV.</string>
+    <string name="pair_searching_input_device_message">"Зверніться до документації вашого пристрою Bluetooth для отримання інструкцій про те, як зробити його доступним для виявлення.
+
+Після виявлення оберіть комунікатор зі списку зліва."</string>
+    <string name="pair_searching_input_device_no_name">Пристрій введення</string>
+    <string name="pair_searching_remote">Пошук пульта…</string>
+    <string name="pair_searching_remote_cancel">Скасування додавання нового пульта</string>
+    <string name="pair_searching_remote_found">Натисніть «ОК» на вашому &lt;b>&lt;i>"старому"&lt;/i>&lt;/b> пульті для підтвердження додавання нового.</string>
+    <string name="pair_searching_remote_message">Натисніть і утримуйте ${pairingTimeout} сек. на &lt;b>&lt;i>\"новому\"&lt;/i>&lt;/b> пульті.&lt;br/>&lt;br/>Як тільки пульт буде виявлений, він з’явиться в списку.</string>
+    <string name="pair_searching_remote_message_content_desc">Натисніть і утримуйте кнопку «Додому» ${pairingTimeout} сек. на новому пульті. Як тільки пульт буде виявлений, він з’явиться в списку.</string>
+    <string name="pair_searching_thunder">Пошук контролерів…</string>
+    <string name="pair_searching_thunder_cancel">Скасування додавання нового контролера</string>
+    <string name="pair_searching_thunder_found">​​Виберіть цей контролер зі списку для під’єднання до вашого $(pn)</string>
+    <string name="pairing_failed_message">Спробуйте під’єднати %s в налаштуваннях ще раз</string>
+    <string name="pairing_failed_title">Під’єднати не вдалося</string>
+    <string name="parental_controls_settings_detail">Обмежити доступ до відео, покупок і певного типу контенту.</string>
+    <string name="parental_controls_settings_detail_dozer">Обмежити доступ до додатків та покупок</string>
+    <string name="parental_controls_settings_title">Батьківський контроль</string>
+    <string name="pcm">PCM</string>
+    <string name="pcm_stereo">PCM Стерео</string>
+    <string name="permission_location_checked_details">"Дозволити %1$s отримати доступ до вашого розташування?
+
+Натисніть «ОК» для заборони"</string>
+    <string name="permission_location_unchecked_details">"Дозволити %1$s отримати доступ до вашого розташування?
+
+Натисніть «ОК» для дозволу"</string>
+    <string name="permission_not_required_text">Цей додаток в даний час не потребує будь-яких дозволів.</string>
+    <string name="permission_storage_checked_details">"Дозволити %1$s отримати доступ до вашого сховища?
+
+Натисніть «ОК» для заборони"</string>
+    <string name="permission_storage_unchecked_details">"Дозволити %1$s отримати доступ до вашого сховища?
+
+Натисніть «ОК» для дозволу"</string>
+    <string name="permission_title">Права доступу</string>
+    <string name="picture_quick_settings">Налаштування зображення</string>
+    <string name="picture_quick_settings_description">Налаштування зображення залежать від входу. Виберіть параметри зображення, які необхідно налаштувати, зі списку.</string>
+    <string name="pipe">|</string>
+    <string name="play_button_content_description">Кнопка «Відтворення»</string>
+    <string name="power_on_launch_quick_settings">Кнопка «Живлення»</string>
+    <string name="power_on_launch_quick_settings_description">Змінити поведінку кнопки «Живлення»</string>
+    <string name="press_to">Натисніть</string>
+    <string name="press_to_learn_more">Дізнатися більше</string>
+    <string name="privacy_setting_alert_cancel">Скасувати</string>
+    <string name="privacy_setting_alert_learn_more">Дізнатися більше</string>
+    <string name="privacy_setting_alert_turn_off">Вимкнути</string>
+    <string name="privacy_settings_details">Управління налаштуваннями конфіденційності</string>
+    <string name="privacy_settings_marketing_details">Використання особистих даних, зібраних операційною системою цього пристрою, з метою маркетингу і поліпшення продукту.</string>
+    <string name="privacy_settings_marketing_title">Дані про використання</string>
+    <string name="privacy_settings_title">Налаштування приватності</string>
+    <string name="quicksettings_orientation_text">Швидкі налаштування. Містить ярлики додатків, дублювання екрану і налаштувань.</string>
+    <string name="quicksettings_usage_hint_remote_text">Використовуйте Вправо і Вліво для переміщення між елементами.</string>
+    <string name="rating_samr_13">13+</string>
+    <string name="rating_samr_16">16+</string>
+    <string name="rating_samr_18">18+</string>
+    <string name="rating_samr_7">7+</string>
+    <string name="rating_samr_all">Всі</string>
+    <string name="rating_samr_nr">NR</string>
+    <string name="reinstall_apps_text">Щоб відновити всі встановлені додатки на USB-диску, просто підключіть його знову.</string>
+    <string name="remote_battery_bad">Низький заряд</string>
+    <string name="remote_battery_good">OK</string>
+    <string name="remote_battery_offline">Відсутня</string>
+    <string name="remote_battery_online">Встановлена</string>
+    <string name="remote_connect">Натисніть «ОК» для підключення</string>
+    <string name="remote_control_new">Використовувати новий пульт</string>
+    <string name="remote_control_old">Використовувати старий пульт</string>
+    <string name="remote_control_progress_connecting">Пристрій підключається</string>
+    <string name="remote_control_progress_disconnecting">Пристрій відключається</string>
+    <string name="remote_control_settings_details">Підключіть, вимкніть і оновіть пульт дистанційного керування Amazon Fire TV.</string>
+    <string name="remote_control_settings_pref">Пульти Fire TV</string>
+    <string name="remote_control_settings_title">Підключені пульти</string>
+    <string name="remote_count_title">%1$s %2$s</string>
+    <string name="remote_disconnect">Натисніть «ОК» для відключення</string>
+    <string name="remote_game_controllers_settings_pref">Ігрові контролери</string>
+    <string name="remote_game_controllers_settings_title">Підключені контролери</string>
+    <string name="remote_pairing_dialog_dismiss">ОК</string>
+    <string name="remote_pairing_dialog_title">Розкладка клавіш</string>
+    <string name="remote_pending">В очікуванні</string>
+    <string name="remote_shortcuts"> Переглянути розкладку клавіш</string>
+    <string name="remote_shortcuts_content_desc">Натисніть кнопку X, щоб побачити розташування клавіш</string>
+    <string name="remote_type_amazon_game_controller">Ігровий контролер Amazon Fire TV</string>
+    <string name="remote_type_basic_remote">Пульт</string>
+    <string name="remote_type_game_controller">Ігровий контролер</string>
+    <string name="remote_type_headset">Гарнітура</string>
+    <string name="remote_type_keyboard">Клавіатура</string>
+    <string name="remote_type_mic">Мікрофон</string>
+    <string name="remote_type_mouse">Миша</string>
+    <string name="remote_type_remote_app">Додаток</string>
+    <string name="remote_type_speaker">Динамік</string>
+    <string name="remote_type_unknown">Невідомо</string>
+    <string name="remote_type_voice_remote">Голосовий пульт</string>
+    <string name="remote_unknown">Невідомо</string>
+    <string name="remote_unpair">Натисніть  для відключення</string>
+    <string name="remote_unpair_content_desc">Натисніть кнопку «Меню» для відключення</string>
+    <string name="remote_unpair_input_device_confirmation">Натисніть «ОК» для підтвердження відключення</string>
+    <string name="remote_unpair_remote_confirmation">Натисніть «ОК» для підтвердження відключення</string>
+    <string name="remote_unpair_thunder_confirmation">Натисніть «ОК» для підтвердження відключення</string>
+    <string name="remote_update_remote">Доступне оновлення програмного забезпечення. Натисніть «ОК» щоб почати установку</string>
+    <string name="remote_update_thunder">Доступне оновлення програмного забезпечення. Натисніть  щоб почати установку</string>
+    <string name="remote_update_thunder_content_desc">Доступне оновлення програмного забезпечення. Натисніть кнопку A щоб почати установку</string>
+    <string name="removable_applications_title">Видалити додатки</string>
+    <string name="reset_to_defaults_details">Скидання всіх налаштувань субтитрів до значень за замовчуванням</string>
+    <string name="reset_to_defaults_title">Значення за замовчуванням</string>
+    <string name="reset_your_advertising_summary">Натисніть «ОК» для скидання рекламного ID</string>
+    <string name="restart_settings_details">Перезапуск вашого $(pn)</string>
+    <string name="restart_settings_title">Перезавантаження</string>
+    <string name="retry">Повтор</string>
+    <string name="runtime_hours_content_description">%1$d г.</string>
+    <string name="runtime_minutes_content_description">%1$d хв.</string>
+    <string name="runtime_value_hour_short">г.</string>
+    <string name="runtime_value_min_short">хв.</string>
+    <string name="runtime_value_sec_short">c.</string>
+    <string name="runtime_value_whitespace"> </string>
+    <string name="screen_magnifier_settings_details">Дозволяє використовувати комбінації кнопок для збільшення екрану</string>
+    <string name="screen_magnifier_settings_title">Екранна лупа</string>
+    <string name="security_title_text">Безпека</string>
+    <string name="security_type_text">Будь ласка, виберіть тип безпеки</string>
+    <string name="session_timeout_setting_desc">Автоматично блокувати вміст для дорослих з додатків та ігор, коли ця сесія закінчується. Якщо ваш Fire TV переходить в сплячий режим, вміст для дорослих не буде доступний для перегляду після пробудження вашого пристрою.</string>
+    <string name="set">ВСТАНОВИТИ</string>
+    <string name="set_default_browser_details">Натисніть «ОК» щоб встановити браузер за умовчанням</string>
+    <string name="set_pin_dialog_desc">Для управління вмістом для дорослих необхідно встановити PIN-код Amazon Video для свого облікового запису. Перейдіть на сайт www.amazon.co.jp/PIN, щоб оновити або скинути свій PIN-код.</string>
+    <string name="set_pin_dialog_title">Встановіть свій ПІН-код</string>
+    <string name="settings_vertical_list_usage_hint_remote_text">Використовуйте Вгору і Вниз для переміщення між елементами</string>
+    <string name="show_esn_text">Показати ESN</string>
+    <string name="signal_strength_fair">Нормальний</string>
+    <string name="signal_strength_good">Хороший</string>
+    <string name="signal_strength_marginal">Поганий</string>
+    <string name="signal_strength_not_in_range">Поза доступу</string>
+    <string name="signal_strength_title_text">Рівень сигналу</string>
+    <string name="signal_strength_very_good">Відмінний</string>
+    <string name="size_label">Розмір</string>
+    <string name="size_mini_detail">%1$s з %2$s доступно.</string>
+    <string name="sleep_settings_details">Перехід $(pn) в режим сну. Для пробудження $(pn), натисніть будь-яку кнопку на пульті.</string>
+    <string name="sleep_settings_details_smart_tv">Перехід $(pn) в режим сну. Для пробудження $(pn), натисніть кнопку «Живлення» або «OK» на пульті.</string>
+    <string name="sleep_settings_title">Режим сну</string>
+    <string name="sort_app_dialog_title">Сортування додатків</string>
+    <string name="sort_data_usage">Сортування за споживанням…</string>
+    <string name="sound_quick_settings">Налаштування звуку</string>
+    <string name="sound_quick_settings_description">Утримуйте кнопку «Додому»  з будь-якого місця для доступу до налаштувань звуку, таких як режим звуку, об’ємний звук і багато іншого.</string>
+    <string name="status_unavailable">Недоступно</string>
+    <string name="storage_details">Управління USB-диском</string>
+    <string name="storage_format_as_external">Форматувати як «Зовнішнє сховище»</string>
+    <string name="storage_format_as_internal">Форматувати як «Пам’ять пристрою»</string>
+    <string name="storage_label">Сховище</string>
+    <string name="storage_status_free_space_text">Доступно:</string>
+    <string name="storage_status_space">"Загальний обсяг: %1$s
+Доступно: %2$s"</string>
+    <string name="storage_status_total_space_text">Загальний обсяг:</string>
+    <string name="storage_text">Сховище</string>
+    <string name="summary_text">Підсумок</string>
+    <string name="system_external_storage_title">Сховище USB</string>
+    <string name="system_manage_installed_apps_text">Керування додатками з Amazon Store та інших джерел</string>
+    <string name="system_manage_installed_apps_title">Керування додатками</string>
+    <string name="system_pref_alexa_weather_format">Метрична</string>
+    <string name="system_pref_alexa_weather_format_description">Відображення температури і відстані в метричних одиницях. Ви також можете налаштувати це в додатку Alexa.</string>
+    <string name="system_pref_alexa_weather_location">Місце знаходження</string>
+    <string name="system_storage_status_title">Стан сховища</string>
+    <string name="system_unmount_external_storage_text">Безпечне відключення USB-диску і підтвердження, що додатки на ньому більше не потрібні.</string>
+    <string name="system_unmount_external_storage_title">Вилучити USB-диск</string>
+    <string name="system_update_power_text">Живлення USB може бути недостатньо для оновлення системи. Ми рекомендуємо використовувати USB-кабель і адаптер живлення Amazon, що додаються, для досягнення найкращих результатів.</string>
+    <string name="system_update_power_title">Попередження про живлення від USB</string>
+    <string name="text_background_color">Колір</string>
+    <string name="text_background_opacity">Прозорість</string>
+    <string name="text_color">Колір</string>
+    <string name="text_edge_style">Стиль країв</string>
+    <string name="text_font">Шрифт</string>
+    <string name="text_opacity">Прозорість</string>
+    <string name="text_size">Розмір</string>
+    <string name="time">Час</string>
+    <string name="time_zone">Часовий пояс</string>
+    <string name="time_zone_description">%1$s (%2$s)</string>
+    <string name="time_zone_region_settings_title">Оберіть регіон</string>
+    <string name="time_zone_settings_details">Зміна параметрів часового поясу</string>
+    <string name="time_zone_settings_title">Часовий пояс</string>
+    <string name="time_zone_title">Часовий пояс</string>
+    <string name="title_video_description_setting">Звуковий опис</string>
+    <string name="top_app_current_usage">Поточне використання:</string>
+    <string name="top_app_last_month_usage">Минулого місяця:</string>
+    <string name="traffic_dialog_text">"Alexa може повідомити вам про умови дорожнього руху на щоденному маршруті. Спочатку введіть початкову точку та пункт призначення в додатку Alexa. Потім запитайте Alexa про трафік на вашому маршруті.
+
+%s"</string>
+    <string name="tv_bluetooth_title">Bluetooth</string>
+    <string name="tv_episode_air_date_identifier">Дата виходу:</string>
+    <string name="tv_everywhere_sso_title">TVE Single-Sign-On</string>
+    <string name="tv_lineout_title">Навушники</string>
+    <string name="tv_season_amzn_rating">%d</string>
+    <string name="tv_season_release_year">%d</string>
+    <string name="tv_season_selector_selected">Сезон %d</string>
+    <string name="tv_season_selector_unselected">%d</string>
+    <string name="tv_speakers_description">Використовуйте вбудовані динаміки в вашому Fire TV</string>
+    <string name="tv_speakers_off">Увімкнути динаміки ТВ</string>
+    <string name="tv_speakers_on">Вимкнути динаміки ТВ</string>
+    <string name="tv_speakers_title">Динаміки ТВ</string>
+    <string name="tv_speakers_turning_off">Вимкнення динаміків ТВ</string>
+    <string name="tv_sso_settings_details">Дозволити додатку TV Everywhere використовувати облікові дані, раніше введені в іншому додатку TV Everywhere, для автоматичного входу в систему. Відключення зажадає від вас входу в кожен додаток TV Everywhere незалежно.</string>
+    <string name="twenty_four_hour_details_text">Відображення часу на вашому $(pn) в 24-годинному форматі</string>
+    <string name="twenty_four_hour_title">24-годинний час</string>
+    <string name="uninstall_application_warning_text">%1$s буде видалено. Це видалить всі збережені додатком дані з вашого пристрою разом з додатком.</string>
+    <string name="uninstall_removed_usb_application_warning_text">"%1$s встановлено на USB-диску.
+Видалення може залишити файли на зовнішньому диску, які не будуть видалені автоматично."</string>
+    <string name="uninstall_text">Видалити</string>
+    <string name="unpair_denied_gamepad">Ви не можете відключити контролер, що використовується.</string>
+    <string name="unpair_denied_input_device">Ви не можете відключити пристрій введення, що використовується.</string>
+    <string name="unpair_denied_remote">Ви не можете відключити пульт, що використовується.</string>
+    <string name="unpair_input_device">Відключення вашого пристрою…</string>
+    <string name="unpair_remote">Відключення вашого пульта…</string>
+    <string name="unpair_thunder">Відключення вашого контролера…</string>
+    <string name="unregistered_message">Зареєструйтеся зараз зі своїм обліковим записом Amazon, щоб насолоджуватися більше ніж 7000 каналами, додатками та іграми.</string>
+    <string name="unsafe_removal_text">%1$s додатків недоступні через вилучення.</string>
+    <string name="unsafe_removal_title">Несподіване вилучення USB-диска</string>
+    <string name="update_denied">Ви повинні почати оновлення з обраного пульта</string>
+    <string name="usb_first_time_message">"Для кращої продуктивності Amazon рекомендує використовувати високошвидкісну флешку USB 3.0, 128 ГБ або менше. Рекомендовані диски можна знайти на %1$s.
+
+Примітка. Зовнішні жорсткі диски не підтримуються і можуть привести до нестабільнї поведінки."</string>
+    <string name="usb_first_time_title">Продуктивність USB-диска</string>
+    <string name="usb_storage_warning_title">Попередження USB-диска</string>
+    <string name="use_amazon_web_settings_for_amazon_video_captions_details">Керуйте налаштуваннями субтитрів на сторінці Amazon Video %s</string>
+    <string name="use_amazon_web_settings_for_amazon_video_captions_title">Налаштування Amazon Video</string>
+    <string name="version_label">Версія</string>
+    <string name="video_auto_desc_checked">Автоматичний вибір оптимальної роздільної здатності вашого телевізора</string>
+    <string name="video_auto_desc_unchecked">Виберіть, щоб автоматично вибирати оптимальну роздільну здатність вашого телевізора.</string>
+    <string name="video_auto_uhd_desc_checked">Використовувати оптимальну роздільну здатність вашого телевізора, до 4K Ultra HD.</string>
+    <string name="video_auto_uhd_desc_unchecked">Виберіть, щоб автоматично вибирати оптимальну роздільну здатність вашого телевізора, до 4K Ultra HD.</string>
+    <string name="video_auto_uhd_warning_desc_checked">"Використовувати оптимальну роздільну здатність вашого телевізора.
+
+Цей порт HDMI телевізора не підтримує HDCP 2.2. Контент буде відтворюватися в наступній кращій підтримуваній оптимальній роздільній здатності. Спробуйте підключитися до інших портів HDMI на телевізорі.
+
+Для отримання додаткової інформації про відтворення Ultra HD відвідайте %s."</string>
+    <string name="video_auto_uhd_warning_desc_unchecked">"Виберіть, щоб використовувати оптимальну роздільну здатність вашого телевізора.
+
+Цей порт HDMI телевізора не підтримує HDCP 2.2. Контент буде відтворюватися в наступній кращій підтримуваній оптимальній роздільній здатності. Спробуйте підключитися до інших портів HDMI на телевізорі.
+
+Для отримання додаткової інформації про відтворення Ultra HD відвідайте %s."</string>
+    <string name="video_description_details_high">Грати описову звукову доріжку голосніше, ніж звичайна доріжка.</string>
+    <string name="video_description_details_low">Грати описову звукову доріжку тихіше, ніж звичайна доріжка.</string>
+    <string name="video_description_details_medium">Грати описову звукову доріжку так, як і звичайна доріжка.</string>
+    <string name="video_description_details_off">Не відтворювати описову звукову доріжку.</string>
+    <string name="video_description_value_high">Вис.</string>
+    <string name="video_description_value_low">Низьк.</string>
+    <string name="video_description_value_medium">Серед.</string>
+    <string name="video_description_value_off">Вимк.</string>
+    <string name="video_overscan_bt_accept">Застосувати</string>
+    <string name="video_overscan_bt_cancel">Скасувати</string>
+    <string name="video_overscan_bt_reset">Скинути</string>
+    <string name="video_overscan_calibration_disabled_desc">Перевірте калібрування зображення для вашого телевізора.</string>
+    <string name="video_overscan_disabled_button_okay">OK</string>
+    <string name="video_overscan_disabled_text_1">Якщо ні, ваш телевізор масштабує зображення, і може блокувати частину екрану Fire TV.</string>
+    <string name="video_overscan_disabled_text_2">Щоб це виправити, налаштуйте параметри зображення на телевізорі. Цей параметр може називатися «Масштаб», «Розмір зображення», «Співвідношення сторін», «За розміром», «Повний / розмір 2», «Масштаб» або «Точка в точку».</string>
+    <string name="video_overscan_disabled_text_3_part_1">Для отримання додаткової інформації відвідайте:</string>
+    <string name="video_overscan_disabled_title">Сірі стрілки дотикаються краю вашого екрану?</string>
+    <string name="video_overscan_notset_summary">Зображення без зміни масштабу</string>
+    <string name="video_overscan_set_summary">Зменшення на %1$d%%</string>
+    <string name="video_overscan_text">Натисніть &lt;b>ВГОРУ&lt;/b> або &lt;b>ВНИЗ&lt;/b> і налаштуйте екран так, щоб стрілки були повністю видно.</string>
+    <string name="video_overscan_title">Відрегулюйте повноекранний режим на вашому телевізорі</string>
+    <string name="video_quality_settings_pref_detail_india">Управління якістю відео для Amazon Video і вибір відео додатків</string>
+    <string name="video_quality_settings_pref_detail_non_india">Управління якістю відео для Amazon Video</string>
+    <string name="video_quality_settings_pref_title">Встановити якість відео</string>
+    <string name="video_resolution_desc_checked">Поточна розд. здатність екрану %s</string>
+    <string name="video_resolution_desc_unchecked">Виберіть, щоб встановити роздільну здатність екрана $(pn) на %s.</string>
+    <string name="video_resolution_desc_warning_unchecked">"%1$s
+
+Інтерфейс $(pn) може виглядати не так гладко, якщо відображається на %2$s. Якщо у вас виникли проблеми, ми рекомендуємо використовувати режим «Авто»."</string>
+    <string name="video_resolution_uhd_desc_format">"%1$s
+
+Зверніть увагу, що це заблокує роздільну здатність екрану Fire TV, що призведе до відтворення контенту Ultra HD в %2$s."</string>
+    <string name="voice_view_settings_details">Керуйте налаштуваннями голосового помічника, такими як увімкнення та вимкнення Читання екрану, швидкістю читання та гучністю.</string>
+    <string name="voice_view_settings_title">Голосовий помічник</string>
+    <string name="warning_string">Увага</string>
+    <string name="wifi_connected">Підключено</string>
+    <string name="wifi_connecting">Під’єднання до мережі %1$s</string>
+    <string name="wifi_disabled_generic">Відключено</string>
+    <string name="wifi_disabled_network_failure">Збій мережі</string>
+    <string name="wifi_disabled_password_failure">Помилка</string>
+    <string name="wifi_display_status_available">Доступно для підключення</string>
+    <string name="wifi_error_description">Сталася неочікувана помилка. Будь ласка, спробуйте ще раз.</string>
+    <string name="wifi_error_title">Помилка Wi-Fi</string>
+    <string name="wifi_failed_add_network_message">Неможливо додати мережу Wi-Fi</string>
+    <string name="wifi_gateway">Шлюз</string>
+    <string name="wifi_invalid_password_message">Неправильний пароль Wi-Fi</string>
+    <string name="wifi_locker_delete_detail">Відключення збереження паролів Wi-Fi в Amazon назавжди видалить всі паролі, збережені в Amazon, з цього пристрою.</string>
+    <string name="wifi_locker_delete_negative">Скасувати</string>
+    <string name="wifi_locker_delete_positive">Видалити</string>
+    <string name="wifi_locker_delete_title">Видалити збережені паролі Wi-Fi?</string>
+    <string name="wifi_locker_detail">"Паролі Wi-Fi будуть збережені в Amazon, щоб допомогти вам підключити інші пристрої.
+
+Ви можете видалити збережені паролі, відключивши цю функцію. Дізнайтеся більше на amazon.com/devicesupport"</string>
+    <string name="wifi_locker_title">Зберігати паролі в Amazon</string>
+    <string name="wifi_not_in_range">Поза зоною досяжності</string>
+    <string name="wifi_not_in_range_alert">Ця мережа не може бути знайдена (поза зоною досяжності). Будь ласка, виберіть іншу доступну мережу або використовуйте «Оновити список», щоб оновити список мереж.</string>
+    <string name="wifi_remembered">Збережено</string>
+    <string name="wifi_security_none">Немає</string>
+    <string name="wifi_setup_not_connected">Відключено</string>
+    <string name="wifi_wps_pbc_text1">Натисніть кнопку Wi-Fi Protected Setup на вашому маршрутизаторі.</string>
+    <string name="wifi_wps_pbc_text2">Вона може називатися «WPS» або містити цей символ: </string>
+    <string name="wifi_wps_pbc_title">Пошук мереж Wi-Fi…</string>
+    <string name="wifilocker_enable_dialog_body">"Паролі Wi-Fi, введені на цьому пристрої, будуть збережені в Amazon, щоб допомогти вам підключити сумісні пристрої. Щоб дізнатися більше, відвідайте www.amazon.com/devicesupport.
+
+Ви можете включити або відключити цю функцію в Налаштування > Мережа > Паролі Wi-Fi"</string>
+    <string name="wifilocker_enable_dialog_title">Зберігати паролі мереж Wi-Fi в Amazon?</string>
+    <string name="wifilocker_enable_negative">Так</string>
+    <string name="wifilocker_enable_positive">Ні</string>
+    <string name="window_background_color">Колір</string>
+    <string name="window_background_opacity">Прозорість</string>
+    <string name="wireless_settings_details">Зміна налаштування Wi-Fi мережі</string>
+    <string name="wpa_psk_network">WPA/WPA2 PSK</string>
+    <string name="your_advertising_title">Ваш рекламний ідентифікатор</string>
+    <string name="accessibility_card">Доступність</string>
+    <string name="add_to_watchlist">"Додати в
+список перегляду"</string>
+    <string name="air_date">Вихід в ефір:</string>
+    <string name="air_date_format">d MMMM yyyy</string>
+    <string name="alexa_card">Alexa</string>
+    <string name="alexa_invalid_postal_code">Будь ласка, введіть 5-значний поштовий індекс.</string>
+    <string name="alexa_invalid_postal_code_a1f83g8c2aro7p">Будь ласка, введіть поштовий індекс від 6 до 8 символів.</string>
+    <string name="alexa_invalid_postal_code_a1pa6795ukmfr9">Будь ласка, введіть ваш 4-5-значний поштовий індекс.</string>
+    <string name="alexa_invalid_postal_code_a2euq1wtgctbg2">Будь ласка, введіть ваш 6-значний поштовий індекс.</string>
+    <string name="amazon_account_signup_card">Обл. запис Amazon: Вхід / Реєстрація</string>
+    <string name="amazon_device_148">Fire TV Stick</string>
+    <string name="amazon_fire_tv">Amazon Fire TV</string>
+    <string name="app_rating">Рейтинг:</string>
+    <string name="app_release_date">Дата виходу:</string>
+    <string name="app_usage_metrics_settings_smart_tv">Статистика використання додатків і ефіру</string>
+    <string name="applications_card">Додатки</string>
+    <string name="audio_auto_smart_tv">Автоматичний через HDMI</string>
+    <string name="audio_off_smart_tv">Dolby вимкнуто через HDMI</string>
+    <string name="audio_pcm_stereo_smart_tv">PCM стерео через SPDIF</string>
+    <string name="browse_album_music">"Дивитися
+альбом"</string>
+    <string name="browse_artist_music">"Дивитися
+виконавця"</string>
+    <string name="buy_episode">"Купити серію %1$d
+%2$s %3$s"</string>
+    <string name="buy_season">"Купити сезон %1$d
+%2$s %3$s"</string>
+    <string name="checked">Перевірено</string>
+    <string name="close_paren">)</string>
+    <string name="confirmation_dialog_cancel">Скасувати</string>
+    <string name="controllers_and_bluetooth_devices_card">Пульт і Bluetooth</string>
+    <string name="date_time_template">%1$s %2$s</string>
+    <string name="device_card_title">Мій Fire TV</string>
+    <string name="device_card_title_smartTv">Пристрій і додатки</string>
+    <string name="device_control_settings_card">Обладнання</string>
+    <string name="dimmer">Діммер</string>
+    <string name="director">Режисер:</string>
+    <string name="display_and_sounds_card">Екран і звук</string>
+    <string name="empty_1d_list">Цей список не містить даних</string>
+    <string name="failed_loading_title">%s тимчасово недоступно</string>
+    <string name="help_card">Підтримка</string>
+    <string name="imdb_logo_content_description">Лого IMDb</string>
+    <string name="imdb_rating">%s/10</string>
+    <string name="inputs_card">Входи</string>
+    <string name="key_label_advance">Ще</string>
+    <string name="key_label_back">Назад</string>
+    <string name="key_label_backspace">Видалити</string>
+    <string name="key_label_clear">Очистити</string>
+    <string name="key_label_first_back">Скасувати</string>
+    <string name="key_label_next">Далі</string>
+    <string name="key_label_password_hidden">"Показати
+пароль"</string>
+    <string name="key_label_password_visible">"Приховати
+пароль"</string>
+    <string name="key_label_shift_off">АБВ</string>
+    <string name="key_label_shift_on">абв</string>
+    <string name="key_label_space">Пробіл</string>
+    <string name="key_label_symbols">\#$%</string>
+    <string name="launcher_library_settings_permission_description">Отримувати повідомлення зміни налаштування бібліотеки оболонки</string>
+    <string name="launcher_library_settings_permission_label">Налаштування бібліотеки оболонки</string>
+    <string name="launcher_menu_permission_description">Доступ до меню оболонки</string>
+    <string name="launcher_menu_permission_label">Меню оболонки</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Вимкнути субтитри</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Увімкнути субтитри</string>
+    <string name="lb_playback_controls_fast_forward">Перемотка вперед</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Перемотка вперед %1$dX</string>
+    <string name="lb_playback_controls_high_quality_disable">Вимкнути високу якість</string>
+    <string name="lb_playback_controls_high_quality_enable">Увімкнути високу якість</string>
+    <string name="lb_playback_controls_more_actions">Більше дій</string>
+    <string name="lb_playback_controls_pause">Пауза</string>
+    <string name="lb_playback_controls_play">Грати</string>
+    <string name="lb_playback_controls_repeat_all">Повторити все</string>
+    <string name="lb_playback_controls_repeat_none">Без повтору</string>
+    <string name="lb_playback_controls_repeat_one">Повторити один</string>
+    <string name="lb_playback_controls_rewind">Перемотка</string>
+    <string name="lb_playback_controls_rewind_multiplier">Перемотка %1$dX</string>
+    <string name="lb_playback_controls_shuffle_disable">Вимкнути перемішування</string>
+    <string name="lb_playback_controls_shuffle_enable">Увімкнути перемішування</string>
+    <string name="lb_playback_controls_skip_next">Наступний</string>
+    <string name="lb_playback_controls_skip_previous">Попередній</string>
+    <string name="lb_playback_controls_thumb_down">Скасувати «Не подобається»</string>
+    <string name="lb_playback_controls_thumb_down_outline">Не подобається</string>
+    <string name="lb_playback_controls_thumb_up">Скасувати «Подобається»</string>
+    <string name="lb_playback_controls_thumb_up_outline">Подобається</string>
+    <string name="live_card">Live TV</string>
+    <string name="loading_watchlist">Перевірка вашого списку перегляду</string>
+    <string name="loading_with_title">Завантаження %s…</string>
+    <string name="loading_without_title">Завантаження…</string>
+    <string name="menu_button_content_description">Кнопка Меню</string>
+    <string name="mini_detail_known_for">Відомий як %s</string>
+    <string name="mini_details_year_range">%1$s - %2$s</string>
+    <string name="more_description">Ще</string>
+    <string name="more_info">Більше</string>
+    <string name="more_ways_to_watch">"Варіанти
+перегляду"</string>
+    <string name="music_videos_views">Перегляди</string>
+    <string name="music_videos_watch_on_vevo">Дивитися на Vevo</string>
+    <string name="my_account_card">Користувач</string>
+    <string name="navigator_permission_description">Доступ до меню оболонки</string>
+    <string name="navigator_permission_label">Меню оболонки</string>
+    <string name="network_card">Мережа</string>
+    <string name="network_wifi_wps_canceled">Скасовано</string>
+    <string name="network_wifi_wps_complete">WPS застосовано. Підключення до мережі…</string>
+    <string name="network_wifi_wps_connected">Підключений до мережі Wi-Fi %s</string>
+    <string name="network_wifi_wps_connection_timeout">Неможливо підключитися до мережі</string>
+    <string name="network_wifi_wps_failed_generic">Збій WPS. Будь ласка, спробуйте ще раз через кілька хвилин.</string>
+    <string name="network_wifi_wps_failed_in_progress">WPS уже застосовано, це може зайняти до двох хвилин.</string>
+    <string name="network_wifi_wps_failed_overlap">Був виявлений інший сеанс WPS. Будь ласка, спробуйте ще раз через кілька хвилин.</string>
+    <string name="network_wifi_wps_failed_timeout">Помилка з’єднання з роутером по WPS</string>
+    <string name="network_wifi_wps_failed_tkip">Налаштування безпеки бездротового роутера (TKIP) не підтримується</string>
+    <string name="network_wifi_wps_failed_wep">Налаштування безпеки бездротового роутера (WEP) не підтримується</string>
+    <string name="network_wifi_wps_onstart_pbc">Натисніть кнопку Wi-Fi Protected Setup на вашому маршрутизаторі. Вона може називатися «WPS» або містити цей символ:</string>
+    <string name="network_wifi_wps_onstart_pin">Введіть PIN %1$s на вашому Wi-Fi роутері. Налаштування може зайняти до двох хвилин.</string>
+    <string name="network_wifi_wps_pin_dialog_text">Щоб підключитися до Інтернету за допомогою PIN-коду WPS, введіть наступний PIN-код на маршрутизаторі Wi-Fi. Це налаштування може зайняти до двох хвилин.</string>
+    <string name="network_wifi_wps_pin_dialog_title">Підключити Wi-Fi за допомогою PIN-коду WPS</string>
+    <string name="notification_center_card">Повідомлення</string>
+    <string name="open_paren">(</string>
+    <string name="ownership_text_movies_own">У ВАС ВЖЕ Є ЦЕЙ ФІЛЬМ</string>
+    <string name="ownership_text_movies_rent">ОРЕНДОВАНО</string>
+    <string name="ownership_text_tv_own_season">У ВАС ВЖЕ Є ЦЕЙ СЕЗОН</string>
+    <string name="oxford_and_list_dual_terminator">" та "</string>
+    <string name="oxford_and_list_terminator">", та "</string>
+    <string name="oxford_list_separator">", "</string>
+    <string name="oxford_or_list_dual_terminator">" або "</string>
+    <string name="oxford_or_list_terminator">", або "</string>
+    <string name="play">Грати</string>
+    <string name="play_album_music">"Грати
+альбом"</string>
+    <string name="play_all_music">"Грати
+всі треки"</string>
+    <string name="play_movie">Дивитися фільм</string>
+    <string name="play_trailer">"Дивитися
+трейлер"</string>
+    <string name="poster_description">постер</string>
+    <string name="power_adapter_continue">Продовжити без адаптера</string>
+    <string name="power_ok">OK</string>
+    <string name="preferences_card">Конфігурація</string>
+    <string name="press_and_hold_for_more_options">Натисніть «ОК» для опцій</string>
+    <string name="press_hint_divider">|</string>
+    <string name="remote_game_controllers_settings_details">Під’єднання, відключення і оновлення ігрових контролерів Amazon Fire TV та інших ігрових контролерів Bluetooth.</string>
+    <string name="remote_game_controllers_settings_details_smart_tv">Під’єднання, відключення ігрових Bluetooth-контролерів</string>
+    <string name="remove_from_list">"Видалити з
+%1$s"</string>
+    <string name="remove_from_list_label">"Видалити зі
+списку"</string>
+    <string name="remove_from_recent">"Видалити з
+недавніх"</string>
+    <string name="remove_from_watchlist">"Видалити зі
+списку перегляду"</string>
+    <string name="restriction_app_launch_title">Захист запуску додатків</string>
+    <string name="restriction_description_app_launch">Чи є запуск додатків захищеним</string>
+    <string name="restriction_description_apps">Чи заблоковано запуск додатків</string>
+    <string name="restriction_description_music">Чи заблокована музика</string>
+    <string name="restriction_description_photos">Чи заблоковані фотографії</string>
+    <string name="restriction_description_purchase">Чи захищені покупки паролем</string>
+    <string name="restriction_description_video_playback">Чи є відтворення відео захищеним</string>
+    <string name="restriction_title_app_launch">Захистити паролем запуск додатків</string>
+    <string name="restriction_title_apps">Програми та ігри</string>
+    <string name="restriction_title_music">Музика</string>
+    <string name="restriction_title_photos">Фото</string>
+    <string name="restriction_title_purchases">Захист покупок</string>
+    <string name="restriction_title_video_playback">Захист перегляду відео</string>
+    <string name="resume_movie">Продовжити</string>
+    <string name="runtime_caption">Тривалість:</string>
+    <string name="runtime_value_plural_hour">г.</string>
+    <string name="runtime_value_plural_min">хв.</string>
+    <string name="runtime_value_plural_sec">с.</string>
+    <string name="runtime_value_singular_hour">г.</string>
+    <string name="runtime_value_singular_min">хв.</string>
+    <string name="runtime_value_singular_sec">с.</string>
+    <string name="set_as_screen_saver">"Встановити альбом
+як скрінсейвер"</string>
+    <string name="shuffle_album_music">"Перемішати
+Альбом"</string>
+    <string name="shuffle_all_music">"Перемішати
+всі пісні"</string>
+    <string name="similar_to_this">"Подібне
+до цього"</string>
+    <string name="sleep_timer_card">Таймер сну</string>
+    <string name="starring">Запускається:</string>
+    <string name="start_slideshow">"Почати
+слайдшоу"</string>
+    <string name="switch_off">ВИМК</string>
+    <string name="switch_on">УВІМК</string>
+    <string name="system_pref_alexa_weather_location_description">Встановіть свій поштовий індекс, щоб налаштувати погоду. Ви також можете встановити це в додатку Alexa.</string>
+    <string name="system_pref_alexa_weather_location_description_atvpdkikx0der">Встановіть свій поштовий індекс, щоб налаштувати погоду. Ви також можете встановити це в додатку Alexa.</string>
+    <string name="time_zone_details_template">"%1$s
+
+Дата
+%2$s
+
+час
+%3$s"</string>
+    <string name="title_ribbon_num_titles_format_string">%1$3d | %2$3d</string>
+    <string name="toggle_button_off">ВИМК</string>
+    <string name="toggle_button_on">УВІМК</string>
+    <string name="turn_off">Вимкнути</string>
+    <string name="turn_on">Увімкнути</string>
+    <string name="twelve_hour_hud_time_format">h</string>
+    <string name="twenty_four_hour_hud_time_format">HH</string>
+    <string name="twenty_four_hour_key">24-годинний формат</string>
+    <string name="ui_library_version">Target API 25 drop for app upgrade to FOS6</string>
+    <string name="unchecked">Без позначки</string>
+    <string name="video_quality_description">Якість відео</string>
+    <string name="video_rating_description">Рейтинг для відео</string>
+    <string name="video_subtitle_description">Субтитри доступні</string>
+    <string name="watch_again">Дивитися знову</string>
+    <string name="watch_from_start">"Дивитися з
+початку"</string>
+</resources>
